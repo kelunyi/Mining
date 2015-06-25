@@ -1,0 +1,25 @@
+:
+• participate to develop and run the enterprise access governance operating model by building rules, strategy documentations and framework documentations, etc…
+• perform required tasks for the enterprise access governance function; tasks relevant to logical access management (lam) including access request, access certification, communication, and documentation of operational processes and procedures.
+• establish a strong working relationship with the various business partners in the bank to ensure the delivery of system changes and/or process changes provides value and consistency added to the user and customer experience.
+• actively participating in the systems implementation processes by providing process walk through and/or assist in writing the communication for business end users.
+qualifications:
+• must have 5 to 7 years of progressive it working experience.
+• should have 3 years of hands-on working knowledge of logical access control and provisioning tools for identity access management (iam).
+• experience with iam technologies (sailpoint identity iq [sailpoint iiq] preferred and/or sun identity manager [sun idm] and/or oracle waveset)
+• experience with new hire, change, termination and access certification processes as part of the iam framework.
+• excellent communication skills (verbal/written) in english.  the same in spanish & french is an asset.
+• excellent presentation skills.
+• excellent problem solving and troubleshooting skills.
+• experience with customer support services.
+• strong analytical skills.
+• competent to work on complex projects independently.
+• effective time management and organization skills.
+• sound knowledge of regulatory requirements.
+• experience with customer support services.
+education and accreditations:
+• cissp designation or equivalent is a nice to have, and/or working towards to one or more of designations in the security field.
+• university degree or college diploma in a related field is preferred.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

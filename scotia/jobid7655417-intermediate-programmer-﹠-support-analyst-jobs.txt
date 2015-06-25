@@ -1,0 +1,25 @@
+:
+you will troubleshoot, support analyze, design, and develop applications to support foreign exchange.
+you demonstrate strong knowledge and expertise on the (sdlc) software development life cycle.
+you will have strong application testing, integration, and implementation experience.
+you provide production support on applications, with blackberry and on-call responsibilities.
+you have expertise with development and project management methodologies. (agile, waterfall, etc)
+you are able to communicate effectively with the team and business units.
+you have strong interpersonal skills, and have a “team first” attitude.
+you prioritize effectively, managing multiple and conflicting priorities. 
+you possess and apply advanced time management skills.
+qualifications
+:
+two 
+?
+?
+years of experience programming in core java, swing, jms, jmx, javascript, ajax
+two years of database development with oracle 
+two years of experience with application support
+ 
+education:
+a recognized degree in computer science or a related discipline.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

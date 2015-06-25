@@ -1,0 +1,466 @@
+Title:Head, Insurance Technology Quality & Business Analysis Services
+Location:Mississauga, ON, CA
+Date Posted:2015-06-18
+URL:https://jobs.rbc.com/job/Mississauga-Head%2C-Insurance-Technology-Quality-&-Business-Analysis-Services-ON/274561600/
+purpose:
+
+
+partners across it and with assigned business lines to provide leadership for qa, bsa and release management. leads and manages the department to improve the quality of the software distributed to production.  responsible for all requirements gathering and documentation, test strategy, planning, execution and test environment support for all project engagements.  responsible for managing an entire team of business system analysts, quality assurance analysts and release managers.
+
+
+ 
+
+
+context
+ is 
+small to large development or maintenance projects
+ (multiple function, multiple application projects with multiple interfaces and/or 3
+rd
+ parties). 
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary  responsibilities:
+
+
+ 
+
+
+planning & strategy
+
+
+ 
+
+
+
+
+manages a team of quality assurance specialists responsible for supporting all test activities i.e. planning, execution, test environment support as well as release management for all applications within insurance technology
+
+
+manages a team of business system analyst specialists responsible for requirements elicitation and documentation following the e2e process  within insurance technology
+
+
+be a single point of accountability for the success of the bsa, qa and release management processes
+
+
+manages the execution of the qa strategy including business acceptance, user acceptance, and system integration
+
+
+drive the implementation of the bsa and qa processes and assist with the overall process improvement within rbc insurance it
+
+
+provide leadership in the creation and adherence to business systems analysis and quality assurance processes and methodologies including release management
+
+
+contribute to development and implementation of common qa governance processes and associated reporting metrics
+
+
+contribute to development and implementation of common bsa processes with continuous improvement
+
+
+benchmark application group’s qa and bsa services to best in industry organizations
+
+
+establish and drive strategic and tactical departmental initiatives and plans
+
+
+partner with requirements coe, qa coe, pre-production services and other qa groups within rbc
+
+
+assumes a management role across it and the business units by creating and executing a strategy for maintaining and promoting methodologies and tools for requirements gathering, testing, release management
+
+
+researches emerging trends/best practices and determines implications of proposed methodologies on meeting business unit strategy
+
+
+leads/directs the software automation effort by identifying applications that will benefit from automation and develop/implement test cases
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and business partners using a variety of techniques and collaboration from initiation to close
+
+
+facilitates complex group meetings and conducts information gathering sessions
+
+
+prepares and delivers presentations to business and technology partners, senior management and executives, selecting the appropriate approach based on the audience
+
+
+resolves conflicts/issues and escalates others as appropriate
+
+
+
+
+
+
+manages the operations with 3
+rd
+ party vendors
+
+
+
+
+ 
+
+
+managerial excellence
+
+
+
+
+sets direction and vision for the team
+
+
+defines team’s deliverables, content and quality metrics
+
+
+ensures team has adequate training, consulting and tools to deliver objectives
+
+
+provides expertise, direction, coaching and development to build the team capability
+
+
+manages performance, reward and recognition
+
+
+establishes succession plan for key positions, including own
+
+
+selects & builds a high performing diverse team that leverages individual capabilities & strengths
+
+
+promotes a mindset for sustained success, growth and diversity
+
+
+spearheads and guides people through changes
+
+
+continually enhances own skills and builds knowledge in all aspects of the organization, the business and information systems
+
+
+
+
+ 
+
+
+how time will be allocated
+ (percent):
+
+
+ 
+
+
+
+
+documentation, communication and governance – 20%
+
+
+resource management and development – 25%
+
+
+work program management – 35%
+
+
+tactical and strategic planning - 20%
+
+
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+incumbent will manage a team of 5-7 managers
+
+
+incumbent  will be  responsible  for  managing/overseeing  10-12  large (of 1m or greater each) and  complex  (high testing risk) application projects or  50 or  more  small or medium size projects
+
+
+provide requirements, testing and release activities for all development, maintenance and infrastructure projects
+
+
+
+
+
+
+fte/contractors – 35-60
+
+
+provides signoff for high risk projects; releasing tested applications to production – able to determine risk and impact of distributions
+
+
+incumbent has authority to raise quality issues to protect the production environment and negotiate with all parties to resolve problems
+
+
+oversees test progress status for  area of concerns, including recommendations for changes
+
+
+responsible for all bsa and qa aspects within their vertical  
+
+
+manages and prioritizes all responsibilities effectively
+
+
+promotes quality, speed to market and cost-effectiveness
+
+
+partners with requirements coe, qa coe and other senior qa managers to ensure quality control process, artefacts and activities are contributing to the overall value-added process/vision. 
+
+
+
+
+ 
+
+
+key organization relationships
+
+
+
+
+reports to: svp, insurance technology
+
+
+partners include: bsa managers, bsa team members, technical writers, qa managers, qa team members, application development/maintenance teams, business representatives and test facility teams
+
+
+
+
+ 
+
+
+position requirements/specifications 
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+professional with experience on multiple projects with multiple interfaces and/or 3
+rd
+ parties
+
+
+university degree
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+testing tools
+
+
+testing approaches/methodologies
+
+
+
+
+
+
+quality controls
+
+
+
+
+
+
+communication skills
+
+
+
+
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+business line(s)’ business applications/ processes.
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+relevant technology
+
+
+it standards, methodologies and audit requirements
+
+
+
+
+ 
+
+
+people management knowledge
+
+
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+mississauga
+ 
+
+
+address:
+  
+88 queens quay w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+senior manager/director
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+07/06/2015
+ 
+
+
+req id:
+  
+92126
+
+
+posting notes:  
+n/a
+
+

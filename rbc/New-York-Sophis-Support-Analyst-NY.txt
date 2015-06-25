@@ -1,0 +1,120 @@
+Title:Sophis Support Analyst
+Location:New York, NY, US
+Date Posted:2015-06-20
+URL:https://jobs.rbc.com/job/New-York-Sophis-Support-Analyst-NY/268988400/
+purpose
+
+
+the   of this role is to provide senior front-line support of the sophis product for various desks within capital markets. this encompasses functions within front office, risk management, finance accounting, and operations. the support role will collaborate and interact with various business groups in dealing with production issues and provide day-to-day operations support for sophis.  the support function provides 24 hour support across all time zones.
+
+
+ 
+
+primary responsibilities
+
+
+
+
+directly support sophis end users in apac, emea and amrs
+
+
+maintain a stable environment to ensure maximum uptime of trading systems.
+
+
+configuration management and release of software to dev, qa, uat and production environments.
+
+
+production acceptance testing of new software rollouts and updates.
+
+
+update all stakeholders on open issues.
+
+
+logging of support issues and system problems
+
+
+close out issues and respond to end users requests in a timely fashion
+
+
+liaise with the internal development team and the sophis vendor to resolve support issues
+
+
+understand and follow escalation procedures within a support environment.
+
+
+follow procedures with the change management guidelines of the bank.
+
+
+
+
+ 
+
+key relationships
+
+
+ 
+
+
+clear and consistent communication to stakeholders
+
+broader sophis team (support, dev, qa, ba, and pm)
+
+infrastructure
+
+
+ 
+
+education &/or experience
+
+
+
+
+must have a bachelor’s of science degree or equivalent
+
+
+prior in-depth experience in supporting large-scale, enterprise-wide, global trading systems, with at least 5 years of support experience. sophis experience is a must – familiarity with similar systems, such as calypso and murex will help.
+
+
+familiarity with both windows and unix platforms.
+
+
+knowledge of one or more programming or scripting languages (e.g. perl, python, vb script, unix shells).
+
+
+solid knowledge of sql and database, with experience and good understanding of database concepts (sybase, oracle and/or ms sql).
+
+
+knowledge of messaging systems (tibco ems, mq) .
+
+
+understanding of build and deployment management.
+
+
+
+
+*li-ac
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors. 
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+posting notes:  
+sf:efc; sf:jb
+ 
+
+

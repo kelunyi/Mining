@@ -1,0 +1,32 @@
+:
+1.  responsible to deliver a broad range of information security consulting services to lines of business, technical support and operating groups in the scotiabank group, including subsidiaries and affiliates, where appropriate. leverage current standards, industry best practices and the expertise of others within is&c to deliver, wherever possible, standard solutions to common information security issues.
+ 
+2.  responsible for functionally managing direct reports and or technical teams in the areas of information security.
+- provides counselling and coaching
+- recruits qualified resources for projects
+- develops departmental capability to exploit technology and develop expertise to meet future business requirements
+- ensures succession planning for all critical positions
+3.  responsible for building and maintaining a strong working relationship with peers/management within the business lines.
+- partnering with stakeholders/teams to translate business strategies/requirements and identify appropriate solutions to deliver on objectives
+ 
+4.  manage the budgeting processes and quality improvement activities for his/her department and/or projects.
+- interprets, applies and monitors return on parameters and performance indicators for all new initiatives supported by the area
+- may be required to work with project management, business analysis and finance resources to ensure appropriate financial management of projects and operations
+- interprets and implements continuous improvement process for production issues to ensure the effective and timely resolution of problems and knowledge transfer
+5.  meet scheduled milestones to ensure project/program objectives are met in a timely manner.
+- ensures the timely development and/or implementation of solutions
+- actively facilitate problem resolution, in anticipation of production problems.
+qualifications:
+• minimum 5 years of work experience managing individuals or leading project teams.
+• minimum 5 years of hands-on technical working experience in information security
+• minimum 7 years of hands-on technical working experience in a highly technical, architecture related field
+• highly respected both internally and externally as a technology expert with strong leadership and facilitation skills
+• has demonstrated the ability to influence senior management at the vp level.
+• proven expertise in the design and implementation of information security technology in a large heterogeneous environment.
+• strong background in identity management technology and processes including provisioning, directory services, web access management and federation.
+education and accreditations:
+• university degree in a computer science/related field or relevant work experience.
+• certifications in cissp, cisa, cism and/or sans is an asset.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

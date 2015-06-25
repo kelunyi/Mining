@@ -1,0 +1,20 @@
+:
+you consult and apply expertise for purchased and/or internal solution. 
+you specialize in soa and limited domains.
+you are accountable for the technical delivery and implementation of information technology projects.
+you develop viable solutions and options mapped to the technology roadmap.
+you collaborate with enterprise and infrastructure architects, along with infrastructure groups to map non-functional requirements to cost.
+you provide expertise and coaching to project teams concerning application design, development and testing
+you analyze areas of risks during the project and mitigate recommendations (ex. poc proposals).
+you review design documents produced by the development team.
+you are an active contributor to the architectural repository of best practices, standards and patterns
+you own the solution architecture and security design document as a collaborative effort involving the solution architecture and enterprise architecture groups
+qualifications:
+10 years of experience working as a technical lead on complex technical projects or architecture related assignments
+10 years of experience with j2ee/soa/integration design patterns. 
+project development methodologies (agile, scrum, rup, waterfall) and application architecture specifically through delivery of end to end solutions.  network security including ssl, encryption, certificates, authentication, authorization, audit, sso, proxies, web service appliances, firewalls, data confidentiality, integrity, non-repudiation-of-origins
+education and accreditations:
+post-secondary education in computer science, math, or related discipline.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

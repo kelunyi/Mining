@@ -1,0 +1,23 @@
+:
+1.  participate in initiatives and projects driven by various business lines. guide project and delivery managers to design and establish sound information security practices, ensuring that key artifacts such as security design documents, threat/risk assessments and data classifications are in place and that risk is effectively managed.
+2.  where required by risk, lead due diligence reviews over third party outsourcing partners to ensure that their security posture aligns with the bank and industry best practice. work with the relationship owner and the 3rd party to create and track an action plan for remediation of issues.
+3.  provide first line subject matter expert advice on pervasive bank's information security standards, policies and processes, information security world class standards and major regulations in the industry.
+liaise with internal and external security teams, local and international, and participate in reviews that pertain to compliance with bank and regulatory it security controls and guidelines.
+4.  work with our business line partners to assess risk and avoid deviations to bank standards; where possible, identifying secure solutions. when unavoidable, escalate deviations or risk acceptance requests through the vp or ciso.
+5.  ability to meet deadlines for multiple assignments and adapt quickly to changing priorities.
+qualifications:
+• must have strong understanding and have a minimum of 5 years of working experience providing consultation with it security controls/mechanisms and threat/risk assessment techniques pertaining to complex data, application and networking environments.
+• must have knowledge of it industry security & controls best practices and frameworks such as iso and cobit.
+• must have advanced verbal and written communication skills in english, especially report writing and presentation abilities.
+• must independently manage assignments to completion, ensuring line management is aware of potential issues. 
+• must be professional and confident when interacting with peers and those in higher positions both in the bank and with external outsourcing partners and vendors.
+• must be able to travel and have a valid passport.
+• should have sound knowledge of security software (such as acf2 and active directory); unix and windows operating systems with emphasis on security features; one or more of the following databases - oracle, db2, sybase, sql server; and network security components (such as firewalls, routers, intrusion detection, anti-virus software).
+• strong skills in microsoft office suite of products - excel, powerpoint + visio.
+• an asset to have strong knowledge of regulatory guidelines related to the financial industry such as the office of the superintendent of financial institutions (osfi) and payment card industry data security standard (pci dss).
+education and accreditations:
+• must have one of these accreditations in good standing: cisa / cissp.
+• must have successfully completed post-secondary education.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

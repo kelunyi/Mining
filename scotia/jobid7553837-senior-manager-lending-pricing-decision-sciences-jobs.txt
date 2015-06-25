@@ -1,0 +1,58 @@
+:
+•
+ 
+provide subject matter expertise on statistical modelling activities, such as: product pricing models, product usage models, product and customer attrition models, and customer lifetime value modelling.
+•
+ 
+ensure that the bank's investment in statistical models is maintained through the development of model performance tracking systems. 
+•
+ 
+develop processes and procedures to ensure that model development is efficient and conducted in a timely fashion.
+•
+ 
+support product pricing initiatives by identifying and developing new models to support pricing analytic. 
+•
+ 
+ensure that campaign designs leverage the application of the models and are appropriate for the development of new models.
+•
+ 
+expand the bank's competency in statistical modelling by identifying industry best practices and staying current on emerging trends in the field. 
+•
+ 
+develop processes and procedures to ensure that model development is efficient and conducted in a timely fashion.
+•
+ 
+identify data gaps with respect to model building within the edw environment and lead projects to acquire such information. 
+•
+ 
+manage a team of statisticians and develop their skills accordingly. recruit and train new staff as required.   
+qualifications:
+•
+ 
+must be able to interpret and consolidate large amounts of information in actionable recommendations. uses sound judgment in the creation of the work plan, analysis, validation, interpretation and presentation of findings.
+•
+ 
+expert of statistical model development, such as acquisition and usage models, time series analysis. 
+•
+ 
+excellent communication skills. must be able to translate complex technical information to non-technical staff and mediate and build consensus between business lines and group treasury. 
+•
+ 
+strong knowledge financial services products and features, especially credit cards, day-to-day banking and insurance.  
+•
+ 
+working knowledge of retail banking product profitability.
+•
+ 
+strong sas and sql programming skills (including sas macro programming, and knowledge of ms-office products (word, excel, powerpoint and access). .
+•
+ 
+strong knowledge of retail banking products
+education:
+•
+ 
+masters or phd in mathematics, statistics or a related discipline.  
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

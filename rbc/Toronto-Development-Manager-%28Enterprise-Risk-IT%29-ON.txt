@@ -1,0 +1,283 @@
+Title:Development Manager (Enterprise Risk IT)
+Location:Toronto, ON, CA
+Date Posted:2015-06-18
+URL:https://jobs.rbc.com/job/Toronto-Development-Manager-%28Enterprise-Risk-IT%29-ON/274492700/
+purpose
+
+
+lead and oversee a team of technical resources responsible for the design and implementation of applications used in enterprise risk.
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities
+
+
+
+
+lead by example, setting a high standard of integrity, work ethic, and quality
+
+
+set a development agenda that aggressively delivers value to our business sponsors
+
+
+complete ownership of applications, including strategy, communication and financials
+
+
+work with peers to establish and maintain an effective technology landscape for enterprise risk it
+
+
+drive adherence to required processes and standards and ensure that all required documentation is accurate and up to date
+
+
+responsible for management of relationships with relevant software vendors, consulting companies and other parts of rbc
+
+
+ensure that employees understand rbc vision, as well as support and reinforce targeted behaviours that contribute to rbc goals
+
+
+set direction and vision for the team with respect to the functions of our sponsors and within the overall department objectives
+
+
+manage staff. provide focus and clarity in establishing individual goals, drive performance management, support career development and reward strong performance
+
+
+
+
+key relationships
+
+
+
+
+reports to “director, enterprise risk it”
+
+
+business partners: enterprise risk
+
+
+technology partners: other application development teams and infrastructure partners within technology & operations, rbc
+
+
+
+
+experience (to enter position):
+
+
+
+
+required: demonstrated leadership ability of a technology team
+
+
+required: minimum 5 years practical experience with large enterprise application development and/or support
+
+
+required: minimum 5 years of people management experience
+
+
+required: minimum 5 years of experience with the following technologies:
+
+
+
+
+unix/linux and shell
+
+
+java and j2ee
+
+
+relational databases like ms sql server, oracle
+
+
+
+
+
+
+required: experience with the following technologies:
+
+
+
+
+spring, tomcat, jboss
+
+
+job schedulers like autosys or tidal
+
+
+
+
+
+
+required: experience in working with offshore teams
+
+
+required: experience working with and managing 3
+rd
+ party vendors
+
+
+preferred: experience in the financial services industry
+
+
+
+
+education
+
+
+
+
+required: university degree, preferably graduate in computer science or mathematics
+
+
+preferred: completion of certification such as the canadian securities course or similar experience.
+
+
+
+
+systems knowledge
+
+
+
+
+required: knowledge of it standards, methodologies, project life cycle and audit requirements.
+
+
+
+
+business knowledge
+
+
+
+
+general knowledge of factors affecting business
+
+
+tends in the marketplace / technology.
+
+
+preferred: experience in the financial services industry
+
+
+preferred: knowledge risk capital, credit risk, market risk
+
+
+
+
+working conditions 
+
+
+
+
+occasional travel and work in pressurised situations.
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+20 king st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+05/18/2015
+ 
+
+
+req id:
+  
+92081
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

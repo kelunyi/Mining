@@ -1,0 +1,33 @@
+:
+• providing technical architectural designs solutions / reviews for major business application and technology initiatives focusing on web / internet systems (i.e. web servers, web designs, internet protocols, and internet security).
+• presenting work for review in structured walkthrough presentations of application systems to/with project team members and users during various stages of the development process.
+• manage, analyze and present performance and capacity management functions to enterprise architect and other solutions architects in information technology & solutions (it&s) on all systems supported.
+• acting as an internal consultant on all infrastructure related items, while participating in all phases of the project development life cycle.
+• provide background information on all matters, as well as opinion and the effect of proposed actions to the manager to assist him / her in making decisions. in this aspect, the incumbent cooperates with the manager in making joint decisions.
+• communicate to the bank’s senior management on occasion as a representation of the department regarding customer communication platform solutions. 
+• mentoring and coaching other team members on technical issues.
+• assisting in the documentation of system test strategies, and the execution of the tests. assists with development activities as assigned.
+• providing suggestions for viable solutions to systems problems of high complexity.
+• investigating, analyzing and resolving system problems during standard working hours and assigned on-call hours.
+• escalating and/or reporting system problems to management as per the documented escalation procedures.
+qualifications:
+• minimum 7+ years of proven hands-on it working experience with an emphasis on all aspects of the systems software life cycle, including waterfall and agile software development models.
+• 4-5 years of working experience in consulting or corporate systems development environments or equivalent is desirable.
+• extensive knowledge and experiences working with web-based information technology design principles, large-scale system integrations, sdlc and pm methodologies and architectural best practices .
+• may lead a team on a daily basis ensuring that they adhere to the department’s strategy and assist in their growth as an employee. 
+• excellent verbal and written communication skills are essential in english.  spanish is an asset and highly desirable.
+• excellent leadership and organizational skills.
+• demonstrated technical subject matter expert such as:
+1. extensive java ee software development & support experiences for websphere and/or jboss (minimum 5 years), preferably supporting collection systems.
+2. extensive oracle, windows sql server development & support experiences (minimum 5 years).
+3. capability to program in java, .net.
+4. experiences with aix \ windows server \ redhat linux \ websphere \ os400 operating system\software knowledge is desirable.
+5. experiences with sap, business objects enterprise, as/400, db/2 and rpg is desirable but not required.
+6. prior experience and knowledge of current collection system technologies and predictive dialer technologies (e.g aspect, avaya).
+7. experience in it infrastructure library (itil) based support environment is an asset.
+education and accreditations:
+• undergraduate degree in computer science or technical equivalent.
+• technical designations an asset (e.g. mcse, itil)
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

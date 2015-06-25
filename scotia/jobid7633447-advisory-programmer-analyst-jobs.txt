@@ -1,0 +1,45 @@
+:
+1. thoroughly analyzes technical problems and implements solutions for multiple projects
+ 
+2. support other development areas implementing integration solutions - provides technical expertise, guidance, advice and knowledge transfer to all staff on all aspects of integration and integration tools.
+3. help to identify problems and contribute to standards and best practices
+4. keeps current on rapidly changing technology.
+5. may be required to provide after-hours support to assist with problem resolution and meet project timelines.
+6. pager rotation is mandatory.
+7 may be required to work with other teams within the organization or vendors.
+8 build and maintain healthy relationship with peers.
+qualifications:
+the following skills are mandatory:
+1) excellent interpersonal and communication skills in order to effectively liaise with business users, members of project team, technology partners and internal technical support teams.
+2) in-depth knowledge and experience with a procedural programming language, java, sql, unix operating system/scripting/commands, xml
+3) in-depth knowledge of db2 or another database (experience developing sql or designing and supporting databases) 
+4) in-depth knowledge of sdlc methodology.
+5) understanding of file transfer protocols and processes, e.g. ftp, sftp, connect:direct, pgp encryption
+6) experience with change management and version control, clearcase is preferred
+7) knowledge and understanding of web services 
+8) effective time management and organization skills with the ability to use diplomacy, judgment, and persuasion to secure agreement and co-operation from support areas and the project team.
+9) experience in developing etl processes.
+10) experience in writing/creating/updating technical documents.
+11) experience in batch job/process scheduling.
+the following skills are desirable:
+1) experience with an esb tool (preferably iway service manager or ibm websphere esb)
+2) experience with and etl tool (preferably iway data migrator)
+3) good knowledge of retail banking products and services
+4) familiarity with soapui and xmlspy
+5) very good understanding of current it practices and systems development techniques
+6) knowledge of unicentre and uml
+7) experience with soa (service oriented architecture), websphere, mqueue, communication networks
+8) experience with rational suite, visio, powerpoint, excel, hp quality centre & qtp
+9) experience with event driven programming concepts
+10) experience in re-engineering legacy processes/systems.
+11) experience in mentoring jr. technical staff.
+12) exposure to data modelling, & data architecture
+13) exposure to data warehousing application
+education and accreditations:
+bachelor’s degree in computer science or related field
+other information:
+work standard hours but may have to work additional hours to meet project deadlines.  provide on-call support for application and infrastructure implementations.  must be fluent in english, oral and written, with excellent interpersonal, communication and negotiation skills in order to build consensus, exercise diplomacy and obtain cooperation from strategic technology partners, other technology support groups, business users and management.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

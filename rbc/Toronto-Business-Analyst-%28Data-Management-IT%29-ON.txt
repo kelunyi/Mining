@@ -1,0 +1,433 @@
+Title:Business Analyst (Data Management IT)
+Location:Toronto, ON, CA
+Date Posted:2015-06-20
+URL:https://jobs.rbc.com/job/Toronto-Business-Analyst-%28Data-Management-IT%29-ON/256034200/
+purpose:
+
+
+liaise with business and it partners to analyze and document requirements and recommend solutions that meet stakeholder needs. work with project management, development and qa teams to plan, build and test solutions. support business and partner it teams to test, enhance and effectively use the solution.
+
+
+context: 
+small to large development or maintenance projects
+ (application with multiple interfaces, data management and enrichment features).
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+business analysis
+
+
+
+
+liase with business partners on new initiatives (small to large of varying complexity).
+
+
+participates in creation of logical and physical data models related to banking and capital markets products.
+
+
+leads detailed requirement phases identifying, tracking, escalating and/or resolving business systems issues.
+
+
+
+
+
+
+assesses, researches, analyzes and documents sponsor/stakeholder needs in accordance with project life cycle and cmm deliverables utilizing reporting tools, requirements.  identifies, tracks and resolves business systems issues.
+
+
+recommends business solutions that satisfy sponsor/stakeholder needs continually exploring and assessing options for value-add for clients.
+
+
+together with project manager, determines best mix of development, interfacing applications, to meet business requirements and project objectives.
+
+
+ensures adequate documentation and training.
+
+
+contributes to successful project completion within budget and on time by identifying risks and developing/recommending mitigation strategies.
+
+
+
+
+ 
+
+
+planning & testing
+
+
+
+
+develops detailed plans and accurate estimates for completion of requirements and acceptance phases of projects
+
+
+assists in the development and execution of test plans including the support of qa when required.
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and business partners using a variety of techniques and collaboration from initiation to close.
+
+
+facilitates small to large meetings and conducts information gathering sessions
+
+
+prepares and delivers proposed solutions to business partners and senior management, selecting the appropriate approach based on the audience. 
+
+
+resolves conflicts/issues of medium complexity and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+ 
+
+
+position requirements/ specifications: 
+
+
+·        
+behavioral competencies
+ (for superior performance)
+
+
+
+
+achievement motivation
+
+
+breakthrough thinking
+
+
+business acumen
+
+
+ability to multi-task and work with changing priorities.
+
+
+customer insight
+
+
+dealing with ambiguity
+
+
+strategic influencing
+
+
+teamwork & cooperation
+
+
+analytical thinking
+
+
+work with geographically distributed teams
+
+
+
+
+ 
+
+
+people management responsibilities:
+
+
+
+
+change leadership
+
+
+developing others
+
+
+service provider mindset
+
+
+
+
+ 
+
+
+education/experience (to enter position)
+
+
+·        degree in computer science, business technology or a related field. or degree in accounting
+
+
+·        cbap or business analysis certification is definitely an asset.
+
+
+·        minimum 3 years as business analyst or business system analyst.
+
+
+ 
+
+
+ 
+
+
+process knowledge
+
+
+
+
+requirements methods: interviewing, data modeling, business process modeling, business object modeling and user interface design
+
+
+different requirement methodologies: methodology of object orientation, use cases, unified modeling language, agile methodologies and traditional waterfall approach
+
+
+software development life cycle processes
+
+
+quality controls
+
+
+cost/benefit analysis & alternatives identification
+
+
+communication skills
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+accounting (ledger posting) processes is an asset.
+
+
+finance technical terms such as balanced transaction, credit, debit, p/l, account hierarchies, ledger and sub-ledger among others
+
+
+broad understanding of risk management
+
+
+broad understanding of capital markets or wealth management
+
+
+prior banking experience
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+end user reporting tools (ms office suite)
+
+
+data base concepts and query languages
+
+
+it standards, methodologies, cmm & audit requirements (e2e, use cases, business process mapping)
+
+
+knowledge of financial products and interface systems (e.g. cgid, peoplesoft gl, egl, epm, llps, feedexpress, epm, fibrs) – nice to have
+
+
+ability to understand and design xml schemas and messages.
+
+
+
+
+ 
+
+
+people management knowledge
+
+
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+
+
+ 
+
+
+how time will be allocated:
+
+
+requirements analysis & documentation : 50%
+
+
+technical development oversight : 20%
+
+
+testing leadership : 10%
+
+
+communication : 20%
+
+
+key organizational relationships
+
+
+
+
+reports to: manager, data management it
+
+
+business partners: finance, group risk management, statutory and regulatory reporting
+
+
+technology partners: various source systems it teams
+
+
+
+
+authorities, impact, risk
+
+
+
+
+decision authority:
+
+
+scope, complexity & risk:
+
+
+sizing:
+
+
+impact:
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+04/02/2015
+ 
+
+
+req id:
+  
+85794
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

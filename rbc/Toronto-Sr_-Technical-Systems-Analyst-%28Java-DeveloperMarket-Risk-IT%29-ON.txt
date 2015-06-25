@@ -1,0 +1,241 @@
+Title:Sr. Technical Systems Analyst (Java Developer/Market Risk IT)
+Location:Toronto, ON, CA
+Date Posted:2015-06-24
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Technical-Systems-Analyst-%28Java-DeveloperMarket-Risk-IT%29-ON/275669000/
+purpose:
+
+
+the primary   of this role is to provide java technology expertise that will expand the capacity of the global market risk technology team in the area of limit monitoring and reporting.
+
+
+ 
+
+
+ 
+
+
+primary responsibilities
+
+
+
+
+contribute to the overall design and development of limit administration and monitoring platform
+
+
+work with other team members to ensure high quality software development in line with the agreed strategic approach
+
+
+perform initial integration testing of own work to ensure a complete and correct solution in addition to assisting official support and test teams in performing their functions
+
+
+identify business, technology and people risks associated with a solution
+
+
+assist with 2nd line support as necessary. 
+
+
+
+
+ 
+
+
+authorities, impact, risk
+
+
+
+
+works under the guidance of the market risk it management
+
+
+works closely with other team members to ensure joint ownership of a quality solution
+
+
+
+
+ 
+
+
+key relationships
+
+
+
+
+position reports to market risk it management
+
+
+partner with peers from the middle office, other technology teams, and support and test personnel
+
+
+
+
+ 
+
+
+working conditions
+
+
+
+
+located in downtown toronto, minimal travel required
+
+
+high pressure, fast paced and demanding environment.
+
+
+ability to prioritize multiple priorities effectively
+
+
+flexibility to quickly adjust to changes in a dynamic environment. 
+
+
+
+
+ 
+
+
+education &/or experience
+
+
+required
+
+
+
+
+excellent core java, spring & other current open-source libraries and frameworks
+
+
+hands on experience with data modeling and data management tools (sql server)
+
+
+significant experience designing, implementing and delivering high-availability real-time software.
+
+
+experience working closely with other developers using an agile software development approach
+
+
+experience effectively applying technology best practices and processes to a high-paced organization
+
+
+
+
+preferred
+
+
+
+
+knowledge of the risk management
+
+
+shell scripting 
+
+
+knowledge of messaging middleware systems
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/06/2015
+ 
+
+
+req id:
+  
+92277
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

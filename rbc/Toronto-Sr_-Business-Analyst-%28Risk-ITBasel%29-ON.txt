@@ -1,0 +1,296 @@
+Title:Sr. Business Analyst (Risk IT/Basel)
+Location:Toronto, ON, CA
+Date Posted:2015-06-24
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Business-Analyst-%28Risk-ITBasel%29-ON/275672100/
+purpose: 
+work closely with enterprise risk management business, with a focus on risk capital measurement and analytics, to improve capabilities of it systems and quality of data used for this  . this includes supporting business and it teams in data and business analysis, re-engineer existing business rules, test and implement enhancements to existing applications
+
+
+ 
+
+
+context
+ is medium to large sized projects of medium to high complexity 
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+business analysis
+
+
+
+
+participate in the creation and updating of application roadmap for enterprise risk management, focusing on risk capital measurement and analytics. help drive a cultural change from “short-term tactical“ to “long-term strategic” planning, design and delivery.
+
+
+business and data analysis in support of various application and projects requirements; includes research and documentation of business requirements, business rules and data sources.
+
+
+assist developers with implementation of data and business rules.
+
+
+project life cycle activities including requirements definition, design, testing and documentation.
+
+
+organizational change - articulate change and strategy effectively. assess impact of organizational change in a sufficient level of detail.
+
+
+process optimization – identifying opportunities for business process improvements, as well as propose options for those improvements and facilitate their implementation if required. seek out industry trends and organization knowledge to understand alternative approaches / solutions.
+
+
+
+
+
+
+lead detailed analysis and design phases identifying, tracking, escalating and/or resolving business system issues
+
+
+thorough data analysis of new / enhanced credit data sources; analysis in support of process changes; development of data specifications.
+
+
+recommend solutions that satisfy sponsor/stakeholder needs - continually exploring and assessing options for value-add.
+
+
+together with project manager, application development manager and/or technical systems analyst, determine best mix of development, interfacing applications, third party vendor solutions to meet business requirements and project objectives
+
+
+
+
+ 
+
+
+planning 
+
+
+
+
+work with senior business partners, application development manager and/or project manager to define and create early project deliverables such as idea creation, preliminary assessment and project charter documents. 
+
+
+act  as a business subject matter expert resource, supporting development of application roadmap
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+effectively communicate and build rapport with business sponsors and stakeholders
+
+
+
+
+ 
+
+
+position requirements/ specifications  (level*)
+
+
+ 
+
+
+behavioural competencies
+
+
+
+
+ability to communicate detail at the level appropriate for the audience
+
+
+ability to define requirements from business strategies and goals 
+
+
+ability to effectively multi-task while maintaining high quality standards and attention to detail.
+
+
+excellent written and communication skills
+
+
+highly motivated, shows initiative and is enthusiastic. takes accountability for own work
+
+
+ability to effectively multi-task while maintaining high quality standards and attention to detail.
+
+
+ability to work effectively with business and it teams. 
+
+
+
+
+ 
+
+
+education/experience
+
+
+
+
+business analysis certification and/or completion of ba training courses 
+
+
+minimum of 5 years experience working in capital risk management within the financial industry
+
+
+minimum of 3 years experience working with capital risk management application projects. 
+
+
+experience working on projects implementing applications for business users 
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+strong analytical skill set, to have the ability to transform business goals into requirements 
+
+
+use of an end to end requirements (e2e) methodology
+
+
+experience working in projects using iterative and agile methodologies as a business or systems analyst lead
+
+
+ability to deal with conflict and issue resolution and escalation 
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+working knowledge regulatory calculation and reporting (basel i, ii, iii and iv)
+
+
+experience with credit risk data analysis  
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+ability to query relational databases and use sql tools independently 
+
+
+understanding of it methodologies, change management & audit requirements, segregation of duties requirements
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+20 king st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/03/2015
+ 
+
+
+req id:
+  
+92439
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

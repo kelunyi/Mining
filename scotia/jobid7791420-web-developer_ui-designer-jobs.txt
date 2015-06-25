@@ -1,0 +1,34 @@
+:
+application analysis and design, and development for enterprise level ui services layer
+assist technical resources in the analysis of business requirements in order to establish the technical feasibility of proposed initiatives
+responsible for the assessment and scoping of projects from a ui development work effort perspective
+prototyping ui solutions under tight deadlines
+excellent verbal and written communication skills  
+ensure a timely delivery of quality ui solutions which meet end-user requirements and that are developed following development standards and methodology
+responsible for performance analysis (from an application and environment perspective) and make recommendations to improve operational effectiveness
+work on a development team comprising staff and external consulting resources as required
+deal effectively with business partners, and internal technology stake holders
+must be able to work within tight deadlines and schedules
+effectively communicate with departmental application development team members, management, and with the wider it&s organization
+may require being on call for application support during critical releases
+qualifications:
+1)        strong knowledge of j2ee/jsf/spring ws
+2)        expert knowledge of js toolkit (node, backbone, dust, jquery)
+3)        expert knowledge of html and css
+4)        ability to take a high level requirement and break it into smaller, manageable pieces
+5)        ability to participate in ui tier design and advise technical groups on soa ui development methods
+6)        ability to author technical solution documents and presentations
+7)        experienced in use of development tools such as eclipse, rad, clearcase, svn, junit, ant, hudson/cruisecontrol, fortify, findbugs 
+8)        experienced in the following middleware is highly desirable: activemq, websphere mq, birt, and ibm change data ca
+9)        familiar with windows and unix operating systems such as aix, & solaris. 
+10)      familiar with both waterfall and agile development sdlc, rup, uml, j2ee design patterns 
+11)      experience in developing enterprise level web applications and web services
+12)      familiar with networking principles & hardware such as dmz, load balancers, firewalls, and security technologies (entrust, ssl,  pki, ca, digital cert, hardware tokens.) 
+13)      familiar with banking applications, preferably with knowledge in a national/global multi-bank, multi-lingual, multi-currencies environment.
+14)      experience in production level operational design and support addressing best practices / designs for scalability, robustness, redundancy, system management, alert management, change management, and configuration management
+15)      strong knowledge in designing and coding secure applications 
+education and accreditations:
+bsc 5+ years developing user interfaces for data driven enterprise level web applications.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

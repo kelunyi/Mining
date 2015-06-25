@@ -1,19 +1,37 @@
+from Tix import Tk
+from Tkinter import Menu, StringVar, OptionMenu, Scrollbar
+from ttk import Label
 from rbc import RBC
 from scotia import Scotia
+from cibc import CIBC
 import mysql.connector
-
+from _tkinter import *
 __author__ = 'Shengnuo'
 
-conn = mysql.connector.connect(user='root', password = 'genghiskhan', host = 'localhost', database='job_database')
-mycursor = conn.cursor()
+
+##VAIRABLE DECLARATION STARTS##########################33
+
+rbc = RBC()
+scotia = Scotia()
+#scotia.mine_to_database()
+rbc.mine_to_database()
+
+###################VAIRABLE DECLARATION ENDS##########################33
 
 
 '''
-bank1 = Scotia("http://jobs.scotiabank.com/careers/it-jobs/job-list-8")
-bank1.mining(mycursor)
+company_label.grid(row=0, column=0)
+company_options_menu.grid(row=0, column=1)
+root.mainloop()
 '''
+#scotia.mining()
 
-bank2 = RBC("https://jobs.rbc.com/go/Technology-Jobs/586000/")
-bank2.mining(mycursor)
+'''
+bank1 = Scotia()
+#bank1.mining()
 
-conn.commit()
+bank2 = RBC()
+#bank2.mining()
+
+bank1.get_scotia()
+'''

@@ -1,0 +1,330 @@
+Title:z/OS System Programmer
+Location:Toronto, ON, CA
+Date Posted:2015-06-19
+URL:https://jobs.rbc.com/job/Toronto-zOS-System-Programmer-ON/274824700/
+purpose:
+
+
+this position will be responsible to provide software support for the evaluation, installation, maintenance and trouble shooting of a suite of system z operating system components and associated vendor products and/or rbc written code that runs on all rbc mainframe processors. these products and rbc-written code provide infrastructure services and capabilities required to support business applications on the mainframe to properly service rbc clients. software support includes ensuring proper monitoring and alerting is in place for problem avoidance, determining and recommending performance improvements in the system z operating systems space to ensure optimal use of system resources and providing consulting services to applications that utilize these services.
+
+
+ 
+
+
+context is rbc financial group and subsidiary mainframe systems
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+technical analysis, design and consulting
+
+
+
+
+ensure that supported vendor software and rbc written code maintained by the incumbent are maintained at appropriate levels to ensure rbc remains on the leading edge of technology. the expectation is that vendor software will be upgraded to new version, release and/or maintenance levels within 6-9 months of said software becoming available
+
+
+ensure that changes to supported vendor software and rbc written code maintained by the incumbent are documented in the rbc change management system and emergency changes destined for the production systems are within the organisational standards.
+
+
+ensure that problems with supported vendor software and rbc written code maintained by the incumbent are isolated and resolved in a timely manner such that impact is kept to an absolute minimum.
+
+
+provide technical advice to operations staff in ncc, gcc, and application developers as required to assist in resolution of their problems and questions.
+
+
+share experiences and knowledge with all members of the team through open communications.
+
+
+
+
+ 
+
+
+testing & documentation
+
+
+
+
+share experiences and knowledge with all members of the team through open communications.
+
+
+manages all aspects of testing and verification ensuring all tasks are performed for all interfaces.
+
+
+ensures adequate technical documentation and training.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+manages all aspects of implementation planning & coordination.
+
+
+develops detailed plans and accurate estimates for completion of build, system testing and implementation phases of project.
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors and software as well as due diligence exercises.
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+position requirements/specifications: 
+
+
+education/experience 
+
+
+
+
+post-secondary degree or diploma in computer science with minimum 0-2 years experience working in large z/os complex environment
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+different programming languages (e.g. cobol, jcl, java, c, assembler)
+
+
+multiple platforms e.g. mvs, internet, client/server and ability to select appropriate one to meet business needs
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+operating system technical knowledge
+
+
+installation, support, diagnosis techniques
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+communication skills
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+behavioural competencies
+
+
+
+
+achievement motivation
+
+
+breakthrough thinking
+
+
+business acumen
+
+
+customer insight
+
+
+dealing with ambiguity
+
+
+strategic influencing
+
+
+teamwork & cooperation
+
+
+analytical thinking
+
+
+
+
+ 
+
+
+how time will be allocated:
+
+
+40% product support
+
+
+30% production support
+
+
+20% consulting within and outside group
+
+
+10% training
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front st west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+entry level
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/06/2015
+ 
+
+
+req id:
+  
+92195
+
+
+posting notes:  
+none
+
+

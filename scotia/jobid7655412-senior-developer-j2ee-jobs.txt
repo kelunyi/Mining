@@ -1,0 +1,21 @@
+: 
+the senior developer builds and support applications for scotiabank’s global wealth information technology. your development expertise will enhance the client relationship technology team meet their business, development and operational objectives. the successful candidate will provide ongoing client support for all related business lines.
+job duties:
+you will analyze, design, and develop applications to support global wealth solutions.
+you demonstrate strong sdlc knowledge and provide expertise to global wealth solutions. 
+you will have strong coding, scripting, unit testing, integration, and implementation experience.
+you provide production support on global wealth applications with blackberry and on-call responsibilities.
+you have expertise in data modelling for database design with strong knowledge of development and project management methodologies. (agile, waterfall, etc)
+you are able to communicate and collaborate effectively with the infrastructure & operations delivery team and supported business units.
+you have strong interpersonal skills and have a “team first” attitude.
+you prioritize effectively, managing multiple and conflicting priorities. 
+you possess and apply advanced stress and time management skills.
+technical requirements:  
+seven years of experience with j2ee, soa, rest, soap, unix, windows
+five years of experience with middleware and version control tools
+experience with gui, pega, dst, ssl and sso is an asset
+education:
+a recognized bachelor degree in computer science, engineering or mathematics or related discipline.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

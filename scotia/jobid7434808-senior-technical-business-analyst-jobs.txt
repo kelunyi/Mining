@@ -1,0 +1,50 @@
+:
+ 
+you effectively research and analysis of business requirements and functional specifications leading to the completion of complex functional specifications or external design documents.
+ 
+you independently resolve and document complex problems to meet business needs.
+ 
+you create, document and execute complex test cases.  you design and maintain gui screens.
+ 
+you continually acquire and enhance knowledge of wealth applications and interfaces with current banking systems, wealth business strategies, policies, risk management methodologies and practices, product offerings, financial markets and financial instruments. 
+ 
+you provide guidance, mentoring, and training to junior technical business analysts and coops.
+ 
+participate in walkthroughs of wealth management applications during various stages of the project.  
+ 
+perform integrated system testing and support user acceptance testing.  actively participate in large scale system implementation.
+ 
+you possess strong leadership potential with excellent interpersonal, communication, and negotiation skills.
+ 
+provide on-going support to our clients and production applications.
+ 
+ 
+ 
+functional requirements:
+ 
+five years of technical business analysis experience supporting wealth applications.
+ 
+knowledge of microsoft office suite of products
+ 
+knowledge of databases such as oracle, sybase and ms sql server
+ 
+experience with pl/sql, unix, php, html and visual basic is a definite asset 
+ 
+experience with use cases, uml, rational rose, requisite pro is a definite asset
+ 
+experience with hp/qc or rational clearquest
+ 
+experience with broadridge, charles river investment management system and charles river anywhere is a definite asset
+ 
+you possess strong leadership potential with excellent interpersonal, communication, and negotiation skills.
+ 
+ 
+ 
+education:
+ 
+a recognized degree in business, mathematics or a related discipline.
+ 
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

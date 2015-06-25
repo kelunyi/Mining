@@ -1,0 +1,23 @@
+:
+• participate and provide technical leadership in the development, maintenance and support of the ip360 dashboard, tripwire sih and tripwire ccm.
+• assist in the definition of user requirements.
+• analyze user requirements taking into consideration interfaces with other security products, systems, as well as hardware and software limitations.
+• lead and/or participate in the design, development, and testing activities within the windows development environment.
+• lead and/or participate in the preparation of design document, test plan, tests specifications and operations manuals.
+• evaluate production logs and system service requests (ssrs) of high complexity and identifies actions to be taken
+• liaison with external vendors, product users, operations staff, other development teams and other company’s technical support staff in order to effectively support the assigned applications.
+• provide guidance and training to associate/intermediate programmer analysts and contractors as required.
+qualifications:
+• must have a good working knowledge of information security and tcp/ip networking.
+• must have 5 years of hands on technical working experience in sql server and database administration.
+• must have 5 years of hands on technical working experience in creating & maintaining sql queries & stored procedures, plus agent jobs.
+• must have 5 years of hands on technical working experience in ms iis web server administration and development including asp.net (vb) and/or c#, javascript, html, css & sql server reporting services (ssrs).
+• must have 5 years of hands on technical working experience in win32 scripting including perl, and python.
+• must have 5 years of hands on technical working experience in the use of visual studio ide and sql server management studio.
+• must have 5 years of hands on technical working experience in ms office family of products including visual basic for applications (vba).
+education and accreditations:
+• university degree / college diploma in a computer-related discipline or equivalent industry experience.
+• security certification would be an asset (cissp, cisa, cism)
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

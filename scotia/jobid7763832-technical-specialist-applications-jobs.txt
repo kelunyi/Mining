@@ -1,0 +1,69 @@
+:
+1. operational support
+•
+ 
+support hyperion planning applications through reports, business rules, calculation scripts, and data integration.
+2. contribute to the design, build and test of hyperion planning and essbase applications
+•
+ 
+participate in the design, build and test of applications / reporting.
+•
+ 
+support and contribute to business requirements documents, translation of business requirements into applications design, and other aspects of systems design.
+•
+ 
+develop and maintain functional and technical specifications documents. 
+•
+ 
+contribute to the integration of planning and forecasting to other reporting and data warehousing.
+•
+ 
+provide periodic status report to the project teams.
+•
+ 
+work with other team leads to align all related projects to meet resource, time and budget requirements.
+•
+ 
+work with it&s on all data and integration matters.
+•
+ 
+work with cofa maintenance team on maintaining and updating cofa hierarchy.   
+3.  self/team development
+•
+ 
+promote the continuous professional development of self and team members.  cross-train with the team members.     
+qualifications:
+•
+ 
+diploma / degree in computer science or equivalent experience. 
+•
+ 
+1-2 years working experience in hyperion planning and essbase design.
+•
+ 
+working experience with oracle epm/bi suites.  
+•
+ 
+strong technical skills with proven experience in requirements specification, analysis & design of reporting systems and multi-dimensional and relational databases. 
+•
+ 
+finance (accounting and financial business processes) knowledge is desired, but not mandatory.
+•
+ 
+knowledge and working experience in systems development cycle and its deliverables.
+•
+ 
+ability to analyze business requirements documents and translates them into applications design.  
+•
+ 
+experience in effective client management, team management and status reporting to management and executives. 
+•
+ 
+dedicated, self-motivated, technical lead, a team player with excellent written and oral communication skills.  
+education:
+bachelors degree in accounting, finance or it
+other information:
+most work is performed in a standard office environment. some overtime and occasional shift work may be required to accommodate project deliverables, as well as operational support.  
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

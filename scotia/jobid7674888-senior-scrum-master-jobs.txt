@@ -1,0 +1,160 @@
+:
+1.
+ 
+as a scrum master you will ensure the team enacts the agile principles, values and framework: 
+-
+ 
+provide support to the team using a servant leadership style whenever possible, and lead by example to push towards goals.
+-
+ 
+guide the team on how to get the most out of self-organization in order to fill in the intentional gaps left in the agile/scrum frameworks.
+-
+ 
+assess the scrum maturity of the team and coach the team to higher levels of maturity, at a pace that is sustainable and comfortable for the team and organization (guiding the team on how to use agile/scrum practices and values when necessary).
+-
+ 
+build a collaborative, trusting and safe environment where open communication helps to bring issues to the surface for faster resolution and use missteps as learning opportunities
+-
+ 
+coach the team and help to lead organizational change towards fully adapting an agile approach. 
+2.
+ 
+implement sound project management practices, in line with agile methodology: 
+-
+ 
+facilitate scrum activities including sprint planning, sprint review, retrospectives, and daily scrums 
+-
+ 
+identify, manage, and help mitigate project issues and risks
+-
+ 
+remove obstacles for the team and/or direct obstacles to appropriate owners for quick resolution
+-
+ 
+enact change & continuous improvement to increase the productivity of the team and quality of deliverables 
+-
+ 
+ensure team execution and delivery to committed sprint work- maintaining the momentum of the project and upholding a sustainable pace of delivery
+-
+ 
+support techniques for effective product backlog management 
+-
+ 
+creating a forum for communicating vision, goals, and product backlog items to the team 
+-
+ 
+understand long-term product planning/ roadmap and help inform development team to create quicker gains for the benefit of the end user.
+-
+ 
+participate and provide relevant updates of product deliverables/status updates to the product owner/business sponsor and project stakeholders.
+-
+ 
+ensure proper documentation of artifacts (product vision statement, product backlog, product roadmap, release plan, sprint backlog, and increments)
+-
+ 
+compliance with scotiabank policies and procedures for project delivery and financials
+3.
+ 
+develop and nurture strong partnering relationships with product owner/business sponsor and stakeholders:
+-
+ 
+develop strong partnerships with the product owners to gain an understanding of requirements, sustain open dialogue to manage product backlog efficiently, and facilitate daily scrums so as to maximize team output.
+-
+ 
+possess the ability to work with and influence wide range of stakeholders across roles and levels (business, compliance, legal, it, etc.) to remove impediments to sprint commitments.
+-
+ 
+support and educate the product owner, stakeholders on agile principles and methodologies to preserve the team from external pressures which may inhibit its productivity.
+4.
+ 
+contribute to building organizational capability and expertise on agile project management
+-
+ 
+leading and coaching the organization in its scrum adoption, sharing successes, artifacts, and experience to accelerate transition to a 2-speed delivery model
+-
+ 
+assist product owners/business sponsors, partners and stakeholders understand and enact scrum in their lines of business 
+-
+ 
+communicate effectively across diverse audiences within and outside of the sprint team (stakeholders, executives), acting as a champion of the agile methodology.
+-
+ 
+partner with agile coach and other agile project teams to share findings, best practices, and resources to help mature the organization’s agility
+qualifications:
+certifications
+-
+ 
+individual must have scrum master certification (csm) or  extensive experience using agile methods.
+-
+ 
+pmp, lean, six sigma certifications are an asset
+experience
+-
+ 
+7- 10 years of it experience, including 4 or more years managing projects
+-
+ 
+a minimum of 3 years of people management experience or leading large cross-functional/cross-regional teams on major organizational projects
+-
+ 
+project management experience with a strong understanding of agile project management disciplines and practices and demonstrated application of scrum master role in a recent project/initiative. 
+-
+ 
+functional skills
+-
+ 
+thorough knowledge of software technologies and of various sdlc methodologies (agile, incremental and iterative, scrum-ban, lean, waterfall etc.).
+-
+ 
+familiar with scaled agile framework (safe), and/or knowledge of other agile approaches: xp, kanban, crystal, fdd, etc.
+-
+ 
+ability to execute highly complex or specialized projects; adapts precedent and may make significant departures from traditional approaches to develop solutions. 
+-
+ 
+advanced level of understanding of agile principles and practices, service-oriented environments, and iterative development practices and risk management. 
+-
+ 
+advanced understanding of incremental delivery and the value of metrics including backlog tracking, burn down metrics, acceptance criteria, velocity, and task definition. 
+-
+ 
+demonstrated ability to facilitate the effective breakdown of epics into user stories, to attain high levels of sprint velocity within corporate constraints, to plan and execute against sprint roadmaps
+competencies
+-
+ 
+demonstrated competence in the financial industry and/or information systems.  
+-
+ 
+superior verbal and written communication skills and a confident presenter able to address a variety of stakeholders (line management up to the executive vice-president (individually or in committee)).
+-
+ 
+ ability to balance competing or conflicting goals of various departments/stakeholders, requiring a mature, diplomatic approach and highly developed negotiation and influencing skills.
+-
+ 
+consistently demonstrates great level of collaboration within team and across the organization, working consultatively and influencing change.
+-
+ 
+derives satisfaction from mentoring and coaching team to help them achieve greater outcomes then they thought possible.
+-
+ 
+leader and a role model, able to foster a sense of autonomy, accountability, self-organization and self-direction within the sprint teams.
+-
+ 
+good skills and knowledge of servant leadership, facilitation, situational awareness, conflict resolution, continual improvement, empowerment, and increasing transparency.
+-
+ 
+highly results focused, has the ability to work with high-performing teams and challenge self and others to continually raise the bar.
+education and accreditations:
+-
+ 
+bachelor’s degree in computer engineering, business, information sciences or other related field
+-
+ 
+masters / mba considered an asset
+ 
+other information:
+ 
+job posting code: agile
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

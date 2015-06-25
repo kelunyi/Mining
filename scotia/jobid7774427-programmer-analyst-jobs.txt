@@ -1,0 +1,89 @@
+ :
+1.
+ 
+under general supervision, assists in developing and/or modifying program modules  by:
+•
+ 
+participating with the formulation of system scope and objectives, identifying, researching and taking responsibility over tasks assigned. 
+•
+ 
+developing/maintaining application programs according to roynat standards. 
+•
+ 
+writing and maintaining application programs according to specifications from senior it staff with a high degree of accuracy and functionality.
+•
+ 
+analyzing user requirements (taking into consideration interfaces with current roynat systems, hardware and software limitations, etc.) and suggesting alternatives for the satisfaction of the requirements using strong problem solving skills. 
+•
+ 
+providing assistance to users with technical expertise and guidance in developing their detailed requirements and delivery of the end product to meet their needs.
+•
+ 
+demonstrating the ability to analyze and plan work in an orderly and timely manner, and competently work on all phases of applications programming activities.  
+•
+ 
+maintaining a current and thorough knowledge of roynat’s development environment and applications with an in-depth understanding of the business systems.
+2.
+ 
+participate in the delivery of the application product/function to the user while following roynat standards and methodology by:
+•
+ 
+preparing general and detailed design specifications or reviewing design specifications as prepared by team members for new application development, enhancements or maintenance of moderately complex application systems following roynat guidelines.
+•
+ 
+reviewing project deliverables in structured walk through during various stages of the development process.
+•
+ 
+assisting it members in preparing system test strategies and executing tests for unit, regression, and integration testing as directed.  
+•
+ 
+assisting in user acceptance testing (u.a.t.)
+•
+ 
+assisting in the development /documentation of implementation plans.
+•
+ 
+performing the installation of application systems into the production environment both on site and in other roynat offices.
+•
+ 
+assisting with the integration, benchmark testing, debugging and documentation of programs. 
+3.
+ 
+contribute to district office productivity and service by providing production support for assigned application systems by:
+•
+ 
+evaluating production problem logs and identifying problems and /or action to be taken.
+•
+ 
+investigating, analyzing and resolving system problems during standard working hours and assigned on-call hours.
+•
+ 
+suggesting viable solutions to system problems.
+•
+ 
+escalating and/or reporting system problems to management as per it unit procedures.
+ 
+ 
+qualifications:
+ must be proficient in and have minimum of 3 years of experience in the following:
+• object oriented design and programming (use visio or similar tools to develop logic flow charts, uml,  and/or pseudo code)
+• development using asp.net, .net framework 2.0, 3.5., 4.0, 4.5 platforms and visual studio 8, 10, and 12. ms linq, ms entity framework, web services, various serialization schemes
+• programming using visual basic, c#, html, html5, css, xml, xlst, javascript, jquery, json, ajax.
+• understanding of mvc, mv and single page application design concept of separation of concerns and onion architecture. nice to have angularjs. 
+• version control using team foundation server 
+• designing effective user interfaces with emphasis on ability to deliver great user experience
+• designing tables and views using ms sql server 8/12 and writing stored procedures using tsql for microsoft sql server 8/12
+• designing crystal reports or ms report, farpoint spread and input controls, writing macros using vba for ms excel
+• ms office products such as powerpoint, word, excel, ms project.
+professional skills:
+• must be able to quickly identify, assess and take action to rectify moderately complex system problems
+• strong analytical and conceptual skills
+• highly self-motivated and adaptable to learning and understanding new technologies
+• strong written and oral communication skills
+• ability to effectively prioritize and manage multiple tasks to meet deadlines
+• a strong team player with ability to work both independently and in a team-oriented, collaborative environment
+• ability to produce quality work products with attention to detail
+ 
+roynat  capital and scotiabank are equal opportunity employers and welcome applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted.
+
+

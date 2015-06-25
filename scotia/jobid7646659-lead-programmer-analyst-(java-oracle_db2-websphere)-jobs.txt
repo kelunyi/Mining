@@ -1,0 +1,38 @@
+:
+• support the development and implementation of cost effective solutions to meet the business objectives by coordinating detailed technical analysis and design, investigating new approaches/technical directions under the guidance of the solution architects. ensure all changes developed have a high degree of integrity, reliability and availability to meet the requirements of the online and offline processing environments.
+• provide technical leadership duties by developing detailed work plans with the project leader, ensuring development is conducted according to standards, providing leadership to staff and reviewing all work delivered for integrity and correctness.
+• assist and work with solution architects to ensure non-functional deliverables from application vendors meet requirements for both business and architecture standards.
+• application design from business requirements.
+• application code development involving all levels of complexity.
+• lead and conduct code walkthroughs for the team.
+• work with and maintain a good relationship with technical vendors and other technical areas in the bank.
+• provide coordination and planning of non-functional and performance testing.
+• provide technical assistance to the planning and coordination of the test environments for release and production support.
+• maintain a good understanding of the application and business strategies.
+• ensures the department's objectives are met by instilling a collaborative approach within the team, providing input to performance improvement opportunities and maintaining up to date knowledge of related technology and business practices.
+• this position will require occasional overtime work in the evenings and weekends, plus provide rotational 24x7 production support.
+qualifications:
+• must have 8 years of in-depth knowledge and experience with:
+- java/jsp/servlet
+- javascript
+- rational clearcase
+- xml/xsd programming
+- apache struts
+- ajax
+- jsf (1.x - 2.x)
+- spring framework
+- sql statements/queries
+- html/css/xhtml
+- mq
+- java design patterns
+- websphere application server (versions 7.x & up)
+- uml
+- software development lifecycle
+• working knowledge of oracle and db2 and experience supporting large mid-tier, mission critical databases including performance tuning.
+• working knowledge of web based intranet applications.
+• strong communication skills (verbal & written) are required for this position.
+education and accreditations:
+must have a post-secondary education in computer science or software engineering or electrical engineering or related technical stream.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

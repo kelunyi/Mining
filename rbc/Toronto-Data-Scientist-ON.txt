@@ -1,0 +1,204 @@
+Title:Data Scientist
+Location:Toronto, ON, CA
+Date Posted:2015-06-24
+URL:https://jobs.rbc.com/job/Toronto-Data-Scientist-ON/269309400/
+key accountabilities
+
+
+
+
+to support the influence and impact across the enterprise in promoting the analytics strategic direction across the enterprise.
+
+
+to help develop and support the use of the analytics centre of excellence policies, tools, and best practices across the enterprise.
+
+
+provide consulting services to our eim business partners on their information consumption and analytical needs.
+
+
+participate in the creation of detailed plans and accurate estimates towards development, testing, and implementation of the project or program.
+
+
+contribute to successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+participate in proof of concept or proof of technology projects.
+
+
+to help ensure required infrastructure is in place to effectively support components in production.
+
+
+provide expertise & training to business users.
+
+
+to help develop proposals and feasibility studies for small to medium projects.
+
+
+conduct technology research, evaluate analytics tools and produce strategy/direction papers.
+
+
+develop and maintain strong relationships with power users, project managers, business systems analysts, and etl developers.
+
+
+create and contribute relevant content and materials to the analytics coe.
+
+
+
+
+ 
+
+
+knowledge/experience
+
+
+
+
+2 years of work experience with big data analytics technologies: hadoop – hdfs, pig, hive, oozie, storm, spark, flume, sqoop, hbase.
+
+
+intermediate mapreduce development experience.
+
+
+strong knowledge of design, development, and implementation experience utilizing analytics technologies.
+
+
+some knowledge in analytics technology integration and architecture.
+
+
+expert technical documentation skills.
+
+
+strong interpersonal and communication skills (both written and oral); ability to communicate with people in a wide variety of areas and at various levels from technical specialists to senior management.
+
+
+must be able to work in a high functioning team environment.
+
+
+knowledge or experience in the financial or insurance industry is preferred.
+
+
+
+
+ 
+
+
+education required
+
+
+
+
+bachelor degree in computer science
+
+
+masters in statistics or machine learning
+
+
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/12/2015
+ 
+
+
+req id:
+  
+90508
+
+
+posting notes:  
+none
+
+

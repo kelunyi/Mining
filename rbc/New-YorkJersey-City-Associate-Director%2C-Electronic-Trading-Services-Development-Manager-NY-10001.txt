@@ -1,0 +1,176 @@
+Title:Associate Director, Electronic Trading Services Development Manager
+Location:New York/Jersey City, NY, US
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/New-YorkJersey-City-Associate-Director%2C-Electronic-Trading-Services-Development-Manager-NY-10001/244856700/
+description:
+
+
+
+
+expert level hands-on development manager leading a team of 5-10 developers ensuring we continue to provide unparalleled service to our clients.
+
+
+provide regular status updates to our senior business partners, and ensure the direction of the business is understood by all team members.
+
+
+provide technical oversight and leadership on projects taking place within the electronic trading space.
+
+
+work closely with the global electronic trading technology group to customize and enhance products for global market use.
+
+
+
+
+
+
+gather and analyze client requirements, and translate them into specifications for consumption by the development team.
+
+
+lead the best practices efforts for the team with respect architecture, development, and implementation in a regulated environment.
+
+
+
+
+ 
+
+
+required skills
+:
+
+
+
+
+bs in computer science, software engineering, or an equivalent.
+
+
+excellent verbal and written communication skills.
+
+
+7+ years experience as a development/team lead in a management position with a proven track record of optimizing trading work flows for a front office environment.
+
+
+strong experience maintaining/enhancing trading interfaces in a high volume environment required, with an emphasis on order state management, trade management, and exception handling.
+
+
+expert level knowledge of c# and .net required with an in depth knowledge of gui frameworks and third party ui toolkits.  
+
+
+
+
+ 
+
+
+preferred skills:
+
+
+
+
+java skills a plus.
+
+
+in depth knowledge of design patterns and architectural frameworks used to solve common ui performance constraints.
+
+
+demonstrable user design skills focused on building interfaces that help the end user process and interact with data efficiently.
+
+
+fix protocol knowledge would be ideal, but a good understanding of equity order flow would be acceptable
+
+
+knowledge of message bus implementations such as tibco or jms.
+
+
+unix/solaris systems experience is preferred.
+
+
+
+
+ 
+
+
+*li-ac
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+new york/jersey city
+ 
+
+
+address:
+  
+3 wfc/jc
+ 
+
+
+work hours/week:
+  
+40 +
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+regular - u.s.
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+exempt
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+05/31/2015
+ 
+
+
+req id:
+  
+82805
+
+
+posting notes:  
+sf:efc; sf:jb
+
+
+ 
+
+
+ 
+
+

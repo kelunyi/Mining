@@ -1,0 +1,102 @@
+:
+1.
+ 
+provide assistance and/or coordination to global compliance staff in achieving their mandates, goals and business objectives while maximizing the potential of available information technology applications and systems.
+2.
+ 
+provide, contribute and support global compliance technology projects, day-to-day systems and related applications development, maintenance, and enhancement of projects from planning through testing, implementation, and client training phases.
+3.
+ 
+act as a technical and analytical resource on various teams, projects, and initiatives.
+4.
+ 
+must be able to elicit requirements using various method e.g. interviews, document analysis, requirements workshops, surveys, white boarding etc. knowledge of modeling language such as flow charts, swim-lane, use cases, business process modeling will be beneficial.
+5.
+ 
+provide comprehensive application and client support services for the various global compliance units and global compliance technology systems and related applications used by client groups, including first-line support, cost analysis, training, consulting services, and business resumption.
+6.
+ 
+support global compliance staff with respect to providing electronic responses regarding queries from clients, regulators and other parties on various problems encountered in using applications including desktop hardware applications software, intranet and web sites.
+7.
+ 
+responsible for working independently or within a project team to ensure that all assigned projects and/or project task are completed in a thorough, accurate and timely manner. the incumbent will be responsible to gain an understanding with the activities associated with all areas of the project life-cycle. those activities may include:
+•
+ 
+designing and documenting operational requirements
+•
+ 
+preparation of business processes & client experience workflows and case assessment when required
+•
+ 
+partnering with the system development units to ensure operation requirements are reflected in the system design
+•
+ 
+preparing/reviewing instructions for users including such documents as job aids, circulars, manuals
+•
+ 
+participating in the formulation of compliance technology implementation strategy/plan
+qualifications:
+•
+ 
+experience in compliance systems and applications 
+•
+ 
+regulatory knowledge and experience 
+•
+ 
+the incumbent must have previous experience in compliance related technologies. any exposure on rcm guideline by osfi e13 will be an asset.
+•
+ 
+possess a solid understanding of software development life cycle (sdlc) using waterfall methodology. working knowledge of agile methodology will be an asset. 
+•
+ 
+capture requirements using various method e.g. interviews, document analysis, requirements workshops, surveys, white boarding etc. 
+•
+ 
+knowledge of modeling language such as flow charts, swim-lane, use cases, process flow diagrams etc. 
+•
+ 
+knowledge of testing methodologies, test cases and test plans is required.   
+•
+ 
+working knowledge of:
+-
+ 
+software development life cycle
+-
+ 
+requirement gathering
+-
+ 
+building test strategy and test cases 
+-
+ 
+project planning and management
+-
+ 
+desktop software applications, i.e. ms office, visio, java, excel, power point and project
+-
+ 
+highly proficient in ms access and excel
+-
+ 
+modelling/mapping (flow charts/use cases/ workflows)
+•
+ 
+excellent analytical, written and oral communication
+•
+ 
+flexibility to respond to client requirements during heavy workloads and cover off during absence of other staff members.
+•
+ 
+the incumbent must be a creative, self-starting, results-oriented, and highly motivated individual with excellent analytical skills in order to apply this knowledge to independently resolve complex business problems that are multi-dimensional.  the incumbent need to be able to multi-task and work in a diverse and fast pace environment and able to absorb new concepts quickly
+education:
+•
+ 
+post-secondary education in it, computer science or a related field 
+•
+ 
+certified business analysis professional (cbap) and canadian securities course certification would be an asset
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

@@ -1,0 +1,23 @@
+:
+1. independently document the complex measurements from multi-faceted business processes that align the strategic direction of ssg.  this includes interview stakeholders to define detailed requirements and translate their business knowledge into a measurement or breakdown of the measurements that is quantifiable and achievable. 
+2. develop mis deliverables (kpi, balanced scorecard, dashboard, and business analytics) after confirming business requirements from the stakeholders. perform gap analysis on data elements that is missing from the mis deliverables by working with technology partners to source out the data requirement.  maintain the single version of the truth for all deliverables.
+3. provide sound, data mining techniques, analytical and statistical methodologies in order to provide fact-based analysis to support ssg initiatives, improve business processes, increase resource utilization and address financial accountabilities.  
+4. interpret, synthesize and deliver timely analysis, reporting, correlation and forecasting models to address specific inquiries within ssg’s priorities. present findings and share insights to team members before release out to the stakeholders.  this also includes business process monitoring on a regular basis for the health check of ssg’s operations. 
+5. apply the mis framework and educate the values of mis team while working with stakeholders. build effective relationships with the stakeholders and internal network of business partners to achieve high performance results.
+6. participate in other ssg strategic initiatives such as lean review teams to identify the suitable metrics to measure the success of their project outcomes.
+7. maintain awareness of best practices in the field of mis, business analytics and adopt a continuous learning model to reflect quality of work that is produced for ssg.
+qualifications:
+• minimum of five (5) years prior experience in business analytics or mis functions
+• advance level of msexcel, statistical tool, analytical tool such as tableau
+• minimum of four (4) years of banking experience
+• thorough knowledge of the banking industry especially in shared services environment 
+• strong analytical, problem-solving and organizational skills
+• strong written and verbal communications skills to present information to business leaders 
+• excellent interpersonal and team skills and a demonstrated commitment to customer service and professional standards
+education:
+• recognized university degree completion in mathematics, physics, mis, or finance 
+other information:
+this job is located in toronto. we are looking for candidates who are strong in writing business requirements and design the new ssg dashboard by applying the canadian banking operations knowledge.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

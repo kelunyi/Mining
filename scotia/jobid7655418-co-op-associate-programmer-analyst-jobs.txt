@@ -1,0 +1,27 @@
+:
+this position belongs to a development team that develops and supports various applications in scotia capital, mainly in the foreign exchange business. the incumbent will be responsible to develop cost effective and efficient applications or prototypes of low complexity. he/she must be able to interact with various people like business analysts, users, and production support team. it is essential that the incumbent to be proactive, eager to learn, and to have a 'can do' attitude
+key accountabilities for this role include:
+• develop cost effective applications and provide technical specs and designs
+• provide technical support to applications in user acceptance testing
+• keep current on rapidly changing technological trends, self teach new technologies.
+qualifications:
+• good written and oral communication skills.
+• at least 1 year experience developing in a unix environment (preferably solaris)
+• knowledge of relational database sql and java technology, unix shell scripting
+• good knowledge in object oriented programming
+• familiarity with web technology (like html, jsp, struts, web services) will be an asset
+• good analytical skills
+• some familiarity with network, lan and tcp/ip concepts, security and communication protocol
+• disciplined in development methodology and software development technologies and concepts
+• troubleshooting and problem solving skills
+• must be flexible to adapt to a dynamic environment     
+working environment:
+• business casual attire
+• flexible working hours
+• on-site cafeteria, atms
+• free parking
+• close to go trains, subway and buses
+• shuttle service to go train and local malls
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

@@ -1,0 +1,272 @@
+Title:Equities Electronic Application Support (Capital Markets) FIX Protocol, Unix, Shell scripting
+Location:Toronto, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/Toronto-Equities-Electronic-Application-Support-%28Capital-Markets%29-FIX-Protocol%2C-Unix%2C-Shell-scripting-ON/275410100/
+purpose:
+
+
+ 
+
+
+this person will be part of the existing electronic trading support team.  they will be responsible to ensure all electronic trading systems are operational, participate in outage calls and incrementally improve the environment.
+
+
+ 
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+
+
+provide application support (l2) for the canadian electronic stack.
+
+
+work with trading, support and other it teams to gather new enhancements, or resolve issues
+
+
+front office experience (equities trading, equities trading systems and market structure)
+
+
+contact clients and brokers/vendors to resolve connectivity issues
+
+
+investigate trading issues identified by operations and/or front-office control
+
+
+help close issues by review of relevant application logs, etc.
+
+
+monitoring of applications and pro-actively fixing any warnings
+
+
+scripting - using perl / shell for system monitoring, and setting up of intra-day/eod reports
+
+
+implement new releases, bug fixes/patches/configuration changes into production
+
+
+provide weekend/after-hours coverage when required.
+
+
+
+
+ 
+
+
+ 
+
+
+must have… staffing requirements:
+
+
+ 
+
+
+
+
+bachelors engineering/computer or related degree
+
+
+3+ years experience in support
+
+
+capital market experience and knowledge of canadian/us equity markets
+
+
+excellent oral/written communication skills
+
+
+good outage management skills, with ability to multi-task
+
+
+good understanding of all aspects of trading including:
+	
+
+
+algorithmic trading
+
+
+direct market access trading via fix
+
+
+smart order routing functionality.
+
+
+
+
+
+
+
+
+ 
+
+
+technical
+
+
+
+
+excellent unix and shell scripting skills
+
+
+working knowledge of fix protocol
+
+
+understanding of software development lifecycle
+
+
+
+
+ 
+
+
+preferred
+
+
+
+
+hands on experience with any fix gateway or smart order router.
+
+
+
+
+ 
+
+
+key lateral relationships
+
+
+
+
+equity traders
+
+
+major business sponsors – heads of desks; trading, sales, dma.
+
+
+development teams
+
+
+client support
+
+
+
+
+ 
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+200 bay street
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+trading floor
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/14/2015
+ 
+
+
+req id:
+  
+91888
+
+
+posting notes:  
+n/a
+
+
+ 
+
+
+ 
+
+

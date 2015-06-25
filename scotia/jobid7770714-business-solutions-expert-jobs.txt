@@ -1,0 +1,34 @@
+:
+1.
+ 
+understands the business from several points of view and aligns it&s systems and processes to address critical information and automation requirements.
+2.
+ 
+responsible for the successful implementation of specific business line solutions for projects, supporting highly complex business applications with complex integration needs across multiple technology disciplines.
+3.
+ 
+formulates and defines information systems scope, and objectives based on a thorough understanding of the requirements of the specific business line.
+4.
+ 
+participates in all phases of the it system development lifecycle (sdlc). acts as a liaison between developers and business team members. provides timely project status updates to the project manager; identifying/reporting project risks as early as possible and proactively mitigating project risks as identified. provides expert knowledge of cross-functional and business processes. requires little management direction and handles extremely complex problems.
+5.
+ 
+collaborates as the business lead with multiple technology groups and vendors to ensure that the application, integrations, infrastructure and security architectures are designed to meet evolving business requirements, meet standards for reliability, scalability, performance and availability and align with scotia it&s technology roadmap.
+6.
+ 
+apply a structured business architecture approach and methodology for capturing key views of the enterprise 
+7.
+ 
+capture the tactical and strategic enterprise goals that provide traceability through the organization and are mapped to metrics that provide ongoing governance.
+8.
+ 
+ensure end to end processes across the organization are aligned to enterprise standards and principles, leverage common process components and services to drive consistency and simplify the end customer and user experience.
+qualifications:
+seven years of business analysis experience. 
+seven years of experience with information technology projects with a strong understanding of the project management and software development methodologies, including agile.
+you possess strong leadership potential with excellent interpersonal, communication, and negotiation
+education and accreditations:
+a recognized degree in computer science or a related discipline.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

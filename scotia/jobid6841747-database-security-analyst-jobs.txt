@@ -1,0 +1,22 @@
+:
+• the dsa is responsible for the operations and support of the database security compliance program within is&c and across the scotiabank group.
+• the dsa is responsible for developing and/or enhancing the strategies and processes to identify, analyze and communicate application vulnerabilities as per the published remediation and escalation process flow.
+• the dsa is responsible for adherence to an established process flow that ensures development support teams, infrastructure support teams, and business risk owners implement control measures that effectively mitigate or eliminate the identified risk.
+• the dsa is responsible for timely and accurate reporting of all findings to the development teams, appropriate levels of management and the business risk owner.
+• the dsa must maintain currency in the database security space to ensure database security principles are implemented and integrated into the bank’s database security assessment program.
+qualifications:
+• must have 5 years of hands-on working experience in database security with a strong understanding of database security vulnerabilities and potentials threats.
+• must have an excellent knowledge of software development security principles and best practices.
+• must have strong analytical and diagnostic skills with a sound understanding of databases and database principles.
+• must have experience in performing database security compliance and vulnerability assessments.
+• must have a comprehensive understanding of the following relational & dimensional database types: 1) oracle; 2) ms sql server; 3) sybase; and 4) db2 luw (linux, unix, windows).
+• must have experience with database security testing tools and practices.
+• must have the ability to work successfully in a fast-paced deadline-oriented environment.
+• exposure to information provided by recognized organizations such as osvdb (open source vulnerability database) and cve (common vulnerabilities and exposures).
+education and accreditations:
+• university degree / college diploma in a computer-related discipline.
+• cissp, cisa, cism is an asset.
+• giac certification is an asset.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

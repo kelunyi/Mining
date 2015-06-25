@@ -1,0 +1,33 @@
+:
+1. leading a team, including contractors.
+2. participate in all aspects of a project life cycle (requirements, analysis, design, code, test, implementation and production handover).
+3. create documentation including design, and operational support documents.
+4. participate in requirement gathering and lead design sessions, utilizing ibm infosphere information server (inforserver) design tools and aix/db2/oracle infrastructure.
+4. ensuring proper procedures, processes, and controls are in place to support the various existing production systems. 
+5. ensuring in compliance with it technology roadmap and sox.
+6. production support and escalation. provide point of escalation during the day and off-hour. considerable effort is placed into determining, developing and delivering procedures to protect production environment from unplanned outages.
+7. regularly conveying key strategies, tasks, and status to team and management.
+8. liaison with bank technical areas to address application, security and network/communication issues and project coordination.  
+qualifications:
+• must have at least 7 years of progressive it experience.  strong working knowledge in the compliance and banking product areas is preferred.
+• must have at least 7 years of hands-on technical working experience developing and supporting applications on infosphere suite of products versions 8.1, 8.7, 9.1 (datastage, quality stage, fast track, information analyzer, web services, metadata assets, metadata workbench and dataquality console).
+• must have hands-on technical working experience in development and supporting db2 luw version 10.1 and oracle 11i including complexity of performance tuning.
+• must have hands-on technical working experience in development and supporting unix aix korn shell scripting.
+• must have technical working conceptual knowledge of relational databases.
+• must have technical working knowledge of it platforms that support financial and regulatory systems.
+• possess strong leadership, mentoring, coaching and motivational skills.
+• must be disciplined in development methodology and software development technologies and concepts.
+• possess exceptional written/verbal communication & presentation skills.
+• must possess excellent problem solving skills have vision and innovative approach to computer based solutions and ability to convey these ideas.
+• must be flexible to adapt to a dynamic environment, make quick and sound decisions under pressure.
+• must be reliable, pro-active, results-oriented, customer-focused and attentive to details.
+• must be able to think conceptually out-of-the-box.
+• must be able to liaise with business units and bridge the gap between business and technical groups.
+• adept in the use of the following microsoft productivity tools – word, excel, powerpoint & project.
+• nice to have vendor management & project management experience + x-gen development experience.
+education and accreditations:
+completion of a computer science / engineering degree or equivalent.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

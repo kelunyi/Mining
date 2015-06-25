@@ -1,0 +1,214 @@
+Title:Sr. .Net Developer - Global Equities (Capital Markets Technology) Fixed Income/CSC/ C#, ASP.NET
+Location:Toronto, ON, CA
+Date Posted:2015-06-22
+URL:https://jobs.rbc.com/job/Toronto-Sr_-_Net-Developer-Global-Equities-%28Capital-Markets-Technology%29-Fixed-IncomeCSC-C%2C-ASP_NET-ON/275116300/
+purpose:
+
+
+ 
+
+
+the canadian mortgage investment group project is seeking a senior .net developer to support the trading desk. more specifically the incumbent will be responsible for:
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+
+
+enhancing .net components, including an asp.net mvc web application. these components cover front office valuation models, as well as models for market risk analytics and pnl.
+
+
+acting as technical contact with the vendor for an externally developed product used by the business.
+
+
+providing 1st line support for internally developed components and 2nd line support for the vendor application.
+
+
+writing database queries to extract data from ms sql 2008 to facilitate business reports.
+
+
+directly interfacing with the trading desk to understand requirements and existing functionality.
+
+
+following bank processes and keeping documentation up to date. excellent organizational skills required.
+
+
+putting together accurate development timelines and estimates.
+
+
+troubleshooting minor windows server and network issues.
+
+
+
+
+ 
+
+
+mandatory skills and experience for this position are:
+
+
+ 
+
+
+
+
+bachelor’s degree in engineering or computer science discipline required
+
+
+minimum 5 years professional experience in capital markets
+
+
+
+
+
+
+strong .net/c#/asp.net mvc knowledge
+
+
+strong transact-sql, database design knowledge and experience with performance tuning.
+
+
+experience with unit testing and build automation.
+
+
+excellent communication skills, both verbal and written, are essential. incumbent will be dealing directly with business users from front office, market risk, product control and operations.
+
+
+completion of csc (canadian securities course) or cfa is highly beneficial
+
+
+strong understanding of fixed income principals, e.g. cash flow modeling, yield curves
+
+
+must be self-motivated, able to work independently
+
+
+must be highly responsive to time critical support issues
+
+
+ability to work in a high pressure, fast moving and challenging environment
+
+
+
+
+ 
+
+
+ 
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington street w.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/09/2015
+ 
+
+
+req id:
+  
+91939
+
+
+posting notes:  
+n/a
+
+
+ 
+
+
+ 
+
+

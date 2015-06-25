@@ -1,0 +1,37 @@
+:
+maintenance and growth of the business intelligence environment
+-  promote the use of business intelligence tools throughout the organization by ensuring that all stakeholder needs and requirements are understood, actioned and communicated appropriately; service all requests and setting reasonable expectations for turn-around times for all levels of priority. ability to multi-task and deliver high-quality results under tight deadlines; continuously assess priorities and business requirements and balance between regular deliverables and priority unplanned requests.
+-  thorough understanding of system development life cycle (sdlc) and agile development methodologies to deliver projects and initiatives. will provide guidance to business analyst team on successful adoption of the systems development life cycle best practices, tools and framework. 
+-  conduct research and make recommendations on business intelligence products, services and standards in support of procurement and development efforts.
+-  direct, organize and lead projects in the implementation and use of new business intelligence software tools and systems. lead the integration efforts for merging business intelligence platforms with enterprise systems and applications. 
+creation of business intelligence solutions
+-  identify data gaps with respect to reporting within the enterprise data warehouse environment; lead and provide business intelligence recommendations, solutions and implementation strategies to acquire such information. 
+-  customization of business intelligence solutions to meet needs of individual clients, working together with subject matter experts, analyst, end-users and reporting staff  in order to create unique solutions integrating their data and needs.
+-  work with business analysts to ensure that solutions meet the client’s requirements and expectations. manage team's participation in multi-disciplinary projects to implement solutions to address business problems and gaps. includes identifying team's deliverables, monitoring progress and time objectives, facilitate discussion with core project teams, users and senior management to secure consensus and co-operation.
+management and leadership
+-  to provide a work environment that fosters a high level of employee satisfaction and engagement by providing learning opportunities, strong communication and team-oriented activities. 
+-  lead, mentor and motivate a small team of business intelligence developers to provide value-add solutions to business intelligence projects. 
+-  provide a disciplined, measurable approach to operational and project cost management as well as demonstrate realizable benefits through how the enterprise data warehouse can be leveraged to create value.
+data governance, testing and compliance
+-  to ensure information management continues to provide a highly reliable, accessible and stable environment overseeing data governance, security protocols and compliance processes.
+-  design, code, test and document all new or modified business intelligence systems, applications and programs.
+team performance: 
+-  mentor and develop staff and foster a positive environment for staff development.
+-  contribute to the vision and plan for the achievement of the information services future goals, devising high level plans to achieve. 
+-  responsible to completing annual performance reviews, providing feedback and guidance to employee’s current performance along with future performance expectations. 
+-  develop the skill level of direct reports, in order to continue their long term development and ensure solid succession planning and the overall success of the department.
+qualifications:
+-  5 or more years of creating business intelligence solutions.
+-  minimum 5 years’ experience in the development, implementation and management of business intelligence solutions in the financial sector. a thorough understanding of business intelligence and data warehouse principles.
+-  expert knowledge of business intelligence technology including experience delivering solutions using: cognos, business objects, sas, .net and microsoft reporting services.
+-  5 or more years hands-on sql experience.
+-  5 or more years of experience in data warehouse 3nf and dimensional modeling.
+-  excellent communication skills. must be able to translate complex technical information to non-technical users.
+-  strong verbal and written communication skills.
+-  ability to work independently and interact effectively as part of a team.
+education and accreditations:
+-  a university degree, specializing in computer science or a related discipline or equivalent work experience.
+-  high degree of fluency in english required
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

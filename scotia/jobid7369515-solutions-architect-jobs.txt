@@ -1,0 +1,77 @@
+:
+•
+ 
+own and continuously build development toolkit that will help the organization develop cutting-edge mobile applications that perform superbly across all platforms 
+•
+ 
+work in a highly collaborative environment with cross-functional teams on projects ranging from a few weeks to a few months in length
+•
+ 
+strong understanding of the principles of software design, architecture, algorithms and data structures
+•
+ 
+be excited about new web technologies/techniques
+•
+ 
+research and identify innovative solutions and technology, and disruptive trends; lead technology proof of concept when required
+•
+ 
+understands version control, can work independently or in a team, function in an agile scrum environment, willing to code complex portions of projects
+•
+ 
+responsible for the successful implementation of the complete technology solution for projects supporting major, highly complex business applications with complex integration needs across multiple technology disciplines, by defining development specifications, technical requirements, system performance objectives and identifying system modifications to meet objectives. the solutions architect recommends end-to-end technology design solutions and takes full accountability for the architecture of a solution. 
+•
+ 
+leads multiple technology groups and vendors to ensure that the application, integration, infrastructure and security architectures are designed to meet evolving business requirements, standards for reliability, scalability and availability
+•
+ 
+as a mobile evangelist you will need to continually position the business benefits of mobile to both business and it
+•
+ 
+apply industry/technical knowledge to provide solutions that increase business results and/or minimize risk regarding the integration of applications across multiple product systems and delivery channels
+•
+ 
+identify, recommend, source, negotiate and implement emerging mobile trends, developments and improvements/solutions by buying, building or reusing
+•
+ 
+partners with enterprise architects by: ensuring solutions are in line with technology roadmap; ensuring all deviations are identified and approved; identifying gaps in current standards/services and negotiating enterprise vs. project solutions and developing standard application architectures, frameworks and development standards.
+qualifications:
+technical:
+•
+ 
+10 years' experience developing and leading rich applications using native (ios, android) and web based technologies (modern javascript frameworks)
+•
+ 
+comfortable with front-end and integration layer technologies
+•
+ 
+recent experience in the mobile payments space (e.g., sim, cloud, hce, offers, loyalty)
+•
+ 
+understands payment processing and networks
+•
+ 
+understands new technology and players in the mobile payments space
+•
+ 
+experience in java, c++, javascript, objective-c
+leadership:
+•
+ 
+ability to influence at the senior management level
+•
+ 
+ability to manage and develop team of professionals
+•
+ 
+ability to create bridge between application development and business to deliver results
+•
+ 
+innovative - ability to see how existing and future technologies can be applied to help drive business objectives
+education and accreditations:
+•
+ 
+a degree in computer science, engineering, or a related discipline, or equivalent experience
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

@@ -1,0 +1,25 @@
+:
+you resolve highly complex development issues to meet the business needs of global risk management, market and credit risk.
+you apply expert financial and technological knowledge to the design of methodologies, models and systems solutions. 
+you oversee requirements and develop solutions that provide interim deliverables until a final production solution is created.
+you manage technical projects and implement solutions to business requirements.
+you plan, secure, schedule resources to meet development and business objectives.
+you perform code review and document the results.
+you create detailed project plans and monitor the progress against planned objectives.
+you communicate effectively; secure consensus and co-operation from users and senior management.
+you provide technical and production support to key global risk management units at scotiabank. 
+you manage vendor agreements, contracts and scheduled system maintenance.
+you utilize your knowledge of financial markets, financial instruments, regulatory requirements, back office processes and technology to provide effective business solutions and services to global wholesale technology.
+you effectively hire, manage and supervise technical staff. you monitor performance and provide feedback. this includes performance appraisals, counsel, coaching, and formal training.
+qualifications:
+seven years of experience in financial application development.  a strong understanding of technology which includes java, j2ee, jms, jdbc, spring framework, xml, weblogic, oracle, sql, linux, unix, ibm mq series
+seven years of experience with financial markets and instruments. this includes risk management, foreign exchange, derivatives, group treasury and money markets.
+five years of experience in the sdlc specializing in market and credit risk, trading or capital market projects.
+five years of experience in managing enterprise level system upgrades and enhancements.
+five years of experience in staff management, performance management and coaching.
+five years of experience with vendor management, negotiations and third party relationships.
+education and accreditations:
+a recognized graduate degree in mathematics, computer science or a related discipline.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

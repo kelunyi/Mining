@@ -1,0 +1,23 @@
+ for this role include:
+as part of a team, your key role and responsibility is to be able to program utilizing current methodologies, including object orientated programming techniques utilizing various programming languages and platforms.
+you will be responsible for creating complex business requirements documentation, and be able to translate those requirements into code. you will be responsible for building application from scratch as well as assist with the support and management of existing applications and services.
+must be able to read, and rewrite code into current standards and be able to manage multiple ongoing projects.
+qualifications:
+excellent interpersonal and communication skills, both written and oral.
+must have a solid background in finance, or have a thorough understanding of the equity (sales & trading), and or equity research markets. a good understanding of the financial markets, trading, various markets (fx, fixed income, and equity markets) as well as working with market data sources such as factset, bloomberg, iress - would be beneficial.
+must be able to work within a team or independently, being able to meet deadlines and objectives when required.
+candidate should have a clear understanding and proven skillset in python and .net technology (wpf, asp.net, c#, vba, and sql) as well as entity framework, wcf and web api.
+a thorough understanding of visual studio 2013 is mandatory.
+desirable criteria:
+preference will be given to individuals pursing a computer science degree with a background in finance.
+working environment:
+• business casual attire
+• flexible working hours
+• on-site cafeteria, atms
+• close to go trains, subway and buses
+• scotiabank co-op orientation: opportunity to meet and network with all co-op students working at scotiabank each term.
+• opportunity to get involved in the scotiabank co-op social committee. 
+• trade floor tours.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

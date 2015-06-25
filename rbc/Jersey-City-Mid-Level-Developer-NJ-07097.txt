@@ -1,0 +1,199 @@
+Title:Developer
+Location:Jersey City, NJ, US
+Date Posted:2015-06-18
+URL:https://jobs.rbc.com/job/Jersey-City-Mid-Level-Developer-NJ-07097/262285500/
+purpose:
+  the   of this role is to develop and support in-house customization for our fixed income securities platform (mortgage backed securities). this encompasses functions within front office, risk management, finance accounting, and operations. the role will interact with front office traders, risk managers, senior developers, qa and business analysts to provide technical solutions. this person will be responsible to successfully develop technology solutions that meet sponsor/stakeholder requirements while demonstrating high levels of quality and productivity. the core functionality to be supported will be around font office, risk, finance and operations user community.
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+responsibilities include designing, and developing applications to meet specific customer requirements.
+
+
+develop software components and systems based on technically sound design that comply with acceptable standards.
+
+
+must possess strong overall knowledge of software development life cycle which includes strong skills in process management
+
+
+thorough knowledge of testing and configuration management
+
+
+able to design and develop robust systems that minimizes maintenance costs.
+
+
+able to work independently to meet project deadlines and work to meet timely delivery schedules.
+
+
+work closely with qa to ensure that solutions are of high quality; e.g. accurately implement the specifications and are thoroughly tested.
+
+
+implement assigned tasks with minimal direction and proactively identify and resolve unassigned issues.
+
+
+liaise with the author of requirements documents and functional specifications to clarify ambiguities.
+
+
+provide ongoing support and support maintenance activities.
+
+
+exhibit or acquire appropriate business knowledge to provide adequate context to development tasks.
+
+
+ability to interpret and analyze risk measures
+
+
+ability to communicate with third-party vendors to resolve on-going issues
+
+
+
+	 
+
+
+
+job specifications
+
+
+ 
+
+
+
+
+about 5 years of development experience on windows platforms.
+
+
+must have a good understanding of fixed income securities especially mortgage backed securities and interest rate derivatives products.
+
+
+proficient in c#, wpf, mvvc pattern, .net platform, and web technologies (mvc)
+
+
+solid knowledge of sql and database, with experience and good understanding of database concepts (oracle, sybase and/or ms sql).
+
+
+good at developing multi-threaded applications on windows platforms.
+
+
+experience developing, maintaining, and deploying global enterprise quality applications that encompasses front to back functionalities.
+
+
+excellent knowledge of object oriented languages and design patterns.
+
+
+solid knowledge of different third party controls such as telerik, devexpress and infragistics (any one is good enough).
+
+
+working knowledge of automated build tools and source code versioning systems.
+
+
+must have a bachelor’s of science degree or equivalent finance knowledge
+
+
+experience developing global technology systems within capital markets.
+
+
+understanding of some functions within front office, risk management, finance accounting, and operations (not across all but specific areas).
+
+
+
+
+*li-ac
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+jersey city
+ 
+
+
+address:
+  
+30 hudson
+ 
+
+
+work hours/week:
+  
+40+
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+exempt
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/21/2015
+ 
+
+
+req id:
+  
+88220
+
+
+posting notes:  
+none
+
+

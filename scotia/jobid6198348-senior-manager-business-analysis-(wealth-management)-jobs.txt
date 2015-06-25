@@ -1,0 +1,19 @@
+: 
+over the past year or so, the brokerage technology solutions team has evolved from focusing almost entirely on the itrade vertical within global wealth management distribution (save for two application, scotia online & score for which the team provided services to other wealth business lines), to having the following broad accountabilities:
+•providing a full suite of technology services to both itrade and scotiamcleod across multiple platforms/applications, including salesforce, charles river and broadridge aspire, in addition to the applications the team had already been supporting previously, namely scotia online and score.
+•furthermore, the team also evolved from servicing the business and delivering projects across the global wealth management distribution businesses for the online platform alone, to servicing the business and delivering projects across the global wealth management distribution businesses for all their mobile application needs as well.
+•in addition to performing all front-end development for the online platforms the team also took on the added responsibility of performing front-end development for salesforce plus its supporting administration applications in addition to taking on responsibility for full end-to-end development of all mobile applications, which have extended to service itrade, scotiamcleod, scotia asset management and scotia private client group.
+•finally, in addition to supporting itrade, the team now has responsibility for all support-related activities relative to the entire scotiamcleod vertical, as well as for the components of other global wealth management distribution businesses as they relate to salesforce and mobile application development.
+qualifications:
+•3 years practical experience in the canadian wealth management industry with a focus on self-service securities trading, including in-depth understanding of instruments traded - equities, options, mutual funds, fixed income, ipos - and the trade execution process. 
+•4 years practical experience conducting in-depth business analysis, including precise requirements gathering and authoring of detailed requirements documentation. 
+•4 years practical experience working within the online commerce medium in the financial sector, preferably in a stock-trading/transactional-type environment.
+•4 years practical experience working as part of a user interface design team with proven abilities to apply best-practice ui standards, including high standards in usability, accessibility and clean/well documented code.
+•3 years of experience managing vendors and/or negotiating contracts, preferably in the field of web services and the provision of market data.
+•2 years of technical  experience coding web pages using html, dhtml, advanced css, javascript, jquery, xml, etc. 
+•professional experience on large projects/programs with multiple applications with multiple interfaces and/or third parties.
+education and accreditations:
+•a recognized under-graduate degree in a technology-related discipline augmented by other education in business, business analysis, or other discipline related to the canadian securities industry.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

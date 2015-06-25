@@ -1,0 +1,242 @@
+Title:Technical Systems Analyst Fall 2015 Co-op Opportunities
+Location:Toronto, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/Toronto-Technical-Systems-Analyst-Co-op-Opportunities-ON/264824700/
+knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+ 
+
+
+what you need to succeed:
+
+
+ 
+
+
+
+
+currently enrolled in a co-operative education program within a post-secondary institution with a focus on computer science, engineering, or technology.
+
+
+leadership acumen and a passion to apply it in a dynamic business environment
+
+
+excellent interpersonal and highly developed communication skills (verbal and written)
+
+
+confidence in working autonomously or as member of a team
+
+
+capability to manage multiple priorities across a number of assignments and prioritize effectively
+
+
+ability to resolve any minor conflicts/issues and escalate to others as appropriate
+
+
+self-motivated, able to work independently or in teams
+
+
+analytical thinking
+
+
+strong ms office skills – word, outlook, excel and powerpoint
+
+
+experience or understanding of the following technology
+	
+
+
+programming languages:
+ java, javascript, j2ee, asp.net with c#, visual basic, c++ (under visual studio 6.0)
+
+
+database
+: ms sql server
+
+
+platforms:
+ windows, iis, ibm websphere application server
+
+
+framework:
+ .net
+
+
+middleware technologies:
+ mqseries/websphere, wxf, xml, .net
+
+
+design techniques and tools:
+ object oriented, top-down, structured analysis, component-based design; rational rose
+
+
+eclipse/rad and worklight development tools
+
+
+code management tooling
+ such as svn, crucible, jenkins
+
+
+web technologies
+: html, css, jquery, ajax, php, visio, axure
+
+
+
+
+
+
+experience with testing methodology or frameworks
+
+
+the ability to hand-code all components and coding for accessibility (ie. wcag 2.0)
+
+
+cross browser development experience
+
+
+  of domains, ip infrastructure, server operating systems, and domain registration standards
+
+
+understanding of it standards, methodologies, cmm & audit requirements
+
+
+
+
+ 
+
+
+ 
+
+
+how to apply:
+
+
+ 
+
+
+please submit your cover letter, resume, and academic transcripts online at 
+www.rbc.com/careers
+ by 
+june 28, 2015. 
+
+
+ 
+
+
+in order for your application to be considered, please specify the university or college you are currently attending and your program of study on the application form. 
+
+
+ 
+
+
+we thank all interested candidates; however, only those selected for an interview will be contacted.
+
+
+ 
+
+
+at rbc diversity and inclusion are at the heart of bringing out the best in all our people.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+180 wellington st. w.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+contract
+ 
+
+
+pay type:
+  
+hourly
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+88631
+
+
+posting notes:  
+none
+
+

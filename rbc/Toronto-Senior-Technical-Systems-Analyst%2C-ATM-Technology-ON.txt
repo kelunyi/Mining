@@ -1,0 +1,752 @@
+Title:Senior C# Developer (ATM Development)
+Location:Toronto, ON, CA
+Date Posted:2015-06-19
+URL:https://jobs.rbc.com/job/Toronto-Senior-Technical-Systems-Analyst%2C-ATM-Technology-ON/268655900/
+purpose:
+
+
+ 
+
+
+partners across it and with assigned business line(s) to assess, research, and analyze business, technical and system needs in order to resolve business systems issues by recommending and implementing technology solutions that meet sponsor/stakeholder needs.
+
+
+ 
+
+
+context
+ is small to large development or maintenance projects  (multiple projects - one application with multiple interfaces and/or 3rd parties).
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+technical analysis, design & consulting 
+
+
+
+
+provides consulting services on new atm initiatives (small to large of varying complexity).
+
+
+assesses, researches and analyzes business and system needs, exploring alternative options to recommend technology solutions and designs that meet sponsor needs and plc deliverables including component reusability, data sharing and security.
+
+
+prepares high level and detailed technical specifications for small to medium projects in accordance with plc, security and architecture documentation objectives.
+
+
+together with development manager, determines best mix of development, interfacing applications, third party vendor solutions to meet business requirements and project objectives.
+
+
+contributes to successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+participate in change request estimates.
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors and software as well as due diligence exercises.
+
+
+organizes and participates in walkthrough reviews of technical specifications, programs and unit test plans.
+
+
+
+
+ 
+
+
+coding, testing & documentation
+
+
+
+
+design, code, unit & assembly test for functions of low to high complexity.
+
+
+writes unit test plans and provides coordination and support of testing
+
+
+ensures adequate technical documentation and training.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+develops detailed plans and accurate estimates for completion of design, build, system testing and implementation phases of project.
+
+
+performs performance tuning to improve performance over multiple functions.
+
+
+provides third-level support of applications, database, etc. particularly more complex situations.
+
+
+support the technical environments throughout the project phases.
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors and software as well as due diligence exercises.
+
+
+manages the detail aspects of day-to-day operations with 3rd party vendors.
+
+
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+
+
+
+
+facilitates complex group meetings (including business partners) for technical design, decision making, problem solving, implementation and strategic planning.
+
+
+prepares and delivers presentations to business and technology partners and senior management, selecting the appropriate approach based on the audience.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+may act as project leader
+
+
+
+
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of junior   technical development staff.
+
+
+
+
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+position requirements:
+
+
+ 
+
+
+education/experience
+
+
+
+
+professional with experience on large applications with high availability and high visibility.
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+different testing tools (e.g. nunit, mercury, devpartner, fxcop) (p)
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools (e.g. visio) (p)
+
+
+communication skills (p)
+
+
+facilitation skills (p)
+
+
+presentation skills (p)
+
+
+risk assessment & quantification methodologies (p)
+
+
+conflicts and issues resolution and escalation (p)
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+business line(s)’ business and technical disciplines (p)
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+different programming languages (e.g. html5, css, mobile sdks, c#, c++, c, html/javascript) (p).
+
+
+strong multi-threaded development and troubleshooting skills (p).
+
+
+wmi and tcp/ip knowledge (p).
+
+
+emv knowledge (b).
+
+
+experience with javascript-native bridges (like cordova) highly desirable.
+
+
+multiple platforms e.g. mainframe, internet, client/server, cloud and ability to select appropriate one to meet business needs (p)
+
+
+it standards, methodologies, cmm & audit requirements (p)
+
+
+configuration management practices (p)
+
+
+middleware technologies: (ex. mqseries, websphere, http, wxf, xml) (p)
+
+
+
+
+ 
+
+
+people management knowledge
+
+
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition) (d)
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+b = 
+basic
+
+
+
+
+
+
+d 
+= developing
+
+
+
+
+
+
+p
+ = proficient
+
+
+
+
+
+
+e
+ = expert
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+behavioural competencies:
+
+
+ 
+
+
+
+
+achievement motivation (3)
+
+
+
+
+
+
+breakthrough thinking (2)
+
+
+
+
+
+
+business acumen (3)
+
+
+customer insight (2)
+
+
+dealing with ambiguity (4)
+
+
+
+
+
+
+strategic influencing (3)
+
+
+
+
+
+
+teamwork & cooperation (5)
+
+
+analytical thinking (4)
+
+
+change leadership (3)
+
+
+developing others (4)
+
+
+
+
+ 
+
+
+list of behavioural competencies found 
+here
+
+
+ 
+
+
+relationships:
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+reports to:
+
+
+
+
+
+
+development manager
+
+
+
+
+
+
+
+
+
+
+business partners:
+
+
+
+
+
+
+• digital strategy
+
+
+• insurance
+
+
+• direct investing
+
+
+• dominion securities
+
+
+• contact centre
+
+
+• business unit
+
+
+• it project and group managers
+
+
+• enterprise architects, solution architects and/or lead architects
+
+
+• vendor project managers and teams
+
+
+
+
+
+
+
+
+
+
+technical partners:
+
+
+
+
+
+
+• application development/maintenance teams
+
+
+• business systems analysis teams
+
+
+• qa team
+
+
+• test facility teams
+
+
+• wccoe team
+
+
+• infrastructure
+
+
+• microsoft technology and middleware group
+
+
+• information security
+
+
+• infrastructure and deployment
+
+
+• qa and configuration management team
+
+
+• production implementation and support team
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+working conditions:
+
+
+ 
+
+
+
+
+standard office environment
+
+
+potential for periodic stress related to people management and project challenges and deadlines
+
+
+minimal travel
+
+
+
+
+ 
+
+
+time allocation:
+
+
+ 
+
+
+25%
+ - code development/maintenance
+
+
+20%
+ - design/estimation/consultation
+
+
+20%
+ - documentation review & walkthrough
+
+
+20%
+ - resource task assignment and coordination
+
+
+10%
+ - qa support
+
+
+  
+5%
+ - maintenance/production support
+
+
+ 
+
+
+authorities, impact, & risk:
+
+
+ 
+
+
+
+
+decision authority:
+	
+
+
+high-level design
+
+
+task assignments
+
+
+work package priority
+
+
+
+
+
+
+
+
+
+
+scope, complexity & risk:
+
+
+medium to high
+
+
+
+
+
+
+sizing:  middle-sized projects or work packages
+
+
+impact: high impact on success of assigned work packages
+
+
+
+
+ 
+
+
+*li- kk1
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west - 5th floor
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/12/2015
+ 
+
+
+req id:
+  
+90212
+
+
+posting notes:  
+none
+
+

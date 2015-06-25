@@ -1,0 +1,29 @@
+:
+conduct ongoing review of the dciw, wps and pega case management environments to establish/monitor trends and provision for growth
+provide input to infrastructure sizing to support new applications on-boarding the dciw, wps and pega case management platforms
+provide input to infrastructure roadmap to position the platform for growth
+provide input to initiatives as it relates to sizing dciw, wps or pega case management infrastructures
+in liaison with wls team oversee the planning / execution of work load swap initiative
+assist new onboarding applications to ensure compliance with best practices
+assess operational readiness for new on-boarding applications to ensure production availability remains intact.
+investigate resource contention and identify tuning opportunities for existing and new on-boarding applications in order to reduce batch window, meet sla-s and minimize impact to online availability
+oversee infrastructure upgrades as part of armitsa program, steady state and software currency
+provide production support and escalation.
+provide mentoring and coaching to team members.
+qualifications:
+must possess technical leadership proficiency sufficient to effectively perform these activities.
+requires extensive understanding of project management principles and methodology as well as scotiabank’s technology roadmap
+understands change management techniques, and assists in the performance management process for staff assigned to projects.
+ability to organize work requirements for a technical and business team.
+working knowledge of distributed / web based computing.
+ability to multitask on several projects while maintaining existing sla’s and providing excellent customer service.
+education and accreditations:
+university/college degree; or related work experience.
+other information:
+this position is located at 60 erie street, stratford, ontario.
+frequent travel to toronto to meet with business and technology partners that would exceed regular defined workday hours, will be required. 
+occasional weekends or overtime will be required depending upon project commitments and timelines.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

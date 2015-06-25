@@ -1,0 +1,18 @@
+:
+you will support mission critical windows, citrix, linux, tomcat, infrastructure and related applications that require immediate resolutions. 
+you recommend and design procedures to prevent unplanned system outages. 
+you provide technical support to users and analyze system issues.  you communicate feedback to the user and to management. 
+you perform system administration and application support on multiple platforms. these include user acceptance testing, development and production environments. 
+you control system access, ensure security procedures are followed, and escalate priorities to management. 
+you monitor the system, provide capacity planning recommendations and apply upgrade packages. 
+it is necessary that you be available on a 7 x 24 x 365 basis for systems support and consultation. this position will entail a fair amount of paid overtime, including weekends and statutory holidays. this is required due to high availability or no down-time requirements for the supported systems. a pager rotation schedule is managed for system coverage. 
+you will be required to carry pager, cell phone and blackberry. 
+qualifications:
+five years of advanced windows application support experience. 
+2-3 years of experience with windows, linux, citrix tomcat
+knowledge and hands on experience of scom, sccm, netbackup, vmware is required.
+education and accreditations:
+a recognized computer science degree or equivalent. 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

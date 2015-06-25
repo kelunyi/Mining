@@ -1,0 +1,27 @@
+:
+1. create, update and maintain business source to target mapping for complex projects that requires technical knowledge.
+2. communicate transformation rules effectively to the development and the quality assurance team
+3. collaborate with business analysts and solutions architect to understand the business requirements and rules.
+4. profiling source system and documenting the results
+5. review logical data model and understand the target data structure.
+6. understand data in the data warehouse in order to identify data patterns to support adhoc requests from the business 
+qualifications:
+• expert technical skills and knowledge of the following:
+-  sql
+-  sas tools (base sas, sas enterprise guide, sas enterprise miner, sas di)
+• working knowledge of the following:
+-  mvs
+-  cobol
+-  scheduling systems (such as tivoli workload scheduler)
+-  informatica
+-  hadoop
+-  netezza
+-  financial industry models (e.g., ibm banking data warehouse)
+• proven verbal and written communication skills.
+• excellent problem solving & analytical skills to recognize data patterns, quantify potential issues and identify solutions
+• disciplined self-starter, able to be highly productive both working alone and in close collaboration within a team
+• passionate and knowledgeable about exploring and experimenting with the latest sas offerings.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

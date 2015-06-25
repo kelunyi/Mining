@@ -1,0 +1,196 @@
+Title:Network Analyst Co-op Opportunities (Fall 2015)
+Location:Toronto, ON, CA
+Date Posted:2015-06-22
+URL:https://jobs.rbc.com/job/Toronto-Network-Analyst-Co-op-Opportunities%2C-Global-Technology-Infrastructure-ON/264825000/
+purpose
+
+
+ 
+
+
+as a network analyst (co-op) you will provide technical support for rbc’s global network. primary support encompasses all aspects of incident management and execution of change management. the team works closely with the global data centre operations team, as well as l2 support teams in the security integration, distributed networks, and data centre network teams.  in addition to providing the highest possible level of network availability, co-op analysts will be called upon to assist in trouble shooting incidents that cover various layers of the osi model. with the use of networking tools, co-op analysts will isolate problematic network components and take steps to alleviate client impact. incident management will also extend beyond the borders of the rbc network and include numerous global network carriers as well as vendor management of hardware suppliers leveraged in the support of the rbc network.
+
+
+ 
+
+
+change management activities consist of reviewing all changes to identify any potential issues prior to applying new configurations.  post implementation verification is a key part of verifying the success of changes.  updating tickets with current status and communicating verbally as well as in writing is required for all incidents and change activities. provide shift coverage as required, as well as sharing a rotating on call responsibility for after-hours coverage of production issues. 
+
+
+ 
+
+
+what you will be doing
+
+ 
+
+
+
+
+maintain operational knowledge and technical expertise of the many network technologies including routing, switching, ipt, as well as security and application delivery technologies including firewalls, load balancing,& proxy.
+
+
+ensure network management tools are updated with incoming / outgoing devices to ensure appropriate surveillance is in place
+
+
+attend planning and implementation meetings to ensure the smooth transition of new network infrastructure that is supported by the global integration network services team
+
+
+identify and provide input to continuous improvement opportunities
+
+
+work collaboratively and in partnership with other rbc global technology support teams to effectively support our clients
+
+
+ensure processes are established to provide maximum availability and highest level of service to all clients
+
+
+quickly introduce new hardware / technologies in production environment as required
+
+
+responsible for leading network incident management activities ensuring restoration is in line with established sla’s
+
+
+ensure service management tickets are updated to reflect current state
+
+
+maintain operational knowledge of the tools required for network support
+
+
+leverage opportunities to educate / train based on real time occurrences and formerly scheduled training sessions.
+
+
+create and maintain documentation
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+
+what you need to succeed
+
+
+ 
+
+
+
+
+enrolled in a post-secondary institution with a focus on computer science, engineering or technology
+
+
+knowledge of it standards and methodologies such as itil
+
+
+familiarity with network infrastructure - e.g.: cisco, routers, switches, f5 load balancers, paolo alto firewalls, nokia checkpoint firewalls, cisco ons, fortinet vpa insfrastucture
+
+
+ability to use troubleshooting tools: telecom capacity management suite (i.e. ehealth, live health, ngenius), & network management tools such as ciscoworks, acs, omnipeek, netscout, afmon/infistream, gigavue
+
+
+incident and change management tracking as well as reporting 
+
+
+network counications concepts
+
+
+leadership acumen and a passion to apply it in a dynamic business environment
+
+
+excellent interpersonal and highly developed communication skills (verbal and written)
+
+
+confidence in working autonomously or as member of a team
+
+
+capability to manage multiple priorities across a number of assignments and prioritize effectively
+
+
+ability to resolve any minor conflicts/issues and escalate to others as appropriate
+
+
+strong ms office skills – word, outlook, excel and powerpoint, visio
+
+
+
+
+ 
+
+
+how to apply:
+
+
+ 
+
+
+please submit your cover letter, resume, and academic transcripts online at 
+www.rbc.com/careers
+ by 
+june 28, 2015 at midnight.
+
+
+ 
+
+
+in order for your application to be considered, please specify the university or college you are currently attending and your program of study on the application form
+
+
+  
+
+
+we thank all interested candidates; however, only those selected for an interview will be contacted.
+
+
+ 
+
+
+at rbc diversity and inclusion are at the heart of bringing out the best in all our people.
+
+
+ 
+
+
+#li-post 
+
+
+ 
+
+
+diversity 
+and equal opportunity 
+employment
+:
+
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors
+. 
+
+
+ 
+
+
+about rbc: 
+
+interested in finding out more? click 
+here
+. 
+
+
+ 
+
+

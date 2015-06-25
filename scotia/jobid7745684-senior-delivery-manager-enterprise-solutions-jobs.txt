@@ -1,0 +1,32 @@
+:
+1.  lead a team to determine organizational and financial feasibility of the project, including the completion of the business case as appropriate, as well as clean articulation of business outcomes.
+2.  definition of the solution: this includes ensuring at the project outset:
+ - balanced consideration of business, technical and application architectural standards and emerging solutions
+ - articulation of the key risks and risk-mitigation plan to ensure that the project is delivered with quality, on time and on budget
+ - management of the delivery process, leading the development of a consolidated project plan with incorporates all business, technology and operational aspects of the project. development of the project critical path such that priorities can be set and adjusted with awareness of the potential impact on quality, cost or timeliness.
+3. proactively identify key project issues with the potential to impact project objectives and lead the team in developing creative/alternative solutions to mitigate the risk and satisfactorily address the issues in a timely and cost-effective manner
+4. negotiation and management of contractual obligations with third parties. 
+5. the position requires expert team building skills to create and sustain highly motivated groups with diverse and multifunctional reporting units, including external parties that are most often not within the incumbent’s direct supervision. this includes maintaining the momentum of the project or program against the background of changing and occasionally conflicting priorities.
+6. ongoing communication of project status, completing the monthly project status reports and escalating issues to the business sponsor, it&s sponsor, the head, pmo or evp, it&s as required. ensure the documentation and archiving of project activities, deliverables, tools and finders for use in future projects.
+7. in the context of managing programs, the position requires:
+ - identification and management of dependencies between individual projects in the program
+ - identification and management of the overall critical path
+-  sufficient understanding of the business environment in order to assess the impacts on multiple businesses and/or geographies, and establish project sequence and priority accordingly
+-  understanding the technical environment in order to assess operational risk associated with various solution and implementation options. 
+qualifications:
+- customer focus
+- results focus
+- change leadership
+- strategic thinking
+- communications
+- developing and coaching talent
+education and accreditations:
+-  bachelor’s degree in business or technology and or 5-10 years’ experience in the financial services industry, managing large complex projects, that have significant it, business and operational components.
+other information:
+a thorough understanding and practical experience in the following areas would be a definite asset:
+- applying lean, agile and waterfall methodologies
+- business process architecture management 
+- business prototyping tools 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

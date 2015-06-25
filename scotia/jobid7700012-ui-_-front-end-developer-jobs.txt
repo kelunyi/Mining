@@ -1,0 +1,91 @@
+:
+iteratively design, develop, test, deploy, maintain and enhance high quality user interface solutions
+-
+ 
+contribute clear and maintainable code to a shared codebase
+-
+ 
+work with the quality assurance team to conduct usability and accessibility review for products and define usability requirements
+-
+ 
+conduct accessibility review for products and define usability requirements 
+-
+ 
+proactively partner with business line representatives
+-
+ 
+proactively design, prototype, and strategize solutions to propose to the team / product owner/ business sponsor to drive improved technology solutions that support business strategy
+-
+ 
+participate in estimating, tasking, status and stand-up meetings
+-
+ 
+creation of proof-of-concepts using new technologies 
+-
+ 
+adopt / evolve team development practices such as coding standards, formal refactoring techniques, automated testing, continuous integration, etc. 
+-
+ 
+collective ownership of project delivery  
+provide technical leadership and subject matter expertise to fellow team members and stakeholders across business and technical project dimensions:
+-
+ 
+research and recommend enhancements to the strategic technology evolution of the product based on new and emerging technologies and industry best practices 
+-
+ 
+actively inform and provide recommendations on technology roadmaps, team development standards, system architecture / integration, data modelling, testing, etc. 
+-
+ 
+contribute to building organizational capability and expertise on agile, sharing findings, best practices, and resources, and acting as a champion of the agile methodology
+qualifications:
+experience/skills
+-
+ 
+strong javascript programming skills 
+-
+ 
+fluent in front end technologies including jquery, html5, ajax, json, and css 
+-
+ 
+responsive web design and knockoutjs are pluses
+-
+ 
+javascript frameworks and libraries, templating, dependency management and testing experience desired
+-
+ 
+solid understanding of web applications including security, performance and session management 
+-
+ 
+abreast of user experience industry best practices 
+-
+ 
+minimum 5 years related work experience  
+-
+ 
+experience working in an agile environment an asset
+competencies
+-
+ 
+consistently demonstrates great level of collaboration within team and across the organization, working consultatively and influencing change
+-
+ 
+acute attention to detail
+-
+ 
+flexible and open, able to work in a highly collaborative and changing environment 
+-
+ 
+maintains current knowledge of modern front end technologies / industry trends as well as a passion for continued learning and acquisition of new skills
+education and accreditations:
+-
+ 
+degree/diploma in design, engineering, computer science or equivalent education/experience 
+-
+ 
+masters degree in relevant field considered an asset
+other information:
+ 
+job posting code: agile
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

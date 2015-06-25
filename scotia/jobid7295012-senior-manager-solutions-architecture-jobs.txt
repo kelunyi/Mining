@@ -1,0 +1,78 @@
+:
+-  responsible for understanding the detail business requirements and ensuring the solutions are compliant with a prudential interpretation of osfi regulations: basel iii, alm, ftp and liquidity risk, stress testing and regulatory reporting (e.g., ccar, ncr, etc.).  collaborates with the business planning and analysis team to ensure that the documented requirements actually reflect the customers’ needs.
+-  delivery of conceptual and detail solutions based on those requirements
+-  proposes solutions that conforms to those requirements, garners “buy in” for that architecture and remains involved in the projects, helping to ensure that the agreed upon architecture is employed and successful.
+-  work with other solution architects and peer review the solutions to ensure alignment.
+-  collaborates with project managers and directors to provide estimates, support in planning, and serve as a lead as required, to implement the solution
+-  participates in the evaluation, selection and application of new and emerging tools and techniques.
+-  leads a team responsible for data architecture, informatica and sas architecture and data analysis.
+-  monitors the data and etl architecture to ensure compliance with best practices and design principles.
+-  mentor and assist the customer knowledge & insights (ck&i) information management team with day-to-day technical questions
+qualifications:
+-  considerable experience in financial services risk reporting
+-  considerable experience in analytical modeling and data analysis in financial services
+-  experience in data analytics including:
+•
+ 
+create, update and maintain business source to target mappings (bstms) for complex analytical models.
+•
+ 
+documents and communicates bstms and transformation rules effectively to development and qa teams.,
+•
+ 
+collaborate with business analysts and solutions architect to understand the business requirements and rules.
+•
+ 
+profiling source system and documenting the results
+•
+ 
+review logical data model and understand the target data structure.
+•
+ 
+understand data in the data warehouse in order to identify data patterns to support adhoc requests from the business
+-  ability to effectively manage and control the architectural aspects of a multiple number of initiatives of varying complexity in a sophisticated matrix management organization. 
+-  expert technical skills and knowledge of the following:
+•
+ 
+alm, ftp, liquidity risk modeling and other risk related reporting
+•
+ 
+bcbs2390, basel iii and other osfi regulatory requirements
+•
+ 
+sas (enterprise miner, enterprise guide, base sas, sas di, sas va, etc.)
+•
+ 
+sql
+•
+ 
+db2 udb especially in a very large database environment
+•
+ 
+unix scripting (e.g., korn, c, borne shell scripts)
+•
+ 
+data modeling tools (e.g., embarcadero, erwin, etc.)
+•
+ 
+data analysis methods 
+•
+ 
+reporting tools (e.g., business objects, cognos and sas)
+-  working knowledge of the following:
+•
+ 
+aix, linux, netezza and hadoop
+•
+ 
+etl tools (e.g., datastage, informatica, sas di, etc.)
+•
+ 
+sdlc, togaf and cobit 
+education and accreditations:
+m.sc., b.sc. computer science and/or statistics
+mba
+other information:
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

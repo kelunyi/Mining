@@ -1,0 +1,349 @@
+Title:Senior Technical Support Analyst - WebSphere Application Server
+Location:Toronto, ON, CA
+Date Posted:2015-06-18
+URL:https://jobs.rbc.com/job/Toronto-Senior-Technical-Support-Analyst-WebSphere-Application-Server-ON/268371400/
+description
+
+
+
+
+this position will be responsible to provide software support for the evaluation, installation, maintenance and trouble shooting for 
+ibm’s websphere application server 
+and a number of associated products along with any rbc customized code that run on the intel, aix, and linux platforms. these products and code run in the guelph computing center, three canadian production computing centers and a number of international locations.
+
+
+this infrastructure provides a rich application runtime environment for j2ee and web services based applications with enhanced capabilities for transaction management, security, performance, availability, connectivity, and scalability for dynamic e-business applications.
+
+
+software support includes ensuring proper monitoring and alerting is in place for problem avoidance, determining and recommending performance improvements in the enterprise middleware space to ensure optimal use of system resources and providing consulting services to applications that utilize these services.
+
+
+support mission critical middleware applications.
+
+
+
+
+ 
+
+
+all responsibilities carried out in accordance with the code of conduct and guiding principles
+
+
+  
+
+
+primary responsibilities
+
+
+
+
+technical analysis, design and consulting
+
+
+identify and make recommendations on exploitation of new feature / function of supported vendor software and rbc written code to ensure proper use of technology while adhering to rbc’s long-term architectural direction.
+
+
+maintain a very good understanding of supported technology as well as interfacing technology supported by other areas of rbc
+
+
+recommend strategies to drive down cost and improve efficiencies with supported vendor software and rbc written code to ensure optimal use of available resources.
+
+
+ensure that supported vendor software and rbc written code maintained by the incumbent are maintained at appropriate levels to ensure rbc remains on the leading edge of technology. the expectation is that vendor software will be upgraded to new version, release and/or maintenance levels within 12-18 months of said software becoming available.
+
+
+
+
+ 
+
+
+ 
+planning, implementation & support
+
+
+
+
+ensure that changes to supported vendor software and rbc written code maintained by the incumbent are documented in the rbc change management system and emergency changes destined for the production systems are within the organizational standards.
+
+
+ensure that problems with supported vendor software and rbc written code maintained by the incumbent are isolated and resolved in a timely manner such that impact is kept to an absolute minimum. this task includes internal and vendor escalations as required.
+
+
+ensure that operating manuals are created and kept up to date.
+
+
+provide detailed consulting services to application development initiatives through direct involvement in project planning to ensure time estimates are realistic, proper use of technology and best practices are followed.
+
+
+provide expert technical advice to operations staff in ncc and application developers as required to assist in resolution of their problems.
+
+
+
+
+ 
+
+
+experience/knowledge
+
+
+
+
+java and j2ee technology (d)
+
+
+web-based applications and services within a multi-tiered architecture environment (d)
+
+
+websphere application server (p)
+
+
+installation and support of high volume 7x24 operations (p)
+
+
+http and t3 as the message transport protocols (p)
+
+
+xml (d)
+
+
+ejb and jsp application components (p)
+
+
+tcp/ip (d)
+
+
+dns (d)
+
+
+nfs (d)
+
+
+css/network equipment (d)
+
+
+unix operating systems (aix, solaris and linux) (p)
+
+
+windows operating systems (p)
+
+
+scripting experience (d)
+
+
+system performance and tuning (d)
+
+
+websphere mq (d)
+
+
+cics transaction gateway (d)
+
+
+ims connector (d)
+
+
+database principles (jdbc connection pool, datasource) (d)
+
+
+security practices in e-commerce environment (d)
+
+
+system monitoring (d)
+
+
+job scheduling (b)
+
+
+java programming language (p)
+
+
+java native interface (p)
+
+
+windows desktop (p)
+
+
+windows server operating system (p)
+
+
+windows networking (d)
+
+
+windows registry (d)
+
+
+mq series (d)
+
+
+tcp/ip (d)
+
+
+dns (d)
+
+
+network principals (d)
+
+
+apache web server (d)
+
+
+openssl (d)
+
+
+http (d)
+
+
+html (d)
+
+
+network security concepts (d)
+
+
+database principles (d)
+
+
+
+
+*skills requirement level scale:
+
+ b – basic understanding
+
+ d – developing working knowledge/proficiency
+
+ p – proficient 
+
+ e – expert
+
+
+ 
+
+
+working conditions
+
+
+
+
+supporting a 24x7 environment which requires evening/weekend implementation involvement/support
+
+
+on call support requirement
+
+
+onsite after hours support as required for change and troubleshooting activities.
+
+
+high stress working environment.  commitment to remaining with a troubleshooting effort to end of job is required.
+
+
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front st. west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+90121
+
+
+posting notes:  
+none
+
+

@@ -1,0 +1,93 @@
+:
+o
+ 
+provides thought-leadership to fellow team members and business partners across business and technical project dimensions solving complex business requirements.  this includes scope definition, requirements analysis, functional and technical design, application build, product configuration, unit testing, and uat and production deployment.
+o
+ 
+ensures delivered solutions meet/perform to technical and functional requirements.  
+o
+ 
+provides technical expertise and ownership in the diagnosis and resolution of an issue, including the determination and provision of workaround solution or escalation to gcs and/or product engineering.
+o
+ 
+identifies project technical risks.
+o
+ 
+ensures delivered solutions are realized in time frame committed.  works in conjunction with engagement leader to size, manage scope and risk.
+o
+ 
+provides support and technical governance focused on one or more projects at a single client, in partnership with pega coe.
+o
+ 
+act as the mentor to all team members on their assigned project tasks.  
+o
+ 
+focused on customer success (realization of business benefit)
+o
+ 
+keep current on rapidly changing technological trends, self-teach new technologies and maintain an understanding of the division’s business and technology strategies.
+qualifications:
+•
+ 
+advanced knowledge of the prpc architecture and all prpc design and implementation features.
+•
+ 
+solid understanding of reuse and portability in terms of enterprise solutions seeking to determine and develop repeatable, efficient and optimal ways of implementing pega.
+•
+ 
+ps sme that acts as a resource to the organization; pro-actively responds to ad-hoc questions from the field
+•
+ 
+specialized knowledge of financial industry and applicable frameworks considered asset
+•
+ 
+creative and flexible in identifying technical solutions to resolve business problems in a rapidly changing, demanding and complex business environment. 
+•
+ 
+excellent interpersonal and relationship building skills in order to deliver proposals, provide user support and interact with team members and other departments. 
+•
+ 
+ability to quickly and independently develop an advanced knowledge of the prpc architecture and all prpc design and implementation features. 
+•
+ 
+flexible and adaptable, the individual will be open to learning new methodologies, tools, platforms and systems.
+•
+ 
+role requires individuals to be open minded, able to make sound decisions without having all the facts
+•
+ 
+highly analytical, the individual is able to quickly understand how various elements relate to one another, having an end to end perspective of decisions and anticipating issues/roadblocks 
+•
+ 
+ability to meet and manage tight and changing deadlines and priorities
+•
+ 
+expert communication, negotiation and influencing skills in order to drive dialogue with business partners in order to understand their underlying needs and requirements while managing their expectations given the limitations of the framework
+•
+ 
+solid customer focus skills to discern underlying client needs and foresee opportunities to enhance level of service and increase solution’s scalability 
+•
+ 
+strong team focus with a genuine interest in working collaboratively with others, mentoring  peers and being open to giving and receiving constructive feedback
+education and accreditations:
+•
+ 
+typically requires bs degree with 7 years of experience, or master’s degree with 4 years of experience (computer science, computer engineering, and electrical engineering). 
+•
+ 
+experience in analysis, design, development, and application deployment of large scale java centric enterprise application systems.
+•
+ 
+experience in j2ee (jsp, servlets, ejb, xml, java), oracle and/or db2 and ms/sql
+•
+ 
+experience in websphere or weblogic application server 
+•
+ 
+strong oo experience     
+other information:
+ 
+job posting code: agile
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

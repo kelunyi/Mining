@@ -1,0 +1,29 @@
+:
+•    analysis, design and development of scripts using sql, pl/sql stored procedures
+•    analysis, design and development of scripts using unix, perl & php
+•    work with development team, test team, business and vendors to resolve defects and data issues
+•    assist in project documentation and other project administration activities
+•    analysis and design based on business requirements
+•    develop using rational tools such as rational application developer, clearcase (base & ucm), and requisite pro
+•    work with problem log management tools such as hp quality centre
+•    design reports using tools such as i-net crystal-clear report designer
+essential criteria:
+•    eagerness to learn and thrives on challenge
+•    excellent communication skills, both oral and written
+•    excellent interpersonal skills and a good work ethic
+•    strong analytical, problem solving and troubleshooting skills 
+•    previous experience with relational database systems such as oracle and sybase
+•    previous programming experience and knowledge of object-oriented programming methodologies
+desirable (but not critical) criteria:
+•    previous on the job developer/analyst experience
+•    working knowledge of pl/sql, stored procedures, unix shell scripting, database modeling
+•    programming experience in java or similar language
+•    previous banking, wealth management, brokerage or financial industry experience
+working conditions:
+•    business casual attire
+•    normal business hours
+•    downtown toronto in the heart of the financial district
+•    close to shopping, go trains, subway and buses
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

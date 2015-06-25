@@ -1,0 +1,32 @@
+:
+the co-op student within decision sciences will, under the direction of a senior manager, perform a variety of functions:
+• network construction, data transformations and application of network analytics to complex business issues, involving relationships among both entities and individuals, to better understand transaction effects and interactions and allow for better business decisions
+• apply statistical analysis, implement machine learning algorithms that will provide actionable insight to internal banking clients.
+• assist the department with the transition to its new python and ‘r and hadoop’ environment 
+• create documentations of existing tools / methodologies
+• assist with adhoc tasks
+• efforts will be made to accommodate the student’s interests and strengths, but the focus will be on providing 
+suport to existing projects
+qualifications:
+• open to undergraduate/graduate students or recent graduates looking to gain experience within field
+• degree in computer science, statistics or related field
+• strong foundation in software engineering and core computer science
+• strong background in python
+• quick learner, inquisitive by nature
+• experience with unix/linux operating systems
+• familiarity with r, mapreduce, hadoop ecosystem is a plus
+• familiarity with graph theory, hits, pagerank, svd is a plus
+• no experience in sas, r required, but incumbent must be willing to learn sas at a proficient level prior to 
+joining the team
+working environment:
+• due to the nature of the work, longer working hours will be required prior to project deadlines
+• business casual attire
+• scotiabank co-op orientation: opportunity to meet and network with all co-op students working at scotiabank each term.
+• office near king st. / yonge st. financial nexus in downtown toronto
+please submit:
+• resume and brief cover letter
+• scanned copy of most recent transcript.  only applications with transcripts will be considered.
+• standardized test scores (gmat, gre, ap, ib, sat etc)
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

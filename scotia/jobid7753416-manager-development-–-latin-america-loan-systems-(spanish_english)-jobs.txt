@@ -1,0 +1,37 @@
+:
+• build and manage a cohesive development team (direct and indirect reports, onsite and offshore), coordinating resources, managing project scheduling, providing technical direction, and maintaining standard development practices for the applications assigned to his/her portfolio.
+• ensure proper support procedures, processes, methodologies, best practices, documentation and tools are in place to support the various projects and existing production systems.
+• negotiate it project requirements such as scope, schedule, cost, resources, integration, change, quality, etc…
+• responsible for the development project schedule, deliverables and quality code.
+• manage communication across the enterprise groups that impact scope, schedule, budget, risk & resources.
+• build strong working relationships with peers, business lines and stakeholders.
+• participate in budgeting processes for the department.
+• establish and champion quality improvement activities for the department.
+• accountable for managing assigned projects and department budgets.
+• participate in vendor product assessment and selection.
+• perform code reviews, functional reviews as necessary, ensuring quality and efficiency and focused on timelines.
+• meeting scheduled milestones to ensure project objectives are met in a timely manner and are in compliance with the it technology roadmap as well as other bank’s standards and/or external regulatory standards such as sox (sarbanes–oxley act).
+• mentor team members and manage the staff, recruitment, retention and staff performance.
+• guided by the bank policy and receives general direction from the senior manager or director.
+• function independently to ensure that the assigned tasks and project objectives are met.
+qualifications:
+• must be fluently bilingual in both spanish and english as you will need to conduct meetings and review documents in spanish.
+• must have 5 years of demonstrated progressive it working experience within the banking industry.
+• must have past experience leading development, preferably working with as/400,   rpg, sql, java, html/dhtml
+• exceptional written and oral communication skills
+• strong project management skills, able to multi-task and manage concurrent projects.
+• strong leadership, mentoring, coaching and motivational skills.
+• strong and demonstrated ability to build lasting relationships with key stakeholders.
+• ability to manage geographically distributed development teams, including onshore and offshore.
+• strong vendor management skills, including managing outsourced development teams.
+• disciplined in development methodology and experience with software development technologies and concepts.
+• must be quality driven and able to inject quality into the team member's tasks, measuring and improving quality and efficiency metrics.
+• excellent problem solving skills have vision and innovative approach to computer based solutions and ability to convey these ideas.
+• must be flexible to adapt to a dynamic environment, make quick and sound decisions under pressure.
+• must be reliable, pro-active, results-oriented, customer-focused and attentive to details.
+• excellent time management and organizational skills in order to deliver projects in a timely manner and deal with conflicting priorities and tight deadlines.
+education and accreditations:
+• post graduate degree in computer science, business, math or engineering related discipline is desirable; along with 5-8 years of practical experience.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

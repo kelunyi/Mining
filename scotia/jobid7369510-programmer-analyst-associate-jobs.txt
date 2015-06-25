@@ -1,0 +1,25 @@
+:
+reporting to the project leader and/or team lead, the individual will be responsible for: analysis, design, development, test and implementation of projects.
+document technical proposals, estimates, system, test and implementation plans, processes and procedures.
+work with team members, onsite and offshore contractors, other technical teams, business client
+provide input to team lead for technical, operational and business areas to resolve application, security and network/communication issues.
+assist project leader in developing project plans and coordinating project deliverables.
+demonstrate ability to support test environments.   
+qualifications:
+essential criteria:
+excellent oral and written skills, ability for both technical and business writing is desirable.
+experience with cobol and/or assembler programming languages.
+experience performing evaluation on user requirements with good analytical skills.  
+flexible and adaptable team player that is service-oriented. 
+experience with creating test strategies, scripts and plans according to external and general design documentation.     
+experience using online systems for organizing and tracking during test phase i.e. hpqc, problem management system, etc.
+education and accreditations:
+computer science degree or community college equivalent.  
+courses in sdlc, ba analysis, and project management would be an asset.
+other information:
+the position will require occasional intermittent overtime and providing after hours support via pager
+candidate should have minimum two years relevant experience in a mainframe development and support environment.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

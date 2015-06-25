@@ -1,0 +1,181 @@
+Title:Electronic Trading Support Analyst
+Location:New York, NY, US
+Date Posted:2015-06-20
+URL:https://jobs.rbc.com/job/New-York-Electronic-Trading-Support-Analyst-NY/249125200/
+purpose
+
+
+the electronic trading support analyst will be the liaison between the business unit / traders and technology for capital markets – equities, portfolio & algorithmic trading related issues.
+
+
+ 
+
+
+primary responsibilities
+
+
+
+
+level two support and liaison between business unit/traders and technology for cash equities application & algorithmic electronic trading related issues.
+
+
+monitoring and management of the applications.
+
+
+escalate issues to ems, network, systems, dba & other service groups for quick identification & resolution.
+
+
+contact exchange to resolve connectivity problems; issues with receiving rejects on orders, cancels or amends; getting outs/cancellations on stuck orders or any other trade related issue.
+
+
+troubleshoot & fix booking & reporting related breaks identified by operations and/or front-office control.
+
+
+conduct war-games & document recovery procedures for faster turn-around & lesser business impact.
+
+
+conduct training & knowledge sharing sessions and documentation of all support related information.
+
+
+support the integration of new releases, bug fixes, patches and configuration changes into production, including post release checks and trader training / notification.
+
+
+
+
+ 
+
+
+required skills:
+
+
+
+
+must have a bachelor’s of science degree or equivalent.
+
+
+5+ years of experience in financial domain.
+
+
+5 + years of experience in perl & shell scripting.
+
+
+strong knowledge of sql.
+
+
+strong knowledge of linux/unix programming.
+
+
+well versed with networking protocols and topologies.
+
+
+
+
+ 
+
+
+preferred skills:
+
+
+
+
+working knowledge of  fix protocol.
+
+
+excellent oral/written communication skills.
+
+
+ability to multi-task & handle high-visibility outage situations.
+
+
+
+
+*li-ac
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+new york
+ 
+
+
+address:
+  
+3wfc
+ 
+
+
+work hours/week:
+  
+40+
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+regular - u.s.
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+exempt
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+04/18/2015
+ 
+
+
+req id:
+  
+84143
+
+
+posting notes:  
+sf:efc; sf:jb
+
+

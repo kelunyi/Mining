@@ -1,0 +1,38 @@
+:
+1. manage the uat process by analyzing user requirements, participate in design sessions, preparing uat strategies, plans and completion reports.  preparing, documenting and executing detailed uat functions/cases and ensuring anticipated results are achieved.  raise and manage defects, working with business users, project team and developers to ensure that defects are investigated, resolved and retested prior to implementation. 
+2. manage the coordination of day to day testing efforts for assigned application systems and project testing efforts with other testing personnel, end users, technical support and development areas. 
+review planned activities for future initiatives, participate in forward-planning sessions and identify/ resolve conflicts between initiatives.
+troubleshoot when problems arise and contribute to their resolution in a hands-on manner when necessary.
+3. provide effective operational support for the various hr systems by:  investigating, analyzing and resolving system interface issues, providing sound recommendation for resolution and identifying risks, raising production defect logs and performing uat of the solution and providing sign-off for implementation to production.
+ 
+4.  direct and guide project test teams to ensure the timely delivery of quality products/ functions consistent with the business needs and priorities of our business partners.  manage testing for assigned application systems by reviewing and evaluating requirements and design documentation, developing test strategies, approving the preparation of comprehensive test documentation, overseeing daily testing activities and monitoring the ongoing progress of testing.
+5. participate in work sessions to develop external design documents to gain a full understanding of a project and to ensure requirements are adequately documented to allow for their efficient translation to test materials.
+6. provide ongoing direction, human resources administration, coaching and support to motivate individual and team performance in a stable, professional environment while ensuring department objectives are met.  evaluate the performance of immediate subordinates through daily monitoring, regular staff meetings, quarterly reviews of objectives vs. accomplishments and annual performance appraisals.     
+qualifications:
+the individual must understand business requirements and be able to document testing strategies/plans that realize automation opportunities and detail the appropriate testing required to ensure business objectives are met with minimal risk to the bank.  he/she must have a comprehensive understanding of mainframe, client/server, and web technology and their interfaces to one another and the different testing processes required for each platform.  the individual must be able to effectively manage multiple concurrent projects and prioritize workload while meeting business objectives.  
+to effectively perform the accountabilities of this position, the incumbent should possess the following knowledge:
+- a high level understanding of the core hr systems and their interfaces to hris
+- agile knowledge and test management experience in a sas environment
+- the ability to manage large volumes of work and deliver against timelines
+- hands on testing experience with data conversion projects, hr applications experience is an asset.
+- excellent communication skills with a natural ability to articulate business need to technical solutions.  
+- complete understanding of the relationship between complex i.t. banking systems, their interfacing applications, environmental resources and code layering across multiple platforms; this seasoned and specialized knowledge is acquired through hands-on experience with the business and technical dimensions of multifaceted projects 
+- excellent communication and leadership skills to address issues with qa testing and other department staff who have varying degrees of experience and technological knowledge
+- expert understanding of uat standards and methodology
+- strong analytical, forward thinking, decision making and organizational skills to coordinate both complex code delivery schedules and the allocation of limited resources and to resolve conflicts for multiple projects
+education:
+- strong communication (written and oral) and interpersonal skills required
+- project management experience 
+- computer science education 
+- excellent  excel, ms access, sql, data models, query tools, relational databases and web literacy 
+work experience:
+- 5 years in financial institution or other sectors heavily regulated
+- 5 years quality assurance testing experience preferably in hr role
+other information:
+- sap success factors experience is a must have
+- agile knowledge and test management experience in sas environments
+- hands on testing experience with data conversion projects, strong sql skills and hr applications experience is an asset.
+- excellent analytical and communication skills
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

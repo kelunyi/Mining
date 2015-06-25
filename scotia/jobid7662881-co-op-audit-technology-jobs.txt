@@ -1,0 +1,24 @@
+:
+the scotiabank audit department provides enterprise-wide independent assurance over the design and operation of scotiabank's controls and operational processes and provides advisory services designed to improve the group's operations. together with the security & investigation (s&i) unit, the department is staffed with over 480 seasoned professionals in canada and at several international locations.
+ 
+the co-op student will work with the audit technology group, as part of a team, on specific tasks and projects related to the support of the technology deployed and the office automation programs used in the audit and s&i departments. 
+ 
+key accountabilities for this role include:
+• assist in the day-to-day user support and support of audit and s&i in-house built, and vendor purchased office automation systems for our canadian-based and international staff.
+• assist in providing administration and control around network, database and application security management, including logical access and process flows for the reporting applications, databases on the various servers, reports, surveys, and data directories on the servers.
+• assist in coordinating end user technology support for our staff with ibm, including pre-acquisition consulting on compatibility and infrastructure requirements, and the resulting development and submission of business cases for new equipment as required. this includes the coordination and execution of hardware, software and operating system updates/upgrades/deployments for workstation, network printers and servers, as well as asset management.
+• assist in project work related to the review, assessment and implementation of vendor office automation systems. also, assist in the deployment of workstation updates driven by the bank and ibm, which will include understanding what will be deployed, determining impact on department pcs and processes, and participating in pilot testing prior to the mass deployment to the department.
+• assist in other duties as assigned.
+ 
+qualifications:
+• strong it background (windows 7, xp, nt, microsoft iis, sql server, notes r6, vpn etc.)
+• programming and database technology (note: there may be some limited exposure to programming)
+• solid experience helping users with ms word, excel, powerpoint, access, vb; basic knowledge of pc networking
+• work effectively in a team environment, have good time management skills, effective listening and communication skills
+ 
+working conditions:
+• business casual attire
+• close to go train, subway and buses
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

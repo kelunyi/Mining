@@ -1,0 +1,16 @@
+ for this role include:
+• assist in the development of trading application modules
+• assist in technical support during user acceptance testing
+• participate in systems implementation, planning, and documentation development
+qualifications:
+• analytical mind to apply problem solving skills to think conceptually out-of-the-box
+• object oriented and functional programming skills using java, c++, .net, scala
+• knowledge with sql language and rdbms such as sybase or oracle
+• unix scripting skills with unix shell, perl etc. 
+• web development in angularjs, restful webservices would be ideal
+• strong interpersonal & communication skills, both oral and written
+• computer science, engineering and other related discipline
+• experience working in an agile development environment is beneficial
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

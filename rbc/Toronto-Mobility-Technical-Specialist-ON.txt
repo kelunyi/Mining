@@ -1,0 +1,236 @@
+Title:Mobility Technical Specialist
+Location:Toronto, ON, CA
+Date Posted:2015-06-19
+URL:https://jobs.rbc.com/job/Toronto-Mobility-Technical-Specialist-ON/254538900/
+purpose
+
+
+ 
+
+
+the 
+mobility technical specialist
+ is a key role within the ea community of practice in speeding the adoption and growth of rbc mobile applications by providing the following key functions of the enterprise architecture practice centers:
+
+
+ 
+
+
+
+
+provide leadership on the construction and maintenance of robust, secure and efficient mobile applications and reusable frameworks.
+
+
+provide leadership on mobile application development tools and application platform infrastructure support.
+
+
+provide expert counseling to application development community.
+
+
+define guidelines and standards for mobile application design, development and deployment.
+
+
+
+
+ 
+
+
+the vision for the enterprise architecture community of practice is to be ‘viewed as an indispensable partner in maturing rbc's implemented business and technology capability in order to most efficiently and effectively enable the business vision and strategy’.
+
+
+ 
+
+
+key aspects of the ea value proposition include:
+
+
+
+
+accelerating rbc’s maturity in critical business capabilities.
+
+
+enabling strategic imperatives by providing actionable architecture direction for the maturation of critical business and technology capabilities and solutions.
+
+
+achieving a rationalized portfolio of effective and efficient business and technology solutions that cost effectively enable the business, e.g., through:
+	
+
+
+leverage of shared services.
+
+
+reducing redundancy.
+
+
+simplification.
+
+
+
+
+
+
+appropriately balancing the benefits of enterprise consistent shared services with the need for strategically critical flexibility at the line of business and regional level.
+
+
+enabling agility and adaptability to shifts in business and technology strategy.
+
+
+
+
+primary responsibilities
+
+
+
+
+maintain an in-depth understanding of the rapidly evolving mobile technologies.
+
+
+maintain an in-depth knowledge of other platforms and technologies such as j2ee, .net and esb in order to provide interoperability solutions.
+
+
+research on future mobile and related features & functions and provide migration roadmap for applications.
+
+
+identify and recommend new cost effective mobile application development solutions to meet/exceed business objectives.
+
+
+provide technical leadership, expert counsel and guidance to application community.
+
+
+define/maintain mobile application design, development and deployment guidelines and standards.
+
+
+define mobile runtime and development tooling migration strategy and guidelines for applications.
+
+
+
+
+job specifications
+
+
+ 
+
+
+required:
+
+
+
+
+undergraduate degree in computer science, engineering, or equivalent experience.
+
+
+15+ years of experience in it, at least 7 years in java or .net middleware technology and 2 years in mobile application development in large complex enterprise environments using ibm worklight application development platform, html5/javascript/css3 programming and multi-mobile o.s. platforms including ios, android, blackberry 10 and windows phone 8.
+
+
+advanced knowledge, experience, and understanding of architecture, application development, application systems design, and integration.
+
+
+deep expertise in ibm worklight platform and java application servers.
+
+
+capability to establish and maintain effective partnerships and relationships with global architecture areas, application development, t&o management, rbc business groups, global technology infrastructure, and others.
+
+
+excellent written and verbal communication skills.
+
+
+strong analytical, consultative, and team communication / facilitative skills.
+
+
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+define various guidelines and standards for mobile applications.
+
+
+set mobile application migration (including tooling) strategy.
+
+
+cross-organizational and multiple business line impact.
+
+
+
+
+key relationships
+
+
+ 
+
+
+
+
+reports to the sr. manager, enterprise architecture practice centers.
+
+
+interaction with rbc communities including the technology and operations (t&o) application development (ad), global technology infrastructure (gti), and enterprise architecture (ea)
+
+
+partner with key capability areas with rbc infrastructure and application development groups as well as within the ea community of practice.
+
+
+partner with rbc vendors and alliances
+
+
+
+
+time allocation
+
+
+ 
+
+
+
+
+develop and maintain rbc worklight hybrid mobile application development frameworks and platform solutions (45%)
+
+
+provide expert consultation to application groups (35%)
+
+
+develop processes, strategies, guidelines and standards (20%)
+
+
+
+
+*li-fh1
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors. 
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+posting notes:  
+n/a
+ 
+
+
+ 
+
+
+ 
+
+

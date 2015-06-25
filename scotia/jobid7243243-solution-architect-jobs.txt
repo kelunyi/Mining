@@ -1,0 +1,41 @@
+:
+1) architecture roadmap
+- create and maintain application architecture roadmap, adjusting for business and technology changes
+- establish architecture standards, patterns and best practices
+- create transition plan to meet the roadmap requirements
+2) projects
+- provide guidance and leadership to development teams regarding architecture, design, development and testing
+- lead and participate in vendor products and technology evaluation
+- provide resource and costing estimates for project plan and business case preparation
+- provide technical review of application design
+- identify areas of risk on a project and ways to mitigate these risks
+3) operations
+ - ensure that the solution is scalable, secure and supportable
+- accountable for solutions and operations, will participate in problem resolution when required
+ 
+qualifications:
+at least 10 years working experience in a highly technical, architecture related field
+understanding of business processes and requirements
+a wide breath of technical knowledge including web, services, application architecture, data architecture, mid-tier and mainframe technologies, and integration technologies.
+in-depth understanding in a number of technical areas.
+experience with business process, data, and application architecture.
+understanding of the relationship between applications and infrastructure including performance, availability and recovery.
+has in-depth knowledge of state-of-the-art programming languages and object-oriented approaches in designing, coding, testing and debugging programs
+good knowledge of relational database design and implementation
+excellent knowledge of application development methodology, best practice, design patterns, and architecture
+customer service oriented, willingness to provide assistance that may go beyond
+strong analytical and problem resolution skills
+strong verbal and written communication skills
+strong interpersonal skills
+positive working altitude
+familiar with banking products would be an asset
+thinking out of the box
+thought leadership and innovative
+keep current with emerging business and technology trends 
+education and accreditations:
+post-secondary education in computer science, math, or related discipline.
+other information:
+job location will be scarborough
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

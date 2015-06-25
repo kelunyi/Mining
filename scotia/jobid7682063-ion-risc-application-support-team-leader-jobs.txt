@@ -1,0 +1,42 @@
+:
+as the team lead you will:
+•
+ 
+be responsible for the availability, stability and reliability of systems, applications and 1st line support functions dedicated to scotiabank’s global banking & markets (gbm) global exchange traded operations across na, europe & asia.
+•
+ 
+be expected to provide functional and technical support to assist the business in its day-to-day activities.
+•
+ 
+have an opportunity to lead / manage application support professionals within the team, both locally and remotely.
+•
+ 
+strive to enhance operational efficiencies and reduce operational risk.
+you work closely with derivatives operations business analysis team in toronto and the successful candidate is expected to own incident and change management processes.
+additional to its primary purpose, the role also offers continuous engagement in the delivery of local, regional and global projects.  the successful candidate is therefore expected to build strong and lasting relationships with the business, global ba and development teams, infrastructure partners and vendors.
+systems and applications comprise vendor and in-house built tools, including ion trading solutions such as risc, prysm, arc, ocr, fees direct applications and in-house downstream solutions.
+qualifications:
+•
+ 
+excellent working knowledge of ion trading solutions, particularly ion risc, prysm, arc, ocr, feesdirect applications
+•
+ 
+3-5+ years’ experience supporting global exchange traded operations systems and end-users
+•
+ 
+3-5 years of experience with financial markets and products, in particular exchange traded derivatives
+•
+ 
+a strong focus on client service and delivery
+•
+ 
+knowledge of it project & development lifecycles (sdlc) within investment banks
+•
+ 
+excellent organizational, facilitation and communication skills
+education and accreditations:
+a recognized post-graduate degree in business, computer science, mathematics or a related discipline.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

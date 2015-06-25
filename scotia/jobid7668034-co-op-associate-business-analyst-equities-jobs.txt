@@ -1,0 +1,28 @@
+: 
+as an associate in the global wholesale technology business analysis team for institutional equities (gwt-ie bas) you will be responsible for supporting the technology that facilitates mid-office clearing (trade management) as well as a data warehouse (equity management information system) utilized by institutional traders at scotiabank. your role as an associate will be to work under the guidance of a business analyst assisting them as directed in facilitating the gathering of requirements, writing specifications, organizing documentation, executing test cases, and providing end-user support. gwt-ie bas act as a liaison between the business users and development teams.  as a member of a small agile team, you will have the opportunity to work on a variety of new initiatives as well as provide operational support for existing applications. 
+key accountabilities for this role include:
+• assist in analyzing, capturing and documenting requirements utilizing best practices and methodologies
+• participate in all stages of the sdlc to ensure requirements and deliverables are met within specifications
+• write clear and accurate documentation to be used for both support and development purposes
+• communicate with internal and external teams (both technical and non-technical) to coordinate work efforts 
+• as a domain expert, work jointly with other bas to determine the impact of changes to related systems
+• ability to work on multiple concurrent initiatives with fluid priorities
+• provide 2nd level operational support for a number of mission critical applications 
+• ability to negotiate with various teams/groups to ensure work is done in a timely manner
+• other duties as required
+qualifications:
+• excellent interpersonal and communication skills, both written and oral
+• strong time management skills, along with well-developed analytical and critical thinking skills
+• experience working in a task and goal oriented environment
+• a degree focus in business, commerce, economics, computer science or other related discipline 
+• ability to work both independently and as part of a team
+desirable criteria:
+• preference will be given to individuals with a financial background and operations/technology experience in equities.  an understanding of the software development life cycle and/or sql is a plus.
+working environment:
+• close to go trains, subway and buses
+• business casual attire
+• flexible working hours
+• on-site cafeteria, atm
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

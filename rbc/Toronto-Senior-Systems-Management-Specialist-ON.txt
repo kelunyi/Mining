@@ -1,0 +1,327 @@
+Title:Senior Systems Management Specialist
+Location:Toronto, ON, CA
+Date Posted:2015-06-19
+URL:https://jobs.rbc.com/job/Toronto-Senior-Systems-Management-Specialist-ON/274823700/
+purpose
+
+
+this position is part of the team responsible for the support and development of the enterprise monitoring systems used within rbc capital markets. reporting to the manager of the monitoring group the incumbent will drive bsm (business service magement) solutions and deliver to the it support teams. as a senior post a high level of professionalism, industry knowledge and drive is required to ensure the service provided matches the businesses needs.
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+act as lead point of contact for application teams for all systems monitoring & service modelling queries.
+
+
+development and support of the global itrs geneos service
+
+
+support and manage the netiq noc (managed objects) service / infrastructure.
+
+
+provide support for the groundwork & mom/scom services / infrastructure in association with esm.
+
+
+support and manage for ganglia and scom performance metrics
+
+
+work with application and infrastructure teams to advise on monitoring approaches and strategies.
+
+
+evaluate and implement new monitoring tools and processes.
+
+
+participate in review of alert escalation processes and procedures
+
+
+issue and problem management.
+
+
+provide out-of-hours cover for appropriate technologies.
+
+
+participation in strategic technology initiatives across infrastructure silos where appropriate.
+
+
+
+
+key relationships
+
+
+
+
+
+
+capital markets infrastructure and application support teams
+
+
+
+
+
+
+global infrastructure services managers & senior managers
+
+
+
+
+project management office
+
+
+
+
+ 
+
+
+
+
+enterprise systems management
+
+
+
+
+ 
+
+
+
+
+key vendors (e.g. itrs, netiq, groundwork, microsoft, cisco)
+
+
+
+
+education & experience
+
+
+required
+
+
+
+
+high level of expertise in enterprise systems management:
+	
+
+
+event monitoring
+
+
+capacity planning
+
+
+performance management
+
+
+workload automation
+
+
+
+
+
+
+good understanding of information dashboard design.
+
+
+background supporting mission critical systems.
+
+
+understanding business challenges and providing solutions.
+
+
+delivery of medium/large scale it infrastructure projects.
+
+
+good level of presentation skills
+
+
+
+
+competencies
+
+
+behavioural
+
+
+
+
+good problem solving skills.
+
+
+ability to manage and prioritise own and team tasks.
+
+
+managing change across diverse regions.
+
+
+build partnerships across the organisation.
+
+
+focus on it service delivery.
+
+
+developing people through coaching and mentoring.
+
+
+
+
+ 
+
+
+technical
+
+
+
+
+scripting (shell, perl, batch and java)
+
+
+strong linux/unix knowledge
+
+
+itrs geneos
+
+
+mom/scom
+
+
+netiq noc (managed objects)
+
+
+nagios / groundwork
+
+
+ganglia
+
+
+zabbix
+
+
+splunk
+
+
+windows
+
+
+
+
+preferred
+
+
+
+
+degree educated.
+
+
+investment banking experience.
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front street
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/26/2015
+ 
+
+
+req id:
+  
+92196
+
+
+posting notes:  
+none
+
+

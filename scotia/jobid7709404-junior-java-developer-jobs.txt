@@ -1,0 +1,76 @@
+:
+iteratively design, develop, test, deploy, maintain and enhance high quality software solutions
+-
+ 
+contribute clear and maintainable code to a shared codebase
+-
+ 
+look for ways to optimize code (functionality, performance, scalability, reliability, and alignment with product vision)
+-
+ 
+develop unit tests for the code written to verify functionality against specifications
+-
+ 
+troubleshoots issues, debugs and implements code fixes 
+-
+ 
+participate in estimating, tasking, status and stand-up meetings
+-
+ 
+adopt / evolve team development practices such as coding standards, formal refactoring techniques, automated testing, continuous integration, etc. 
+-
+ 
+partner with, welcome input and provide feedback to team members / business sponsors / testers / product owner in order to deliver optimal solutions and build in a continuous improvement mindset
+-
+ 
+collective ownership of project delivery  
+provide technical leadership and subject matter expertise to fellow team members and stakeholders across business and technical project dimensions:
+-
+ 
+research and recommend enhancements to the strategic technology evolution of the product based on new and emerging technologies and industry best practices 
+-
+ 
+actively inform and provide recommendations on technology roadmaps, team development standards, system architecture / integration, data modelling, testing, etc.
+-
+ 
+contribute to building organizational capability and expertise on agile, sharing findings, best practices, and resources, and acting as a champion of the agile methodology 
+qualifications:
+experience/skills
+-
+ 
+java programming skills 
+-
+ 
+mobile/web design experience 
+-
+ 
+familiarity working with databases 
+-
+ 
+javascript, jquery, html5, ajax, json, and css. responsive web design and knockoutjs are pluses
+-
+ 
+experience/familiarity with agile software development methodology and best practices an asset 
+competencies
+-
+ 
+consistently demonstrates great level of collaboration within team and across the organization, working consultatively and influencing change
+-
+ 
+acute attention to detail
+-
+ 
+flexible and open, able to work in a highly collaborative and changing environment 
+-
+ 
+maintains current technology skills and knowledge of industry trends across multiple disciplines and a passion for continued learning and acquisition of new skills
+education and accreditations:
+-
+ 
+undergraduate degree in computer science, engineering, mathematics or equivalent education/experience 
+other information:
+ 
+job posting code: agile
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

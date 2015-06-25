@@ -1,0 +1,53 @@
+:
+1. provision of consulting and guidance on project items inclusive of the business case preparation and management of this documentation through the preparation, presentation, sign-off and approval processes.
+2. work closely with senior management to establish the scope and objectives of the project; monitor and control to the established scope ensuring all participants are focused on delivery of same.
+3. definition of project governance including:
+   a. creating a project overview/reporting responsibilities structure for all work packages within the project.
+   b. creating a roles and responsibilities matrix for all deliverables
+   c. identifying all internal and external stakeholders to the project.
+   d. define a joint project management framework with internal, partner and vendor participants and manage relationships to ensure team members and other stakeholders are working in a cohesive and functional manner, operating towards common objectives and priorities.
+   e. creating a dashboard form of status report for executive reporting.
+4. establish project team and prepare project plan by:
+   a. identifying work package leads from required stakeholder groups (inclusive of partners and vendors); ensuring project budget, roles, responsibilities and deliverables are understood by all participants.
+   b. identifying resource requirements, setting expectations, and overall management of all internal and external stakeholders to enable them to participate in and contribute to the project’s work packages and deliverables in a timely manner.
+   c. creating a consolidated project plan including associated tasks, dependencies based on input provided by participating project teams. this plan will ensure deliverables can be tracked and monitored on a regular basis to meet established timelines and address and/or mitigate challenges related to scope, schedule and budget.
+complexity of position 
+- plans and directs all aspects of the project including planning, scheduling, resourcing, risk assessment, cost/benefit analysis, establishing milestones/final deliverables and overall costs.
+- negotiates project deliverables/schedule/costing for services from other departments within the it function and across the entire organization.
+- provides formalized, continuing work direction and leadership to assigned team(s) of programmers, programmer analysts, systems analysts and technical specialists, business analysts, including the scheduling, assignment, and review of project work.
+- oversees project budget, as well as the budget for discretionary capital expense items.
+- tracks, monitors, and communicates project progress against the project plan, requirements, quality measures, standard processes and milestones.
+- acts as the primary liaison/facilitator between the project team and the business area to ensure business requirements are being met and the current project plan reflects changes to scope, costs, etc. 
+- works with our business partners to identify solutions to complex business problems. this includes the articulation of desired business outcomes, the metrics to confirm success of those outcomes and the identification of key underlying assumptions, business and technology risks, necessary prerequisite initiatives, required supporting actions and intermediary outcomes. determination of organizational and financial feasibility of the project, including the completion of the business case as appropriate.
+- provides consulting and guidance on project initiatives including business case preparation and developing creative/alternative approaches to problem resolution. the focus is to be kept on overall business solutions, not on specific packages or technologies
+- defines the solution ensuring completion of the undernoted activities at the project outset and formal documentation, as per standards, costed and represented on the project plan and tools (i.e. microsoft project):
+> considers business, technical and application architectural standards and emerging solutions 
+> defines development activities at sufficient detail levels 
+> articulates risk-based testing plan and scope; and
+> determines user communication, training and implementation plans
+- co-manages vendors and third parties and negotiates contracts 
+- manages the delivery process including developing creative/alternative approaches to problem resolution. 
+- motivates the project team and maintains the momentum of the project against background of changing and occasionally conflicting priorities
+- communicates project status, completing the monthly project status reports and escalating issues to the stakeholders, sponsor(s); and senior management to the svp and avp level, as required
+- ensures the proper documentation and archiving of project activities, deliverables. tools and findings for future access / projects
+qualifications:
+issue management
+scope planning
+scope change control
+cost estimating
+cost budgeting
+pm process management
+performance reporting
+risk assessment
+education and accreditations:
+bachelor´s degree in computer science, information systems, business
+administration, or other related field or equivalent work experience.
+pmp designation an asset or formal project management training.
+other information:
+5 - 10 years it project management experience.
+flexibility for work location within the gta
+pmp designation an asset.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

@@ -1,0 +1,36 @@
+:
+1. provide ongoing support to the business line from a technology perspective and ensure that appropriate systems solutions are identified and successfully delivered.
+2. ensure that requirements are clearly, accurately and thoroughly documented and understood, either for system changes and/or process changes and that there is value and consistency added to the customer experience by:
+• working closely with the retail lending business line and other stakeholders to understand business needs and identify effective systems solutions.
+• documenting detailed operational & business requirements documents that are agreed to by business lines/delivery channels;
+• partnering with systems development to produce business design documents using the detailed operational requirements documents;
+• monitoring/reviewing design during development phase.
+3. ensure the timely and accurate completion of projects through:
+• production/input to a project charter and overall project plan.
+• production of implementation strategy (as required).
+• procedural documents completed to support users (guidelines, job aids. etc.).
+• participation/presentation of proposed changes to applicable audiences.
+• input provided for the preparation and execution of testing strategies/plans.
+• co-ordination, participation and support of a pilot.
+• assistance provided to develop implementation plan and support implementation;
+• conducting post implementation measurement review of projects.
+• production support.
+4. develop an in-depth knowledge of the bank's hardware, software and application, architecture and development tools and techniques and the state of the art within the industry as well as an awareness of current procedures of all areas affecting the development and operation of systems.
+5. ensure that supervisor or project leader is kept informed of all unresolved issues, other areas of concern and any other deviations from plans through timely and well documented reporting.
+qualifications:
+• must have at least 5+ years of technical working experience as a business analyst.
+• must have excellent verbal/written communication skills in english.  the same in spanish is strongly desired.
+• must have demonstrate advanced working knowledge & experience with requirements management, solutions design, options analysis & business process modelling.
+• must have hands-on technical working experience in the creation & maintenance of test strategies / test plans + the co-ordination of user acceptance testing (uat).
+• must have working experience in developing & maintaining documentation for end-users & various stakeholders.
+• must be adept at training key stakeholders.
+• must have strong interpersonal & presentation skills.
+• must have strong facilitation; organizational & planning skills.
+• prior or current project experiences on collections, corporate lending, small business lending or personal lending is ideal.  knowledge of banking systems is an asset.
+• working knowledge or experience with quality assurance testing; data flow modelling; workflow modelling; process mapping; process improvements; process implementation & communicating change management is an asset to have.
+education and accreditations:
+• undergraduate degree or community college diploma in computer science, or technical or engineering related discipline is desirable.
+• successful completion or enrolment in the international institute of business analysis’ (iiba®) certified business analysis professional™ (cbap®) and certification of competency in business analysis™ (ccba®) certifications are ideal.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

@@ -1,0 +1,80 @@
+:
+1.
+ 
+responsible for planning and directing rcm application/technology project and ongoing support. 
+-
+ 
+typically involving multiple systems and impact more than one area or sub-component(s) of major application/technology projects
+-
+ 
+ensuring it meets the needs of the user group across the platform(s) and adheres to the architectural direction of bank standards
+ 
+2.
+ 
+the director is responsible for functionally managing direct reports and technical teams in the areas of scheduling, technical direction, future planning and standard development practices.
+-
+ 
+provides counseling and coaching
+-
+ 
+recruits qualified resources for projects
+-
+ 
+develops departmental capability to exploit technology and develop expertise to meet future business requirements
+-
+ 
+ensures succession planning for all critical positions
+3.
+ 
+the incumbent is responsible for building and maintaining a strong working relationship with peers/management within the global compliance business and it lines.
+-
+ 
+partnering with stakeholders/teams to translate business strategies/requirements and identify             appropriate solutions to deliver on objectives
+ 
+4.
+ 
+the director in conjunction with the head of global compliance technology will manage the budgeting processes and quality improvement activities for his/her department and/or projects. 
+-
+ 
+interprets, applies and monitors return on parameters and performance indicators for all new initiatives supported by the area
+-
+ 
+may be required to work with project management, business analysis and finance resources to ensure appropriate financial management of projects and operations
+-
+ 
+interprets and implements continuous improvement process for production issues to ensure the effective and timely resolution of problems and knowledge transfer
+5.
+ 
+the director will meet scheduled milestones to ensure rcm project/program objectives are met in a timely manner. 
+-
+ 
+ensures the timely development and/or implementation of solutions
+-
+ 
+actively facilitate problem resolution, in anticipation or response to production problems.
+6.
+ 
+the incumbent will participate in long-range strategy planning and manage policy development to address complex business issues.
+7.
+ 
+defines direction and vision for the team
+leads employee performance to standards of excellence
+builds professional capability in program and project management
+manages performance, rewards and recognition
+coaches and mentors business analysts and other team members to leverage individual capabilities and strengths
+fosters high achievement environment where diversity and people are treated with respect and dignity
+directors and guides people through change
+qualifications:
+- 7-10 years of it and compliance regulatory experience.
+- exposure to regulatory compliance management guideline by osfi e13 would be an asset. 
+- systems knowledge and experience (existing systems and new technologies).
+- business knowledge and experience (understanding of vision, financial objectives/how business functions and core processes interact/the strategic importance of projects, how they relate to scotiabank's goals, how projects interact/impact of change and/or delays in projects).
+- process knowledge and experience in scheduling, resource allocation, risk management and systems design.
+- experienced in the project management of highly complex technology projects.
+- experienced in vendor management, including contract negotiations and managing outsourcers.
+- in-depth knowledge of the principles, theories, practices and techniques for managing the activities related to planning, managing and implementing software projects and programs relating to compliance and regulatory within a f.i..
+education:
+bachelor’s or master’s degree in computer science, information systems, or other related field, or equivalent work experience, csc, pmp/pgmp designation would be an asset.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

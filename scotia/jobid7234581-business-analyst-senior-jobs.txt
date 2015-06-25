@@ -1,0 +1,73 @@
+:
+business analysis & basic consulting
+• provides basic consulting services to business partners on new initiatives (medium to large of varying complexity).
+• supports the planning processes by identifying new or functional enhancement opportunities to improve the product offering to our clients and end users.
+• conducts market/competitive analysis and other research, develops and assists in the presentation of feasibility studies and proposals on strategic initiatives.
+• supports decision making re: project scope and prioritization by performing gap analyses, data integrity analysis, other. 
+• conducts interviews with business, technology, marketing, operations, compliance and other teams from various groups to gather requirements.
+• recommends business solutions that optimize the user experience and satisfy sponsor/stakeholder needs, continually exploring and assessing options for value-add for users.
+• manages the detailed business requirement phase identifying, tracking and resolving issues. 
+• assesses, researches, analyzes and documents sponsor/stakeholder needs in accordance with project methodologies, documentation templates and best practices.  identifies, tracks and resolves minor issues and escalates others.
+• researches emerging trends/best practices, conducts analysis, documents findings and determines implications of proposed solutions on meeting business unit strategy.
+• together with project lead and/or project manager, determines project dependencies and component prioritization.
+• recommends preparation of appropriate new business process documentation and ensures adequate end-user documentation including client communications, error messaging, web site help, etc.
+• assist with the completion of the business case by performing & analyzing relevant data queries.
+• contributes to successful project completion within budget and on time by identifying risks and developing/recommending mitigation strategies.
+user interface design & prototyping
+• works with the business lines and other teams to define the user interface requirements based on the functionality being delivered.
+• recommends interface design elements that enhance the user experience, and that conform to the highest standards of usability; educates the businesses on best practices and determines superior ways of implementing functionality without compromising usability.
+• creates new and/or modifies existing graphical elements using microsoft paint, adobe photoshop, and/or other applications to produce the necessary graphic elements for use on the site as needed.
+• ensures user interface conforms to the site’s predefined style guide, operational/legal constraints, corporate branding, etc.
+planning & testing
+• contributes to the development of detailed plans and accurate estimates for completion of requirements and uat phases of projects.
+• supports various internal and external technology and operations groups through their development, testing, implementation and post-implementation milestones as required to ensure successful completion of the project.
+• contributes to the execution of acceptance testing by supporting and facilitating participation of appropriate staff in uat completion, including preparing and/or reviewing test-cases, providing input re: test data needs and/or executing test scenarios.
+ 
+relationships & communication
+• acts as lead business analyst liaison between business lines, interfacing applications teams, 3rd party vendors, developers and delivery managers.
+• effectively communicates and builds rapport with team members, stakeholders and business partners using a variety of techniques and collaboration from initiation to close.
+• manages relationships and expectations with wealth management business lines and partners such as it&s, support, operations, marketing and other teams, as well as with third-party vendors and/or content providers. 
+• participates in the evaluation of 3rd party vendors and software as relevant.
+• prepares for and participates in complex group meetings and supports in the preparation for jad sessions and information gathering workshops.
+• prepares and delivers presentations to business partners, selecting the appropriate approach based on the audience.
+• resolves minor conflicts/issues and escalates others as appropriate.
+• collaborates with colleagues across the organization to get things done.
+qualifications:
+process knowledge [level*]
+• requirements methods: interviewing, business process modeling, business object modeling (e.g. context diagrams), use-cases, wireframes. [e]
+• project management methodologies. traditional waterfall approach or more agile methodologies. (asset). [d]
+• testing: test strategy, test data preparation analysis, test scenarios, test cases, test execution and reporting. [p]
+• quality controls [p]
+• cost/benefit analysis & alternatives identification [d]
+• gap analysis [e]
+• data integrity analysis & mapping  [e]
+communication [level*]
+• communication and interpersonal skills [p]
+• presentation skills  [d]
+• facilitation skills  [b]
+• conflicts and issues resolution and escalation [b]
+business knowledge [level*]
+• business lines’ business applications / processes / audit requirements [p]
+• factors affecting business [p]
+• bu specific strategies & critical success factors [b]
+systems knowledge [level*]
+• end user systems [p]
+• relevant technologies [p]
+• development standards, methodologies and audit requirements [p]
+people management knowledge [level*]
+• simple coaching for junior staff [b]
+*skills requirement level scale: 
+ b – basic understanding/awareness
+ d – developing/applies existing
+ p – proficient/adapts existing
+ e – expert/creates new
+education and accreditations:
+• a recognized under-graduate degree in business or technology or other discipline related to the canadian securities industry.
+• three years practical experience in the canadian wealth management industry, including a general understanding of instruments traded - equities, options, mutual funds, fixed income, ipos - and the trade execution process. 
+• two years practical experience conducting in-depth business analysis, including precise requirements gathering and authoring of detailed requirements documentation. 
+• professional experience on multiple projects with multiple interfaces and/or 3rd parties
+other information:
+spanish would be an asset.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

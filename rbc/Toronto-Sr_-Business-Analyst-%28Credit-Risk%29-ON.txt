@@ -1,0 +1,394 @@
+Title:Sr. Business Analyst (Credit Risk)
+Location:Toronto, ON, CA
+Date Posted:2015-06-18
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Business-Analyst-%28Credit-Risk%29-ON/274616200/
+purpose: 
+work closely with enterprise risk management business, with a focus on risk capital measurement and analytics, to improve capabilities of it systems and quality of data used for this  . this includes supporting business and it teams in data and business analysis, facilitate creation of and updating of roadmaps, participation in business process re-engineering, new application selection and all parts of the software development life cycle (sdlc)
+
+
+context
+ is medium to large sized projects of medium to high complexity
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+business analysis 
+
+
+
+
+application roadmaps - participate in the creation and updating of application roadmap for enterprise risk management, focusing on risk capital measurement and analytics. help drive a cultural change from “short-term tactical“ to “long-term strategic” planning, design and delivery.
+
+
+organizational change - articulate change and strategy effectively. assess impact of organizational change in a sufficient level of detail.
+
+
+process optimization – identifying opportunities for business process improvements, as well as propose options for those improvements and facilitate their implementation if required. seek out industry trends and organization knowledge to understand alternative approaches / solutions.
+
+
+requirements gathering - document business strategies and goals; coordinate with technology teams to translate into meaningful requirements and specifications. 
+
+
+business systems analysis
+
+
+
+
+
+
+lead detailed analysis and design phases identifying, tracking, escalating and/or resolving business system issues.
+
+
+recommend solutions that satisfy sponsor/stakeholder needs - continually exploring and assessing options for value-add.
+
+
+together with project manager, application development manager and/or technical systems analyst, determine best mix of development, interfacing applications, third party vendor solutions to meet business requirements and project objectives.
+
+
+
+
+ 
+
+
+planning 
+
+
+
+
+work with senior business partners, application development manager and/or project manager to define and create early project deliverables such as idea creation, preliminary assessment and project charter documents.
+
+
+actively participate in rfp and poc phases of projects, if required.  develop criteria for and participate in the evaluation of 3rd party vendors and software as well as due diligence exercises
+
+
+be aware of emerging business and technology trends
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+effectively communicate and build rapport with business sponsors and stakeholders using a variety of techniques and collaboration.
+
+
+facilitate small to large meetings - conduct information gathering sessions; prepare and delivers presentations to business partners and senior management
+
+
+resolves conflicts/issues of medium to high complexity and escalates to others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+position requirements/ specifications  (level*)
+
+
+ 
+
+
+behavioural competencies
+
+
+
+
+ability to communicate detail at the level appropriate for the audience
+
+
+ability to define requirements from business strategies and goals 
+
+
+excellent written and communication skills
+
+
+highly motivated, shows initiative and is enthusiastic. takes accountability for own work
+
+
+ability to effectively multi-task while maintaining high quality standards and attention to detail.
+
+
+ability to cope with changing priorities
+
+
+ability to work effectively with business and it teams.
+
+
+aligns immediate needs with long-term strategies. able to practically apply a long-term vision
+
+
+coach and mentor other business (system) analysts
+
+
+possess in-depth knowledge of business analysis and the ability to coach others as well as perform all aspects of the business analysis and business systems analyst roles
+
+
+
+
+ 
+
+
+education/experience 
+
+
+
+
+business analysis certification and/or completion of ba training courses  (e)
+
+
+minimum of 5 years experience working in risk management within the financial industry
+
+
+minimum of 3 years experience working with risk management application projects.
+
+
+experience working on projects implementing applications for business users (p)
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+strong analytical skill set, to have the ability to transform business goals into requirements (e)
+
+
+use of an end to end requirements (e2e) methodology (p)
+
+
+experience working in projects using iterative and agile methodologies as a business or systems analyst lead (p)
+
+
+ability to deal with conflict and issue resolution and escalation (p)
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+working knowledge of regulatory and economic capital calculation and reporting, basel ii and basel iii regulations (p)
+
+
+highly proficient understanding of risk management concepts and risk analytics (p)
+
+
+
+
+
+
+good knowledge of leading risk practices and regulatory requirements and expectations in financial industry (p)
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+ability to query relational databases and use sql tools independently (p)
+
+
+understanding of it methodologies, change management & audit requirements, segregation of duties requirements (p)
+
+
+
+
+ 
+
+
+*skills requirement level scale: 
+
+
+ b – basic understanding / awareness
+
+
+ d – developing / apply existing concepts
+
+
+ p – proficient  / adapt existing concepts
+
+
+ e – expert  / create new concepts
+
+
+ 
+
+
+how time will be allocated
+ (percent):
+
+
+ 
+
+
+
+
+40% - effectively enable group risk management business to reach their strategic and transformational objectives
+
+
+40% - continually optimize technology and operations cost
+
+
+20% - efficiently participate in day to day operations
+
+
+occasional travel
+
+
+
+
+key organization relationships
+
+
+
+
+reports to:  senior manager, corporate services solutions
+
+
+business partners:  group risk management – enterprise risk, risk capital
+
+
+multiple technology partners
+
+
+
+
+authorities, impact, risk
+
+
+
+
+decision authority:
+
+
+scope, complexity & risk:
+
+
+sizing:
+
+
+impact:
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queen quay w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/29/2015
+ 
+
+
+req id:
+  
+92147
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

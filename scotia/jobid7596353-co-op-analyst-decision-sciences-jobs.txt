@@ -1,0 +1,30 @@
+:
+the co-op student analyst within decision sciences will, under the direction of a senior manager, perform a variety of functions in :
+•    development, implementation, operation and validation of predictive models of customer behaviour for optimizing the targeting of marketing efforts
+•    network construction, data transformations and application of network analytics to complex business issues, involving relationships among both entities and individuals, to better understand transaction effects and interactions and allow for better business decisions
+•    development, implementation and operation of optimization techniques to improve allocation of marketing resources and increase revenue opportunities
+•    development, implementation, operation and validation of predictive models of customer price sensitivity for optimizing revenue opportunities
+•    transitioning the department to its new ‘r on hadoop’ modeling platform
+•    efforts will be made to accommodate the student’s interests and strengths, but the focus will be on providing the widest possible experience of decision sciences activities during the work term.
+key accountabilities for this role include:
+•    collaborate to identify data requirements, extract training and validation/test datasets and apply machine learning or other ai techniques to produce the most accurate models for the purpose as time allows
+•    comparing and reporting on  the performance of models versus controls
+•    collaborating on design, coding, testing and implementation of optimization solutions
+•    collaborate on the construction, maintenance and analysis of database representations of financial networks
+•    support a culture of open code sharing and collaborative development/ innovation within the department
+qualifications:
+•    strong programming skills and familiarity with r, mapreduce, sql, python, hadoop ecosystem 
+(e.g. hive, pig, sqoop, hbase etc.); sas and sql a strong asset.
+•    strong english communication skills, both oral and written
+•    demonstrated enthusiastic curiosity for finding better solutions to complex technical issues
+•    major in statistics/actuarial science, mathematics, physics, chemistry, 
+electrical engineering, computer science or related field
+•    must be able to quickly learn new mathematical concepts, and programming languages
+•    general knowledge of canadian banking products and services would be an asset
+working environment:
+•    business casual or formal attire
+•    close to go trains, subway, buses and located beside the downtown toronto underground path
+•    office near the king st./yonge st. financial district in downtown toronto
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

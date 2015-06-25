@@ -1,0 +1,31 @@
+
+support the associate director, onboarding technology project management in the ongoing analysis, structuring and rollout of new technology and process changes required to ensure onboarding activities are globally coordinated, client-centric, and compliant with regulatory reform impacting global banking and markets globally (including the integration of ongoing developments in kyc/aml/atf  rules, g20 derivative regulatory reform, fatca, etc.).
+draft business requirements by consulting with various user and stakeholder groups, formulate business process flow charts, scope data migration, support data and document migration, and conduct uat and acceptance of technology changes.  apply business acumen, user experience and technological knowledge to analyze and define user requirements for the centralized onboarding technology platform.
+develop business test strategies and test scenarios, conduct testing (uat) and report results for system acceptance.  assist with root cause analysis of defects and their resolutions.
+scope data migration activities, and conduct data migration analysis to support mass data and document loads into the centralized onboarding technology platform.
+develop regular mis and ad hoc reporting capability from customer and regulatory onboarding data contained in source systems.
+create user documentation, provide user training and post-implementation support. provide project management support, such as task and resource scheduling and maintenance of project plans.
+continually acquire and enhance knowledge of both the bank’s and the division's business strategies, shifting regulatory environment,  evolving risk management practices and methodologies, new products, updated operational processes, and rapidly changing technology to be able to drive effective business solutions.  
+qualifications
+ 
+•
+ 
+the incumbent should have knowledge of financial markets and financial instruments, ranging from derivative products to investment products, including current and anticipated regulatory changes impact, and the end-to-end workflows among the front, middle, and back offices.  
+•
+ 
+the business line requires that the incumbent acquire the same level of expertise required of the business users.  in addition, since some of the systems have been developed in-house, the incumbent must have an understanding of the system architecture and design, which is complex and constantly undergoing changes to meet the demands of the users.
+•
+ 
+the incumbent must be a creative, self-starting, results-oriented, and highly motivated individual with excellent analytical skills in order to apply this knowledge to independently and quickly resolve complex business problems that are multi-dimensional and often unstructured / without precedent.  the incumbent should be able to propose new and innovative solutions to meet the requirements of the user base.    
+•
+ 
+further, the incumbent must have excellent interpersonal, communication and negotiation skills in order to build consensus and obtain co-operation from a multitude of stakeholders, including: users, technology and operations partners, compliance, and management.  these skills, along with the incumbent’s excellent time management and organizational skills, will allow the incumbent to manage major multi-disciplinary projects while planning and scheduling resources to optimize productivity. 
+ 
+education and accreditations
+ • a recognized undergraduate degree, along with 3-5 years of practical experience, is required.  
+ 
+other information
+the incumbent is responsible for supporting project implementations and system maintenance issues concurrently, on time and within budget.  the systems developed are on-line real time, mission critical applications to support the onboarding of gbm clients globally, where the consequence of implementing functionality based on inaccurate requirements could expose the bank to lost revenue or undue regulatory risk.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

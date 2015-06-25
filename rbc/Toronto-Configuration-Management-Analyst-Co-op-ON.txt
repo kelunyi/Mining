@@ -1,0 +1,300 @@
+Title:Configuration Management Analyst Fall Co-op
+Location:Toronto, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/Toronto-Configuration-Management-Analyst-Co-op-ON/264837200/
+purpose:
+
+
+partners across it and with assigned business line(s) to assess, research, and analyze business, technical and systems needs in order to resolve business systems issues by implementing technology.
+
+
+ 
+
+
+context: small development or maintenance projects (multiple functions, single application at one time). emphasis is split between code building and implementation.
+
+
+ 
+
+
+ 
+
+
+what you will be doing:
+
+
+ 
+
+
+technical analysis, design & consulting 
+
+
+
+
+consults on physical and deployment design artefacts for small projects/ programs identifying issues to the appropriate manager.
+
+
+documents and refines common cm practices (check-in/check-out, merge, branch, etc)  for development team
+
+
+contributes to successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+
+
+ 
+
+
+coding, testing & documentation
+
+
+
+
+maintains automated build processes for all deployable artefacts
+
+
+maintains and updates cm artefact templates for use by project teams
+
+
+establishes and controls baseline for concurrent project initiatives
+
+
+designs and develops tools and utilities as appropriate to improve development and build process efficiency
+
+
+ensures adequate technical documentation and training.
+
+
+defines/maintains views/ & reports for use by team for managing defects
+
+
+participates in code error problem solving and resolution.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+maintains deployable packages for qa and production.
+
+
+aids in development of detailed plans and accurate estimates for completion of build, system testing and implementation phases of project.
+
+
+supports development, testing and implementation plans within the team
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+facilitates small group meetings for technical design, problem solving and task implementation.
+
+
+resolves minor conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+ 
+
+
+what you need to succeed:
+
+
+
+
+currently enrolled in a co-operative education program at a post-secondary institution with a focus on computer science or equivalent
+
+
+leadership acumen and a passion to apply it in a dynamic business environment
+
+
+excellent interpersonal and highly developed communication skills (verbal and written)
+
+
+confidence in working autonomously or as member of a team
+
+
+capability to manage multiple priorities across a number of assignments and prioritize effectively
+
+
+ability to resolve any minor conflicts/issues and escalate to others as appropriate
+
+
+strong ms office skills – word, outlook, excel and powerpoint
+
+
+strong problem solving and troubleshooting skills
+
+
+experience and knowledge of .net framework
+
+
+knowledge of team foundation server (tfs)
+
+
+knowledge of product build tools (visual studio)
+
+
+knowledge of software configuration management practices and tools
+
+
+knowledge or experience with different testing tools (ex. ms test) is considered an asset
+
+
+experience with packaging and deployment technologies is considered an asset
+
+
+
+
+ 
+
+
+how to apply:
+
+
+please submit your cover letter, resume, and academic transcripts online at
+ 
+www.rbc.com/careers
+ 
+by 
+june 28, 2015.
+
+
+ 
+
+
+in order for your application to be considered, please specify the university or college you are currently attending and your program of study on the application form. 
+
+
+we thank all interested candidates; however, only those selected for an interview will be contacted.
+
+
+at rbc diversity and inclusion are at the heart of bringing out the best in all our people.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+contract
+ 
+
+
+pay type:
+  
+hourly
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+88050
+
+
+posting notes:  
+none
+
+

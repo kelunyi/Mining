@@ -1,0 +1,321 @@
+Title:Senior Technical Service Analyst
+Location:Toronto, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/Toronto-Senior-Technical-Service-Analyst-ON/275387000/
+purpose:
+
+
+working within the global distribution services team, the incumbent will carry out support activities required to facilitate software testing services to application teams within rbc.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+software distribution support 
+
+
+
+
+design software deployment plans (provisioning documents) for infrastructure, application and security patch releases and all related activities.
+
+
+support lab testing of new releases.
+
+
+proactively follow up on the testing of software releases, identify problems and facilitate remediation.
+
+
+work thought service partners to resolve issues impacting pre-prod software testing.
+
+
+resolve assigned incidents within establishes slas
+
+
+identify chronic problems, design and implement a remediation plan.
+
+
+identify opportunities for automation and improving software testing success.
+
+
+contribute to development activities designed to improve software distribution.
+
+
+facilitate act testing
+
+
+document prps and workarounds.
+
+
+stay current on new technologies and industry trends.
+
+
+meet or exceed olas for service commitments.
+
+
+assist business units and functional units with their specific software distribution and inventorying needs.
+
+
+develop proposals for senior management.
+
+
+contribute to successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+participate in walkthrough reviews of all technical specifications, programs and unit test plans.
+
+
+ensure operational procedures are documented.
+
+
+preparation of change records as required.
+
+
+open incident tickets for any and all issues related to missing or incorrect requirements needed to deliver on responsibilities. 
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+facilitates small to large group meetings to resolve software distribution issues.
+
+
+prepares and delivers presentations to business and technology partners and senior management, selecting the appropriate approach based on the audience. 
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+may act as project leader
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.  ongoing sharing of expertise, tips and tricks, knowledge and experience gained through complex packaging activities, enterprise support and all other troubleshooting activities.
+
+
+an active resource to assist junior team members with packaging questions and concerns.   
+
+
+
+
+ 
+
+
+position requirements/specifications:
+
+
+education/experience
+
+
+
+
+technical undergraduate degree or equivalent experience
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+in depth knowledge of windows computing technologies.
+
+
+in depth knowledge of software distribution technologies.
+
+
+working knowledge of sql.
+
+
+working knowledge of networking technologies.
+
+
+working knowledge of development languages and methodologies
+
+
+working knowledge of middleware technologies. (ex. mqseries/websphere, wxf, xml, .net)
+
+
+in depth knowledge of sccm / sms distributions
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+sound knowledge of rbc it processes and procedures.
+
+
+communication skills
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+how time will be allocated:
+
+
+80% production support
+
+
+20% identifying chronic issues and implementing remediation plans
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front st west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/12/2015
+ 
+
+
+req id:
+  
+92279
+
+
+posting notes:  
+none
+
+

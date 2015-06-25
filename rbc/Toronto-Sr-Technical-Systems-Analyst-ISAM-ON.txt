@@ -1,0 +1,277 @@
+Title:Sr Technical Systems Analyst - ISAM
+Location:Toronto, ON, CA
+Date Posted:2015-06-19
+URL:https://jobs.rbc.com/job/Toronto-Sr-Technical-Systems-Analyst-ISAM-ON/268696500/
+responsibility for:
+
+
+ 
+
+
+
+
+isam
+: this is the next generation web access gateway, securing the browser and mobile access
+
+
+legacy web access gateway, securing the browser and mobile access of rbc clients
+
+
+datapower
+: this esb integration platform runs multiple applications for all major rbc line of business
+
+
+wmb (websphere message broker)
+: this esb platform is used for integration and complex process orchestration, complementing datapower in building the rbc hybrid enterprise service bus
+
+
+
+
+ 
+
+
+this position also provides technical consulting to application development groups on design and proper use of isam and rbaccess middleware
+
+
+ 
+
+
+responsibilities:
+
+
+
+
+provide development, production support, maintenance and technical consulting for ibm isam software components & infrastructure (primary)
+
+
+provide development, production support, maintenance and technical consulting for rbaccess software components & infrastructure (secondary)
+
+
+provide development, production support, maintenance and technical consulting for ibm datapower software components & infrastructure (secondary)
+
+
+keep abreast of web access gateways solutions and standards in the market place to help identify key solutions that meet/exceed business objectives.
+
+
+assist in defining application design, development and deployment guidelines & best practices for secure web access gateway infrastructure.
+
+
+conduct design reviews when required.
+
+
+
+
+ 
+
+
+position requires carrying a pager on weekly rotations for emergency support for isam and later on other technologies, also covering as a backup for project development and support when team members are on vacation.
+
+
+ 
+
+
+ 
+
+
+how time will be allocated (percent):
+
+
+40% evaluation, design, analysis and development
+
+
+40% developers consulting, qa and production application support
+
+
+20% research and technical planning
+
+
+ 
+
+
+key organization relationships:
+
+
+reports to manager, messaging middleware & web services infrastructure.
+
+
+development community – developers and managers
+
+
+technical & operational support teams
+
+
+ 
+
+
+key competencies required:
+
+
+
+
+expertise in isam product (3+ years).
+
+
+familiarity with similar products desired but not required
+
+
+familiarity with eai and esb technologies, such as ibm datapower, or similar (desired but not required)
+
+
+experienced in internet and web technologies (min 3 years)
+
+
+proficient c/c++/.net/java programmer. (min 5 years)
+
+
+proficient xml (xml, xslt, xpath,.)(min 3 years)
+
+
+experienced in web services technologies and ws-* stack  (ws-security, ws-trust, , ws-secureconversation,,saml) (min 3 year)
+
+
+experience with enterprise formal development processes
+
+
+good administrative understanding of unix, aix preferable.
+
+
+exposure to information and systems security technologies
+
+
+background in troubleshooting and providing support to a production environment.
+
+
+proven self-starter who can identify possible work areas, assess the need and deliver a solution.
+
+
+excellent communication skills (written, oral and presentation) capable of dealing with multiple development teams, including internal, off-shore or external partners.
+
+
+strong service partner orientation
+
+
+positive attitude toward technical issues and project pressure
+
+
+information seeking, self sufficient in efficiently dealing with new technologies and technological challenges
+
+
+innovation
+
+
+team work & cooperation, networking inside the company for getting support in the day by day challenges
+
+
+university or college degree in computer science
+
+
+
+
+*li- kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay w (wpp)
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/12/2015
+ 
+
+
+req id:
+  
+90274
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

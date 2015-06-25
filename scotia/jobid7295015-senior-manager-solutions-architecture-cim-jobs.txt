@@ -1,0 +1,57 @@
+:
+1. providing technical architectural designs solutions/reviews for major business application and technology initiatives focusing on web/internet systems (i.e. web servers, web designs, internet protocols, and internet security).
+2. presenting work for review in structured walkthrough presentations of application systems to/with project team members and users during various stages of the development process;
+3. manage, analyze and present performance and capacity management functions to director, enterprise architect and other it&s solutions architects on all systems supported.
+4. acting as an internal consultant on all infrastructure related items while participate in all phases of the project development life cycle:
+5. mentoring and coaching other team members on technical issues;
+6. assisting in the documentation of system test strategies, and the execution of the tests (including unit,
+7. providing suggestions for viable solutions to systems problems of high complexity.
+8. investigating, analyzing and resolving system problems during standard working hours and assigned on-call hours.
+9. escalating and/or reporting system problems to management as per the documented escalation procedures.
+qualifications:
+-  considerable experience in customer relationship management, developed and demonstrated competence in the technical areas related crm in the financial industry and information systems in general, and knowledge of the financial services business environment, both current and emerging marketing automation trends.
+-  ability to effectively manage and control the architectural aspects of a multiple number of initiatives of varying complexity in a sophisticated matrix management organization. 
+-  expert technical skills and knowledge of the following:
+·
+ 
+customer relationship management systems, campaign development, automation, optimization and performance measurement
+·
+ 
+sdlc
+·
+ 
+aix, linux, hadoop, db2 udb especially in a very large database (vldb) environment
+·
+ 
+.net and web services (i.e., wsdls)
+·
+ 
+unix scripting (korn, c, borne shell scripts)
+·
+ 
+sql
+·
+ 
+data modeling tools (e.g., embarcadero, erwin, etc.)
+·
+ 
+etl tools (e.g., datastage, informatica, sas di, diyotta)  
+·
+ 
+cognos
+-  working knowledge of the following:
+·
+ 
+sas customer intelligence modules (em, ma, mo and rtdm) preferred
+·
+ 
+scheduling systems (such as tivoli workload scheduler) 
+·
+ 
+financial industry models (e.g., ibm fsdm and banking data warehouse)
+·
+ 
+sdlc, togaf and cobit
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

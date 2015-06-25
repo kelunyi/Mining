@@ -1,0 +1,54 @@
+:
+1) project management
+- work with management to define project scope and secure project resources
+- acquire good understanding of and contribute to solutions being developed, business requirements, architecture, design and technologies being used
+- work with bas and development leads to define requirements and produce technical designs (edds, gdds, functional specifications, interface specifications). ensure that accurate work estimates are provided
+- evaluate and prioritize requirements with stakeholders to address business need, and time and resource constraints
+- manage the plan and provide status updates. ensure that development resources are optimally engaged and are tracking to assigned tasks
+- ensure key quality gates (design reviews, code reviews, security scans, etc.) are passed prior to handoff during each stage of the project. provide design walkthroughs for the testing teams. manage plogs and pcns as needed
+- manage the project implementation plan. ensure that production support and escalation procedures have been defined
+- coordinate efforts with multiple 3rd party vendors
+2) release co-ordination
+- manage release contents and code promotions
+- ensure that integrated test plans have been developed and reviewed and that all testing environments have been allocated for the release
+- communicate key release milestone dates
+- ensure key quality gates are passed (load tests, code reviews, security scans, etc.) for the integrated release
+- create the release implementation plan, conduct implementation walkthroughs and run implementation conference calls
+- ensure that tested and valid rollback plans exist
+3) team leadership
+- work with management to mentor and grow staff
+- provide management with feedback on staff
+- participate in and manage the co-ordination of support issues
+- work with management to create a positive work environment, encouraging staff camaraderie, engagement and team spirit
+- build relationships with business partners and support groups, acting as an ambassador for the team
+in addition, the incumbent should be effective in process improvement; he/she will provide the department with leadership by continually improving processes to generate greater efficiencies across the department:
+- improved operational efficiencies
+- improved quality
+- improved customer satisfaction
+qualifications:
+- minimum of 2 years of project management experience
+- minimum of 5 years of experience working in the it industry developing software applications
+- understanding of retail banking is required; customer relationship, sales tools and financial planning experience would be an asset
+- a strong understanding of software engineering principles: familiarity with all aspects of the sdlc is essential
+- understanding of formal testing standards and methodologies
+- experience with both agile and waterfall methodologies
+- strong ms excel and ms project skills
+- strong analytical skills are essential
+- solid understanding of technical implications of code changes
+- a software development background is required
+- familiarity with some or all of the following would be considered an asset: web services, java, websphere 
+- a good understanding of operating systems, networks and relational databases
+- a demonstrable track record in dealing with production support issues
+- experience leading a team would be a strong asset
+- experience performing evaluation on user requirements, providing cost/benefit analysis, cost and effort estimation
+- a degree in computer science, engineering, or a related discipline, or equivalent experience 
+excellent business writing and communication skills
+quick decision making skills and self-directed
+education and accreditations:
+university bachelor degree or community college diploma in a technical discipline, computer science, math or engineering related discipline is desirable.
+other information:
+work standard hours but may have to work additional hours to meet project deadlines or to coordinate the implementation releases after hours.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

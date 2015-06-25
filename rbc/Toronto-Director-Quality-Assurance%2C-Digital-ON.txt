@@ -1,0 +1,390 @@
+Title:Director- Quality Assurance, Digital
+Location:Toronto, ON, CA
+Date Posted:2015-06-19
+URL:https://jobs.rbc.com/job/Toronto-Director-Quality-Assurance%2C-Digital-ON/274774300/
+purpose:
+
+
+ 
+
+
+partners across it and lines of business to provide 
+quality assurance leadership in the digital space with primary focus areas being mobile application, tablet applications, and online applications.
+  
+
+
+leads multiple quality assurance departments
+ to ensure exceptional quality and client experience.  overall accountability for test strategies, planning, execution and provisioning of test environment support for all testing engagements within the digital organization. 
+
+
+responsible for leading an entire quality assurance team of sr. managers, managers, leads, and analysts.  
+
+
+to work closely with business and t&o senior leaders and 3rd party service providers to enhance efficiency and effectiveness by aligning qa processes and methods including automation, and continuous focus on innovation to reduce ongoing qa costs while maintaining exceptional quality and user experience.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+position requirements/specifications: 
+
+
+ 
+
+
+systems knowledge
+
+
+• 
+relevant technology
+
+
+• qa standards, methodologies, cmmi, tmmi & audit requirements
+
+
+• knowledge of rbc delivery processes, target application architectures, programming techniques and defect taxonomies.
+
+
+ 
+
+
+people management knowledge
+
+
+•
+ talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+ 
+
+
+how time will be allocated (percent):
+
+
+ 
+
+
+• documentation, communication and governance – 20%
+
+
+• people/resource management – 25%
+
+
+• work program management – 35%
+
+
+• tactical and strategic planning - 20%
+
+
+ 
+
+
+authorities, impact, risk:
+
+
+ 
+
+
+• incumbent will manage a team of 5-10 sr. qa managers and qa managers
+
+
+• provide testing and release activities for all development and maintenance releases
+
+
+• fte/contract/vendor resources
+
+
+              o             10 direct reports (sr. managers and managers
+
+
+              o             40-50 indirect reports – fte
+
+
+              o             10-20 (co-ops and summer internships)
+
+
+              o             50-100 contract resources
+
+
+• provides signoff for high testing risk projects greater than $1mm qa costs; releasing tested applications to production – able to determine risk and impact of distributions
+
+
+• incumbent has authority to raise quality issues to protect the production environment and negotiate with all parties to resolve problems
+
+
+• oversees test progress status for area of concerns, including recommendations for changes
+
+
+• overall accountability for all qa deliverables within retail applications
+
+
+• manages and prioritizes all responsibilities effectively
+
+
+• promotes quality, speed to market and cost-effectiveness
+
+
+ 
+
+
+key organizational relationships
+
+
+• 
+reports to:
+ vp mobile & online technology, retail applications, t&o (dotted-line reporting to vp, commercialization & digital delivery, personal & commercial banking)
+
+
+• 
+internal partners include:
+ qa directors, sr. qa managers, qa team members, application development/maintenance teams, product manager, business representatives and test facility teams, strategic sourcing and the global resource centre
+
+
+• 
+external partners include:
+  relationship managers, quality assurance (iv&v) practice heads and qa managers who represent strategic vendor partners
+
+
+ 
+
+
+behavioural competencies (for superior performance)
+
+
+
+
+change leadership
+
+
+strategic influencing
+
+
+achievement motivation
+
+
+developing others
+
+
+teamwork & cooperation
+
+
+dealing with ambiguity
+
+
+
+
+
+
+breakthrough thinking
+
+
+
+
+
+
+business acumen
+
+
+
+
+
+
+customer insight
+
+
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+qa professional with significant experience on in the digital space
+
+
+university degree
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+testing tools
+
+
+testing approaches/methodologies
+
+
+
+
+
+
+quality controls
+
+
+
+
+
+
+communication skills
+
+
+
+
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies (statistical/combinatorial)
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+business line(s)’ business applications/ processes.
+
+
+
+
+ 
+
+
+*li-kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+senior manager/director
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+07/03/2015
+ 
+
+
+req id:
+  
+92165
+
+
+posting notes:  
+sf:efc; sf:jb
+
+
+ 
+
+
+ 
+
+

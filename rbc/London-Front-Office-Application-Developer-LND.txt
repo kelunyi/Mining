@@ -1,0 +1,447 @@
+Title:Front Office Application Developer - UI Developer
+Location:London, LND, GB
+Date Posted:2015-06-20
+URL:https://jobs.rbc.com/job/London-Front-Office-Application-Developer-LND/268922800/
+purpose
+
+
+ 
+
+
+the successful candidate will join the fic rates and crt front office applications team responsible for developing trading and risk management tools for the fic rates and counterparty risk (crt) businesses. they should expect exposure to various projects and initiatives including both greenfield development and maintaining and enhancing the existing codebase. partnering with the rest of the quant team and fic it teams, the developer will be part of an agile team responsible for the design, delivery and support of a full front to back trading and risk management application suite. specific deliverables for the team include the development of pricing, risk management, trade management, market data, model / valuation configuration and reference data management tooling to support the global fic rates and crt trading desks.
+
+
+ 
+
+
+the candidate will develop scalable ui applications and visual components for the front office using wpf and .net 4.0/4.5. they will embrace the highly collaborative agile work environment requiring effective communication skills and work with rest of the team. they will deliver to aggressive schedules with high quality, well tested solutions on time. the candidate should ideally have experience working with analytics libraries and building front office pricing and risk applications.
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+develop ui’s for features and maintain existing and enhance existing ui’s
+
+
+ensuring a high level of code quality validated through automated unit and integration tests
+
+
+contribute to the overall design and development of a shared wpf application and it’s supporting infrastructure
+
+
+work with other team members to ensure that tactical and strategic solutions dovetail.
+
+
+work with business sponsors to understand their requirements and execute technical solutions where appropriate.
+
+
+assist with 2nd line support as necessary, specifically around the trading apps and session manager    
+
+
+
+
+ 
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+the incumbent works under the guidance of the head of the front office applications team
+
+
+
+
+ 
+
+
+ 
+
+
+key relationships
+
+
+ 
+
+
+
+
+position reports to the head of the front office applications team
+
+
+the quant and quant dev teams
+
+
+fic technology teams
+
+
+partner with appropriate leads from the front/middle office teams         
+
+
+
+
+ 
+
+
+working conditions
+
+
+ 
+
+
+
+
+located in central london, minimal travel required
+
+
+high pressure, fast paced and demanding environment.
+
+
+flexibility to quickly adjust to changes in a dynamic environment.
+
+
+
+
+ 
+
+
+education &/or experience
+
+
+ 
+
+
+technical experience (essential)
+
+
+
+
+.net 4.0 / 4.5 (c#)
+
+
+wpf (mvvm design patterns)
+
+
+blend
+
+
+
+
+ 
+
+
+technical experience (desirable)
+
+
+
+
+front office experience and business knowledge (rates or cva preferred)
+
+
+technologies: xml / infragistics /  wcf / zeroc ice
+
+
+ioc technologies: unity
+
+
+database systems (sql) and database design
+
+
+ms build
+
+
+middleware technologies (eg. solace)
+
+
+distributed architectures
+
+
+mocking tools
+
+
+
+
+ 
+
+
+education/experience
+
+
+
+
+candidate must be qualified to degree level
+
+
+strong technical development skills are required
+
+
+candidates should ideally have solid experience in investment banking, front office experience is preferred.
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+experience using continuous integration development approaches, and supporting technologies such as teamcity / jira / confluence
+
+
+writing good unit tests and automated integration tests
+
+
+understanding of different design techniques top-down, oo
+
+
+understanding of business modeling methodologies such as uml
+
+
+presentation skills
+
+
+risk assessment & quantification
+
+
+conflicts and issues resolution         
+
+
+
+
+ 
+
+
+competencies
+
+
+ 
+
+
+behavioural
+
+
+
+
+ability to meet client needs without sacrificing deadlines and quality
+
+
+ability to work effectively within global team
+
+
+good written and communication skills
+
+
+highly motivated and takes initiative
+
+
+ability to liaise with traders, middle office, quants and it
+
+
+ability to cope with changing priorities
+
+
+takes accountability for own work
+
+
+aligns immediate needs with long-term strategies
+
+
+abides by the rbccm code of conduct
+
+
+
+
+ 
+
+
+technical analysis, design & specification
+
+
+
+
+using different techniques and tools (top-down, oo), designs technical solutions that meet business requirements and plc deliverables including component reusability, data sharing and security
+
+
+participates in design phases, identifies and resolves technical issues
+
+
+prepares and documents detailed technical specifications
+
+
+participates in walkthrough of technical specifications, programs and unit test plans
+
+
+coding, testing & documentation
+
+
+develops in accordance with business requirements and rbc standards.
+
+
+writes unit tests to ensure solid code coverage
+
+
+provides technical, support and training documentation
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+provides estimates on activities/tasks required to perform design, coding and unit testing, improving accuracy over time
+
+
+coordinates implementation planning and execution.
+
+
+performs disaster recovery for project deliverables
+
+
+performs performance tuning to improve performance of single function
+
+
+contributes to high level planning of project phases
+
+
+
+
+ 
+
+
+*li-mm2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+rbc's partnership with the business disability forum highlights our commitment to being a disability-smart employer.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+london
+ 
+
+
+address:
+  
+london
+ 
+
+
+work hours/week:
+  
+35
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+08/21/2015
+ 
+
+
+req id:
+  
+90323
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

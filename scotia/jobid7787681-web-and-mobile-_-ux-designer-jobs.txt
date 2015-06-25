@@ -1,0 +1,53 @@
+:
+user interface design & prototyping
+• works with the business analysts and various wealth business lines to define the user interface requirements based on the functionality being delivered.
+• recommends interface designs that enhance the user experience, conforms to high usability standards; educates the businesses on best practices and determines superior ways of implementing functionality without compromising usability.
+• organizes content by translating user behavior into consistent content architecture and crafting interactive experiences
+• produces high fidelity professional designs after wireframing/prototyping
+• produces new and/or modifies existing high fidelity graphical designs, and delivering graphical assets to developers for use as needed.
+• ensures user interface conforms to the site’s predefined style guide, operational/legal constraints, corporate branding, accessibility standards
+relationships & communication
+• acts as lead web/mobile designer liaison between business lines, interfacing applications teams, 3rd party vendors, it&s/tag developers and delivery managers.
+• prepares and delivers presentations to business partners, selecting the appropriate approach based on the audience.
+• collaborates with colleagues across the organization to get things done.
+development
+• enhances skills and builds knowledge in all aspects of wealth management and canadian banking
+qualifications:
+education/experience
+• a graduate of post-graduate degree in a design and/or related field such as graphic design, interaction/interface/web design, interactive media, human computer interaction, industrial design, or the equivalent experience and training in an area directly relevant to this position 
+• minimum of 3 - 5 years working in web and mobile application ui/ux design
+• technical experience (4+ yrs) creating high fidelity mockups and wireframes using adobe photoshop, illustrator, axure rp, sketch, balsamiq, etc.
+• practical experience (1 yrs) working within the online/mobile commerce medium in a financial transactional environment is a very valuable asset
+• practical experience (1 yrs) in the canadian wealth management industry with a focus on self-service securities trading is an asset
+• visual ui design knowledge and experience
+• a portfolio of previous designs and user experience work that have been delivered to customers [required with application]
+• creativity and compelling visual design skills
+• demonstrated knowledge and ability to design according to contemporary design patterns, and research new and evolving design patterns
+• experience with information graphic design is an asset
+user experience and usability
+• ability to work with clients to design wireframes, user flows, personas etc. includes ability to turn a process diagram produced by a business analyst into a full-fledged user experience. 
+• ability to conceptualize and create simple solutions to complex user experience problems 
+• experience executing a successful online customer experience 
+• knowledge of user-centered design methodologies and human-computer interaction 
+• knowledge of usability principles
+• knowledge of accessibility issues and principles that affect design
+technical tools knowledge
+• adobe creative suite apps, with very clear expertise in adobe photoshop and adobe illustrator. working knowledge of adobe indesign, adobe acrobat.
+• knowledge and experience using one or more prototyping and/or wire framing tools such as axure rp. balsamiq, sketch, omnigraffle, visio, etc. 
+• knowledge of web responsive and mobile design (native ios, and html5) methodologies 
+• understanding of front-end web markup (html/css) 
+• knowledge of design and performance issues affecting a browser based website/application 
+process and implementation knowledge
+• experience on large and small scale projects (especially a complete project cycle) 
+• understanding of software development practices principles, and software life cycle 
+• experience working with back-end, non-customer facing applications is an asset
+• interpretation and understanding of requirements gathered from verbal communication and from business requirements documents 
+• scope reduction for time/cost savings 
+• ability to work closely with software developers on time estimates and feature trade-offs 
+business knowledge
+• financial services industry experience is a very valuable asset
+• brokerage and investment advisory business knowledge is a very valuable asset
+to apply for this opportunity please submit a link to your portfolio along with your resume. 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

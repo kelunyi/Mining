@@ -1,0 +1,39 @@
+:
+-creates and executes development plans across multiple projects and revises as appropriate to meet changing needs and requirements. 
+-keeps project manager well informed of status of development effort and serves as liaison between technical staff and project manager and/or client across multiple projects. 
+-identifies reusable code required for our code library and ensures the high quality creation of the code. 
+-defines, communicates and enforces coding standards. 
+-manages multiple technical teams within project schedule. 
+-consistently delivers high-quality services.
+qualifications:
+the individual must possess:
+communication
+-facilitates team and client meetings effectively. 
+-holds regular status meetings with project team. 
+-keeps project team well informed of changes within the organization and general corporate news. 
+-effectively communicates relevant project information to superiors. 
+-delivers engaging, informative, well-organized presentations. 
+-resolves and/or escalates issues in a timely fashion. 
+-understands how to communicate difficult/sensitive information tactfully. 
+-possesses general understanding in the areas of application programming, database and system design. 
+-understands internet, intranet, extranet and client/server architectures. 
+-possesses a thorough understanding of our capabilities. 
+-maintains awareness of new and emerging technologies and the potential application on client engagements
+-spanish language will be an asset
+client management 
+-schedule and attend meetings with clients 
+-explain the technology in proposed solutions to clients and others (where applicable) 
+-present work to the client at milestones throughout the production 
+-obtain, discuss and follow-through with feedback from client 
+-work with client against scope creep and endeavor to keep project focused within scope 
+-train clients on use of delivered work 
+-investigate and answer clients' questions 
+-support & help trouble-shoot delivered work during project and post-project 
+-ensure client expectations are met and exceeded in terms of quality of product and service delivered 
+educational requirements:
+pmp certification - nice to have 
+education and accreditations:
+* university bachelor degree or equivalent work experience.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

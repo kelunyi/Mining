@@ -1,0 +1,38 @@
+:
+1. participate in work sessions with business clients and other stakeholders to gather technical and process flow requirements. assist in translating findings into design documentation
+2. provide deep technological and development knowledge to all team members within development team
+3. perform analysis of business requirements for new/enhanced systems to determine a solution best fit for technology
+4. translate functional specifications into a detailed design documents and participate/lead technical solution session
+5. identify data sources and requirements for data migrations, data conversion and data loads into complex database repositories
+6. assisting the project leader or delivery manager to prepare project plans, including cost and time estimates
+7. assist other team members in all aspects of the technical solution. provide the bridge between technology and business, and support release management processes
+8. perform integrated system test (ist) by supporting test plan and test case validation
+9. assist with users acceptance testing (uat) team to validate user acceptance test plans
+10. provide production support, including off-hour pager support on a rotational basis
+11. developing/reviewing code will be a large portion of day to day tasks
+qualifications:
+the individual requires:
+1. must be proficient in application development on dot net framework languages such as c#, vb.net, asp.net, ibm websphere process server 7.0+ platform using ibm websphere integration developer 7.0+
+2. must have experience in the following: java and/or c#, jsf, object oriented development, and eclipse ide (or similar), clear case or svn, unix or linux 
+3. experience with c++ or java is an asset;
+4. understanding of  ui/ux design for browsers (html 5, css, javascript) is an asset;
+5. proven experience in web services, soap protocol, json, wsdl, xml and understanding of soa;
+6. must be familiar with agile (scrum) development methodologies;
+7. ability to articulate ideas to management team;
+8. excellent analytical, technical and business writing, with strong communication abilities and problem solving skills
+9. experience required on one or more desktop application technology related platforms, including windows and aix; an understanding of the differences between the major platforms
+10. excellent problem solving and analytical skills and is capable of multi-tasking and managing concurrent tasks and initiatives.
+11. passion for learning new technologies
+12. must be flexible, with the ability to adapt to a dynamic and fast-paced environment; works well under pressure to deliver
+13. demonstrated sense of ownership and drive to get things done
+14. understanding of banking, commercial deposits and/or wire processing would be an asset
+15. knowledge of writing detailed design documents, functional specifications, and general design documents.
+education and accreditations:
+computer science or engineering degree or community college equivalent.
+other information:
+the incumbent will report to sr. development manager and participates in multiple projects, delivers solutions to meet the needs of multiple lines of business, and interfaces extensively with internal development teams, as well as 3rd party vendors, and business clients.
+occasional weekends or overtime will be required depending upon project commitments and timelines.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

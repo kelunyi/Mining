@@ -1,0 +1,189 @@
+Title:Sr. Technical Systems Analyst (WebSphere Message Broker, WTX)
+Location:Toronto, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Technical-Systems-Analyst-%28WebSphere-Message-Broker%2C-WTX%29-ON/275429400/
+description
+
+
+ 
+
+
+-timely prepare or oversee the preparation of the detailed project development estimates and timelines
+
+
+-efficiently act as development lead for multiple projects
+
+
+-ensure technical resources within own project teams adhere to development timelines
+
+
+-participate in project team meetings and technical walkthrough reviews
+
+
+-resolve conflicts/issues and escalate others as appropriate
+
+
+-when appropriate, identify and document or oversee the documenting of best practices, standards and repetitive development procedures
+
+
+-act as a go-to technical resource for all queries with regard to payment transformation
+
+
+-talent management process (recruitment/selection, performance management, performance development/coaching, reward/recognition)
+
+
+ 
+
+
+required skills (must have):
+
+
+-expert knowledge of ibm enterprise application integration middleware 
+(websphere transformation extender) (wtx)
+
+
+-solid grasp of 
+data transformation and etl
+ (extract, transform, load) process
+
+
+-solid knowledge of 
+iso 20022 payments standards (2006 and 2009)
+ and their usage
+
+
+-solid knowledge of 
+edi ansi x12 payment
+ and payment acknowledgement transactions and their usage
+
+
+-solid knowledge of 
+swift payment
+ message types and their usage
+
+
+-ability to identify and document best practices, standards and repetitive development procedures
+
+
+-ability to identify and submit assets for enterprise reuse registry
+
+
+-thorough and strong understanding of complete systems development life cycle
+
+
+-ability to provide detailed and accurate project development estimates and timelines
+
+
+-ability to lead several development projects concurrently
+
+
+-ability to mentor, train and assist own development project team members
+
+
+-ability to interact with other development project team members
+
+
+-ability to act as a go-to resource for business units
+
+
+-strong root cause analysis and problem solving skills
+
+
+ability to delegate tasks when required
+
+
+-willingness to prepare and present materials at group learning sessions
+
+
+-process strong leadership capabilities and excellent inter-communication skills
+
+
+ 
+
+
+*li-kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+180 wellington st. west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/09/2015
+ 
+
+
+req id:
+  
+92370
+
+
+posting notes:  
+sf:efc; sf:jb
+
+
+ 
+
+
+ 
+
+

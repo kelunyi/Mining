@@ -1,0 +1,31 @@
+:
+you understand the business and align global wholesale technology & other it&s systems and processes to address critical information and automation requirements.
+you understand distributed systems development functional programming skills, 
+you will utilize your excellent mathematical skills for building large scale applications, machine learning and big data.
+you are responsible for the successful implementation of a strategic blueprinting initiative for derivatives which includes setting up a framework to ensure the ongoing relevance of the blueprints and roadmap.
+you are the most experienced solutions architect for derivatives and review architecture designs and implementation plans to ensure conformance with both the blueprints and industry best practice.
+you ensure that all designs are implementable within an approved technology stack and utilize a continuous delivery approach.
+you create standards and governance around the technology stack. you ensure that these standards remain current and relevant.
+you are responsible for approval of the design of all major projects prior to implementation.
+you participate in all phases of the it system development lifecycle (sdlc). 
+you create and document a consistent data architecture for derivatives.
+you present summary blueprints, roadmaps and project portfolio outcomes to all levels of management up to and including the most senior in the organization.
+you oversee the integration of the derivatives architecture into the wider wholesale banking architecture and then into the scotiabank enterprise as a whole.
+you are a liaison with business analysis and delivery departments within derivatives to ensure close alignment with both running change the bank projects and minor enhancement work currently being undertaken.
+qualifications:
+10 + years of it and business industry work experience, which includes at least 3 years of experience in managing teams or projects. 
+you possess advanced technical and business knowledge in multiple disciplines, technologies, and processes. technology stack including ui; angularjs, drools (kie), jbpm; rt processing: scala, apache spark, distributed nosql database using json; rdbms; big data – hadoop; restful api
+knowledge of derivatives trading 
+you are an expert in solutions architecture 
+you have undertaken at least one major blueprinting exercise. 
+education and accreditations:
+production experience with nosql databases or distributed caching
+experience with functional programming
+experience with mixed language development and highly heterogeneous technology stacks
+experience with zachman framework or togaf
+setting up a governance function
+other information:
+a recognized post graduate degree in business, information technology, mathematics or a related discipline.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

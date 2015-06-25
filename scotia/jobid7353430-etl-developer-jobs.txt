@@ -1,0 +1,34 @@
+:
+1) application software development
+-  analyze, define and document requirements for data, workflow, logical processes, hardware and operating system environment, interface with other systems, internal and external checks, controls, and outputs
+-  assist business analyst in performing investigation, analysis and evaluation to determine business requirements
+-  design, develop and maintain etl specific code
+2) data testing
+-  coordinate coding, testing, implementation, integration and documentation of solution. develop program specifications 
+-  perform complex applications programming activities. code, test, debug, document, maintain, and modify complex applications program
+-  provide support in the implementation of processes within the qa and production environments
+3) team leadership
+-  lead a team of developers on the initiatives
+-  responsible to completing annual performance reviews, providing feedback and guidance to employee’s current performance along with future performance expectations.
+qualifications:
+-  possesses solid knowledge of design and analysis methodology and application development processes from both an industry and client perspective
+-  demonstrates good understanding of the software development life cycle
+-  proficiency in etl. specifically informatica and/or sas di
+-  strong data profiling skills
+-  unix skills (ie korn shell scripting)
+-  db2 skills
+-  strong sql skills
+-  experience and knowledge of data architecture and concepts of relational and dimensional databases
+-  ability to implement re-usable data-integration/etl code in an enterprise data-warehouse environment
+-  experience with etl in a hadoop architecture and on netezza appliance
+-  language skill cobol and tools such as maestro/tws, icem, sas data quality, etc.
+-  experience in leading a team of developers on medium to large sized projects.
+-  ability to lead a work package for development and delivery.
+-  ability to work well in a challenging environment. 
+-  strong troubleshooting skills
+-  excellent writing skills, oral communication skills, strong process skills, and leadership ability.
+-  ability to multi-task and prioritize for self and team members. 
+-  examine and solve the performance bottlenecks in the etl process
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

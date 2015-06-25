@@ -1,0 +1,333 @@
+Title:SCCM Senior Developer
+Location:Toronto, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/Toronto-SCCM-Senior-Developer-ON/275427400/
+purpose:
+
+
+this position is responsible for the support and development activities of the global microsoft sccm (system center configuration manager) infrastructure. rbc's global sccm infrastructure is made up of 160,000 clients with over 2000 distribution points. reporting to the manager of the software deployment planning and development team the incumbent will be responsible for maintenance/support of the sccm infrastructure and any development requirements to meet our customer needs. as a senior post a high level of professionalism, industry knowledge and drive is required to ensure the service provided matches the business’s needs.
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+maintenance - support - development
+
+
+
+
+experience with sccm including operating system deployment.
+
+
+experience with the full suite of microsoft operating systems and management tools.
+
+
+strong powershell scripting, experience integrating with system center.
+
+
+experience with other scripting including vbscript.
+
+
+knowledge of microsoft sql.
+
+
+strong sccm application/package deployment experience.
+
+
+build application deployment methodology.
+
+
+provide technical guidance to the lines of business for development activities.
+
+
+assist with the design and implementation of the software library.
+
+
+work thought service partners to resolve all issues impacting software distribution.
+
+
+resolve assigned incidents within establishes slas.
+
+
+identify chronic problems, design and implement a remediation plans.
+
+
+identify opportunities for automation and improving software distribution.
+
+
+stay current on new technologies and industry trends.
+
+
+assist business units and functional units with their specific software distribution and inventorying needs.
+
+
+develop proposals for senior management.
+
+
+contribute to successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+ensure operational procedures are documented.
+
+
+equal participation in 7x24 pager support.
+
+
+analyze reporting results and identify issues, trends and communicate to management.
+
+
+
+
+         
+
+
+relationships & communication 
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface with groups using a variety of techniques and collaboration from initiation to close.
+
+
+facilitates small to large group meetings to resolve issues.
+
+
+respond and provide information as required by business partners.
+
+
+prepares and delivers presentations to business, technology partners and senior management, selecting the appropriate approach based on the audience.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+may act as project leader/back up manager
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.  ongoing sharing of expertise, tips and tricks, knowledge and experience gained through complex packaging activities, software deployments, enterprise support and all other troubleshooting activities.
+
+
+an active resource to assist junior team members with distribution questions and concerns.
+
+
+
+
+ 
+
+
+position requirements/specifications:
+
+
+education/experience 
+
+
+
+
+technical undergraduate degree or equivalent experience
+
+
+sccm2012 development experience
+
+
+scorch2012 development experience
+
+
+scripting (powershell, vbscript)
+
+
+knowledge of ms sql, hp sm9 service manager
+
+
+itil fundamentals
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+sound knowledge of rbc it processes and procedures
+
+
+communication skills
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+behavioural competencies 
+
+
+
+
+achievement motivation
+
+
+breakthrough thinking
+
+
+business acumen
+
+
+customer insight
+
+
+dealing with ambiguity
+
+
+strategic influencing
+
+
+teamwork & cooperation
+
+
+analytical thinking
+
+
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front st west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/12/2015
+ 
+
+
+req id:
+  
+92335
+
+
+posting notes:  
+none
+
+

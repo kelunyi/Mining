@@ -1,0 +1,27 @@
+:
+1. manage and participate ‘hands-on’ in the implementation of application systems by analyzing user requirements, providing technical specifications and designs, developing detailed work-plans, scheduling technical resources, monitoring progress against plan and developing/maintaining programs according to standards.  must ensure software, programs and applications developed and/or configured to meet high availability, integrity and reliability requirements.
+2. provide technical expertise, guidance, advice and knowledge transfer to all development staff on all aspects of application development for assigned applications or technology. provide recommendations on departmental standards surrounding systems architecture, application development, systems integration, data modelling, testing, as well as, performing reviews and walkthroughs of all major project deliverables to ensure the quality and completeness of functionality.
+3. provide production and user acceptance testing (uat) application support to complex technical problems on all assigned applications and technology that serve each business unit by analyzing problems, implementing solutions and developing new procedures surrounding support. 
+4. implement new systems or enhancements by reviewing programs written by team members, establishing and executing system test procedures, developing implementation plans, developing the required program and system documentation and ensuring all functionality has been delivered as required.
+5. maintain a good understanding of the division's business strategies, business policies, financial instruments, risk management and back-office processing.  in addition, required to provide leadership and specialized consultation in defining, planning and maintaining a strategy for the architecture, development and implementation of technology, systems and mis within the division to provide effective technical consulting and support services to the division.
+6. ensure the department's objectives are met by assisting in recruiting qualified staff, providing input to performance appraisals on time and maintaining up to date knowledge of technology, industry and business practices.
+7. be guided by bank’s policies and receives broad direction from the senior manager/director, and general direction from the project manager for the projects assigned.  expected to function independently to identify opportunities for automation or efficiency, to introduce new technologies and to ensure that the department's objectives are met.
+qualifications:
+• must have 7-10 years of progressive hands-on technical working experience with systems development experience, which includes 2-3 years of b2e mobile development.
+• must have strong hands-on technical working experience with htm5, css 3.0, ms sql server or equivalent rdbms (oracle or db2 luw)
+• hands on technical working experience in mobile computing development for the ios (apple) platform are highly desired.
+• hands on technical working experience with websphere j2ee platform, javascript, java, xml and xsl are desired.
+• working knowledge/experience in the development, maintenance and support of applications with ms iis; ibm mobilefirst foundation or ibm worklight, angular js 1.x & bootstrap are nice to have.
+• working knowledge/experience with soa using soap & restful (rest) api’s are desired.
+• working knowledge of retail banking systems or customer relationship management (crm) systems would be an asset.
+• must possess excellent organizational and multi-tasking abilities.
+• must possess excellent analytical, problem resolution & people skills.
+• proficient in the use of ms office tools.
+• must be self-initiated, fast learner with a positive attitude.
+• possess excellent verbal and written communication skills in english.  the same in spanish is desired.
+• experience working with offshore development vendors would be an asset.
+education and accreditations:
+computer degree or equivalent.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

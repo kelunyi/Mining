@@ -1,0 +1,32 @@
+:
+1. perform analysis of query results and provide findings, trends, opportunities, and recommendations by:
+• reviewing calls isolated through queries and providing detailed synopsis of those calls.
+• performing ad-hoc analysis and deep dives by listening to calls and creating additional queries when necessary to provide further insights on emerging trends/issues or opportunities.
+• performing analysis of query results/trends and compiling information.
+• supporting the development of new and meaningful reports, analysis models, presentations, documentation and analytical materials that heighten the understanding of key business drivers to provide scotia itrade (sit) decision makers with accurate and relevant information.
+• ensuring the timely and accurate delivery of findings and reporting. 
+• identifying opportunities to streamline and combine existing reporting.
+• proactively conducting research and analysis to recommend creative solutions to complex call quality assurance, audit and compliance issues identified.
+2. partner with various internal and external contacts by:
+• participating as a project resource as assigned, providing counsel and direction to project teams as a subject matter expert.
+• assisting and providing backup support for the business analyst speech analytics.
+3. assist in developing and enhancing call queries to deliver results that support the implementation and ongoing management of trading & client service’s call quality assurance program by
+:
+• developing, testing and implementing queries by leveraging the nexidia speech analytics product suite.
+• developing queries that meet the call quality assurance, audit and compliance requirements.
+• conducting internal and external research, utilizing sit product and service data/metrics/patterns, business intelligence, client and industry data to support the development of queries.
+• analyzing opportunities to optimize the effectiveness and efficiency of the speech analytics technology and provide full recommendations with supporting documentation.
+qualifications:
+required:
+• 1-3 years of experience in business analysis speech analytics or/and call centre analytics.
+• expert knowledge of microsoft excel & access.
+• strong analytical and research skills. 
+• previous experience and/or knowledge database management, building reports and query building/programming.
+assets:
+• knowledge of call centre environments, systems, and procedures.
+• knowledge of the online brokerage industry.     
+education:
+•degree or diploma in business, commerce, or a related discipline required.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

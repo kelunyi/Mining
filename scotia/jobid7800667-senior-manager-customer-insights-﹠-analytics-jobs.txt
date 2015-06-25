@@ -1,0 +1,74 @@
+:
+1.
+ 
+pre-campaign analytics  
+•
+ 
+provide advice on campaign design based on available key indicators and, when available, results of similar previous campaigns. this includes preliminary opportunity sizing, recommending various offers/thresholds, segments, etc. 
+•
+ 
+work with marketing, product and risk groups to determine control group definition, inclusion/exclusion criteria and application of usage segments and predictive models whenever they are applicable.
+•
+ 
+work closely with the direct marketing team to ensure that all the requirements for the post-campaign analysis are well defined and documented.
+2.
+ 
+monitoring.  
+•
+ 
+design and generate regular monthly monitoring reports.
+•
+ 
+upload the reports to the portal.
+•
+ 
+ensure that all stakeholders are able to access and properly use/interpret the reports. this may involve some training on the reporting tool (e.g., how to access the portal, the use of pivot tables, drop-down selections, etc.)
+3.
+ 
+post-campaign analytics.  
+•
+ 
+generate campaign reports that assess the overall success of the campaigns.  reports should include metrics that measure response rates, roi, incremental lift on key indicators (e.g. purchase volumes, balances, revenues, revolve rates, attrition, retention, etc.) due to the campaign.
+•
+ 
+prepare final presentations for the product teams.  this should highlight the overall results, conclusions on the success of the campaign, learnings and recommendations to increase profitability.
+4.
+ 
+campaign-related ad hoc requests and queries.
+•
+ 
+provide answers to various ad hoc requests and/or queries.
+5.
+ 
+support marketing budgeting activities and the market share tool.  expand opportunities to use of the market share tool
+6.
+ 
+coach and mentor staff under their leadership. provide guidance on analytic projects, balance workload among staff, engage in the hiring of full-time and contract resources as required and create a positive working environment across the decision support and management group. work with other senior managers in the decision support and management team to promote the capabilities of the group to business lines and identify opportunities to improve existing processes 
+qualifications:
+•
+ 
+5+ years analytical experience using sas
+•
+ 
+projects will require exceptional analytical, research, strategic & strong problem solving skills. 
+•
+ 
+advanced skills with sas, sql and microsoft excel are a must.
+•
+ 
+advanced skills in microsoft powerpoint and visual basic are an asset.
+•
+ 
+banking experience 
+•
+ 
+campaign experience is an asset.
+•
+ 
+spanish language is definitely an asset
+•
+ 
+university degree in computer science, mathematics, statistics, economics or other quantitative discipline
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

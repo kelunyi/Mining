@@ -1,0 +1,58 @@
+:
+reporting to the senior manager or project leader the individual will be responsible for:
+1. participating as a team member in ongoing projects under the direction of a project leader
+2. providing technical consultation and participating in the development of medium to complex systems, often involving emerging technologies, through to implementation
+3. liaising with external vendors, development partners and team members in support of activities for all project phases (planning, requirements definition, design, development, testing and implementation) 
+4. performing analysis of user requirements; preparing/reviewing design documents, test plans and user manuals; participating in development, testing and support activities
+5. providing day-to-day support for assigned systems including after-hours pager support including weekends as required.
+6. interacting with team members, onsite and offshore contractors
+7. assisting development staff in troubleshooting application system problems.
+8. maintaining a diversified set of skills within the unit through continued education and by mentoring peers and team members.
+9. participating in the creation of cost, scheduling estimates, project plans and status updates
+10. evaluating production problem logs and system service requests and identifying actions to be taken. 
+qualifications:
+1.
+ 
+strong written and oral communication skills.
+2.
+ 
+strong knowledge and experience with java/j2ee, .net and sql.
+3.
+ 
+experience with shell scripting in aix / unix environment would be beneficial.
+4.
+ 
+hands-on experience in using source control systems such as rational clearcase, git or team foundation server.
+5.
+ 
+disciplined in development methodology and conversant with software development technologies and concepts.
+6.
+ 
+strong time management skills, able to multi-task and manage concurrent activities.
+7.
+ 
+excellent problem solving skills.
+8.
+ 
+innovative approach to computing based solutions and ability to convey these ideas.
+9.
+ 
+must be flexible to adapt to a dynamic environment, make quick and sound decisions under pressure.
+10.
+ 
+must be reliable, pro-active, results-oriented, customer-focused and attentive to details.
+11.
+ 
+must work well independently or in a team environment.
+education and accreditations:
+university/college degree and/or equivalent experience.
+other information:
+* position reports to senior manager of hr solutions as well as to the project leaders
+* position is located at 60 erie street stratford, ontario
+* occasional travel to toronto may be required which could exceed the regular defined workweek hours
+* occasional overtime or weekend work may be required to meet project commitments 
+* carry support phone on a rotation basis to support production.  this includes off hours and weekends.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

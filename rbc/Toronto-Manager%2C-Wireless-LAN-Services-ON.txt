@@ -1,0 +1,360 @@
+Title:Manager, Wireless LAN Services
+Location:Toronto, ON, CA
+Date Posted:2015-06-18
+URL:https://jobs.rbc.com/job/Toronto-Manager%2C-Wireless-LAN-Services-ON/268442100/
+purpose:
+
+
+this position would be responsible to lead the wi-fi services team across rbc’s domestic and global networks. this position would be the owner of wi-fi services and provide high quality solutions as well as provide an escalated point of contact for technical networking support, primarily for the gds service operations staff.  all responsibilities are carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+planning & implementations
+
+
+·         prime interface between engineering and operations teams for planning and design.
+
+
+·         interface with various business partners to obtain requirements.
+
+
+·         obtain drawings and perform site surveys for branches and large downtown buildings.
+
+
+·         ensure wi-fi network is fully compliant with industry and rbc technical and security standards.
+
+
+·         ensure processes are established to provide maximum availability and highest level of service to all clients
+
+
+·         participate in it disaster recovery and business resumption plans
+
+
+·         ensure supporting team have appropriate and current documentation for escalation, execution and resolution procedures.
+
+
+·         communicate with rbc wi-fi community through rbc connect, providing answers to questions or comments.
+
+
+·         maintain a very good operational knowledge of the tools required for supporting the rbc wireless
+
+
+·         test new features in lab before implementing in production.
+
+
+·         ability to work in a group environment.
+
+
+·         attend or delegate attendance to implementation planning meetings to ensure the smooth transition of new network infrastructures to be supported by the team
+
+
+            
+
+
+change management
+
+
+·         ensure that all change activities are reviewed, and assigned with change implementers.
+
+
+·         approve change control tickets in the enterprise change management system.
+
+
+·         follow-up on success of change activities.
+
+
+·         work to 100% change success with 0 unplanned downtime resulting from planned changes.
+
+
+·         ensure documentation is current as it relates to changes made, i.e. prp docs, diagrams etc…
+
+
+ 
+
+
+incident and problem management
+
+
+·         lead the level 2 support for production wi-fi services, assisting support efforts with our various business partners, as necessary
+
+
+·         identify any major operational/networking problems to engineering team with possible recommendations for solution.
+
+
+·         work with and manage 3rd party vendors in support of the rbc wireless network.
+
+
+·         troubleshoot and resolve escalate incidents according to established guidelines
+
+
+ 
+
+
+relationships, communication & customer service
+
+
+·         promote and foster a team environment within the department and service partners to achieve superior customer focused service delivery, realized through high client satisfaction, as demonstrated by client surveys and fewer escalations
+
+
+·         effectively communicate and build rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+·         use different tactics for resolving conflicts/issues prior to escalation.
+
+
+·         effectively liaise with internal and external service partners as required
+
+
+·         work with peer groups within gt & o to bring complex issues to resolution, escalating to management when required
+
+
+·         establish and maintain effective relationships with clients and gain their trust and respect
+
+
+·         provide input into level of service provided by it support teams
+
+
+·         responsible for ensuring clients’ queries and concerns are responded to in a prompt, helpful and professional manner while promoting user self-sufficiency.
+
+
+ 
+
+
+position requirements/specifications:
+
+
+special requirements
+
+
+·         preferred candidates will have achieved appropriate wireless lan certification.
+
+
+·         experience with cisco/aruba wireless and suite of products including airwave and clearpass
+
+
+·         preferred technical skills within the cisco suite of products including routers/layer2/layer3 switches.
+
+
+·         advanced experience managing aruba wifi systems.
+
+
+·         good knowledge of various wifi protocols – 802.11a/n/ac/b/g
+
+
+·         strong knowledge of rf principles
+
+
+·         understanding of site surveys, working with autocad floor drawings.
+
+
+·         knowledge of f5 load balancers, and blue coat proxy sg
+
+
+·         strong troubleshooting skills.
+
+
+·         works well with vendors and business partners
+
+
+·         hands-on experience with network trouble-shooting, incident analysis and reporting.
+
+
+·         ability to use troubleshooting tools: spectrum, ciscoworks, sniffers, ehealth, ngenius, acs, securecrt, etc.
+
+
+·         highly self-motivated with ability to operate without supervision.
+
+
+·         solid sense of where/when/how to delegate / escalate appropriate tasks.
+
+
+·         understanding of process management.
+
+
+·         above average writer/verbal communication skills.
+
+
+·         above average and organization and planning skills.
+
+
+ 
+
+
+key skills
+
+
+·         strong leadership skills.
+
+
+·         self-motivated.  able to operate without supervision.
+
+
+·         sense of where/when/how to delegate appropriate tasks
+
+
+·         able to respond calmly and logically in crisis situations.
+
+
+·         work under pressure in an area where priorities change frequently.
+
+
+·         sense of urgency
+
+
+·         basic understanding of rbc -it and business unit organization structures.
+
+
+·         average written /verbal communications skills
+
+
+·         average organization and planning skills
+
+
+ 
+
+
+key competencies
+
+
+·         achievement motivation
+
+
+·         adaptability
+
+
+·         analytical thinking
+
+
+·         concern for order & quality
+
+
+·         customer service / service partner orientation
+
+
+·         impact and influence
+
+
+·         initiative
+
+
+·         leadership
+
+
+·         listening, understanding and responding
+
+
+·         teamwork and co-operation
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+people manager
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+90228
+
+
+posting notes:  
+none
+
+

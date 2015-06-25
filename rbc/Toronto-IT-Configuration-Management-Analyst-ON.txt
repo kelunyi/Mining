@@ -1,0 +1,260 @@
+Title:IT Configuration Management Analyst
+Location:Toronto, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/Toronto-IT-Configuration-Management-Analyst-ON/269283500/
+purpose: 
+
+provide exemplary support to rbc capital markets and wealth management businesses. trouble shoots and provides solutions for end user integration products. control source code, build software packages. to develop, improve and automate build and test processes within capital markets.
+
+
+ 
+
+
+primary responsibilities:
+
+
+end user integration
+
+
+
+
+provide administration, maintenance, optimization, release management and technical support for end points in the production environments.
+
+
+
+
+
+
+good understanding of microsoft-defined best practices.
+
+
+knowledgeable of sccm, deployment methodologies and task sequencing
+
+
+operating system build, configuration and engineering
+
+
+
+
+
+
+coding, testing & documentation
+
+
+
+
+builds and installs software versions.
+
+
+produces build-and-release reports indicating the status of all facets of development builds and releases.
+
+
+solid understanding of windows installer technology (self-healing, patching, custom actions, etc.)
+
+
+proficient in application packaging toolsets (wise packaging studio, installshield, orca, etc)
+
+
+good understanding of microsoft-defined best practices
+
+
+
+
+ 
+
+
+planning, implementation and support
+
+
+
+
+implements established configuration management processes and procedures
+
+
+maintains releases, configuration statuses and control documentation
+
+
+develops detailed plans and accurate estimates for completion of build, system testing and implementation phases of project.
+
+
+maintains and develops automated build-and-deployment systems.
+
+
+
+
+ 
+
+
+technical analysis, design, consulting
+
+
+
+
+provides consulting services on new initiatives (small to large of varying complexity)
+
+
+contributes to successful project completion by identifying risks and developing/recommending mitigation strategies
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors’ software as well as due diligence exercises
+
+
+organizes and participates in walkthrough reviews of all technical specifications, programmes and unit test plans.
+
+
+
+
+ 
+
+
+education/experience:
+
+
+
+
+completed a degree or diploma in 2012 or 2013 with a focus on technology
+
+
+wise packaging studio, installshield, orca
+
+
+multiple platforms e.g. unix, linux, windows
+
+
+it standards, methodologies, cmm and audit requirements
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+tracking and reporting tools (e.g. jira and confluence)
+
+
+different testing tools (e.g. expediter, file-aid, hp qc)
+
+
+communication skills.
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington street.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+90454
+
+
+posting notes:  
+n/a
+
+

@@ -1,0 +1,291 @@
+Title:Shift Manager
+Location:Toronto, ON, CA
+Date Posted:2015-06-18
+URL:https://jobs.rbc.com/job/Toronto-Shift-Manager-ON/274549100/
+purpose: 
+
+
+provides leadership and direction to numerous platforms and environments within the global operations command centre. the team operates 24/7 365 days a year supporting production, development and disaster recovery environments for our businesses. this includes rbc’s network, distributed systems, midrange systems and mainframe platforms. shift managers are responsible for event and incident management, including, escalation and restoration of services while maintaining communication with our clients, businesses and gti partners. the managers will work closely with all gocc staff to maintain operational excellence by identifying process improvements, metrics gathering, and people development.
+
+
+ 
+
+
+primary responsibilities:
+
+
+service:  
+
+
+
+
+provide the highest possible level of service to our business clients across rbc globally including personal and commercial banking, gti, insurance, u.s. subsidiary and capital markets
+
+
+ensure the global operations triage team adheres to all established slas (service level agreements).
+
+
+establishes new and innovative processes that provide maximum availability and service to our clients on a 7/24/365 basis.
+
+
+assist with implementation of new products to be supported by the global operations team.
+
+
+provide strong team leadership in day-to-day operations seeking operational excellence and efficiencies.
+
+
+escalate and follow up on outstanding issues with 1st and 2nd   level technical support staff and service providers.
+
+
+review changes with technical support personnel prior to implementation to ensure they adhere to change management policies/procedures with appropriate back out instructions where applicable with respect to service level agreements. to our
+
+
+allocate resources to ensure equipment & affiliated software is maintained to achieve high productivity at minimum cost.
+
+
+
+
+ 
+
+
+technical: 
+
+
+
+
+ensure problems are quickly identified, resolved and documented to avoid a reoccurrence
+
+
+review changes prior to implementation to ensure these will not interfere with service level agreements
+
+
+requires basic knowledge and experience with all services pertaining to distributed systems (wintel, unix, linux, solaris), network (servers, switches, appliances), midrange systems (hp/nsk, iseries), mainframe (z/os, vm), tape operations, infrastructure hardware and software including rbc applications.
+
+
+proven skills in problem identification, escalation and resolution.
+
+
+
+
+ 
+
+
+managerial:
+
+
+
+
+leads, coaches and develops a team of highly skilled technical professionals creating opportunities for all staff both from a professional and a technical viewpoint and monitors their progress.  emphasis on building technical skill-sets and behavioural competencies in all staff for career development both within the group and into other areas of global technology infrastructure.
+
+
+conduct career coaching sessions and review succession plans.
+
+
+accountable for plans made for the implementation of new technologies including verification of the adequacy of resources, implementation/support documentation, pertinent training & ongoing relationship management with partner groups in gti & rbc.
+
+
+focal point for staff hr concerns & performs applicable administrative functions (interview processes, development processes, succession planning).
+
+
+liaison & decision making relationship with rbc-cre facilities management regarding building requirements & concerns.
+
+
+relationship management with internal (rbc partner groups) & external service providers regarding cost avoidance/reduction initiatives for gcc to ensure relative asset inventory is maintained.
+
+
+
+
+ 
+
+
+positions specifications/key competencies required:
+
+
+
+
+achievement motivation               
+
+
+analytical thinking
+
+
+initiative
+
+
+listening/understanding/responding
+
+
+service partner orientation
+
+
+teamwork and collaboration
+
+
+concern for order & quality
+
+
+sense of urgency             
+
+
+developing others
+
+
+leadership
+
+
+personnel team leader able to motivate people in a challenging and constantly changing environment.
+
+
+providing 7/24 365 support to the global operations triage team escalating issues as required.
+
+
+
+
+ 
+
+
+rbc capabilities:
+
+
+
+
+execution and excellence
+
+
+collaboration
+
+
+client impact
+
+
+people development
+
+
+strategic orientation
+
+
+competitive edge
+
+
+change management
+
+
+business and financial insight
+
+
+simplification & efficiency
+
+
+impact & influence
+
+
+
+
+ 
+
+
+how time will be allocated (percent):
+
+
+70% people management
+
+
+20% operations management, effectively & efficiently run the day to day operations within the gocc, including planning, event, incident and change management.
+
+
+10% people development (leadership, career coaching, collaboration)
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+325 front st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/29/2015
+ 
+
+
+req id:
+  
+92119
+
+
+posting notes:  
+none
+
+

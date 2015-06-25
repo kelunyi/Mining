@@ -1,0 +1,31 @@
+:
+1. participate in all aspects of a system development life cycle within the technology team (lead requirement analysis, solution design, development best practice, test methodology, implementation strategy, and production support).
+2. lead the evolution of systems or software development lifecycle (sdlc) best practice that adapts to data management solutions and, but not limited to, risk data aggregation regulatory reporting (rdarr) compliance.
+3. technical documentation, including solution architecture and detail design and operational control documentation.
+4. ownership and strong knowledge of data that resides in the enterprise operational store in our department.
+5. lead development/design/coding best practice on datastage etl job design, infoserver tool usages, and aix/db2 infrastructure.
+6. conduct and lead review sessions on development, integrations, and implementation plans, processes and procedures.
+7. liaison with the bank's business areas, such as global risk management and the bank's technical areas to address business requirement, technical implementation, data attributes, application design, system integration, security and network/communication issues and project coordination.
+8. support the delivery manager on project planning and in engaging project stakeholders.
+9. production support and escalation. be ready to be available for off-hour escalation for critical decisions and recommendations to support and protect production environment from unplanned outages.
+10. own solutions architecture roadmap and create plans for its execution including presentations for stakeholder buy-in.
+qualifications:
+• excellent written/verbal communication & presentation skills.
+• minimum 7 to 10 years of hands-on technical working experience in developing and supporting applications on an operational data platform or data warehousing platform, both with online and batch processing.
+• knowledge of financial data in the capital market product area and bank's reference data is essential.
+• currently a solution architect on total solutioning for a bank's risk management or capital management or capital market or securities business lines.
+• strong knowledge with the following technologies: unix/aix, db2 or oracle or other major rdbms, ibm infosphere or equivalent data etl/data management platforms, reporting platforms such as cognos; unix shell scripting, perl & ms sql.
+• strong working experience with infrastructures and data management concept and technologies (security standards, file transfer and security, data confidentiality/security assessment, data privacy/encryption, disaster backup recovery options and setup, database modeling tools, database performance measurement, etc…)
+• familiar with sas.
+• track record in leadership of project/development life-cycle methodology and software development technologies and concepts.
+• strong troubleshooting and problem solving skills, have vision and innovative approach to computing based solutions and ability to convey these ideas.
+• must be flexible to adapt to a dynamic environment, make quick and sound decisions under pressure. 
+• be able to lead and guide discussions internally and externally for business and technical solutions, and for problem resolutions.
+• working experience in data modelling, data analysis, office of the superintendent of financial institutions’ (osfi) data control principles, and application of data management disciplines are assets.
+• some working knowledge on .net, ms sql server, and data security.
+education and accreditations:
+computer science degree or equivalent.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

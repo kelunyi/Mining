@@ -1,0 +1,288 @@
+Title:Environment Manager, Derivative Credit Risk IT
+Location:Toronto, ON, CA
+Date Posted:2015-06-17
+URL:https://jobs.rbc.com/job/Toronto-Environment-Manager%2C-Derivative-Credit-Risk-IT-ON/268152500/
+purpose
+
+
+this is an operational role that will ensure control of the environments for our credit risk and regulatory capital analytical engines; from the perspectives of versioning, change, data and business use. as an environment manager in trading credit risk it, you will work closely with the development, quality assurance, release management and support teams as well as our business sponsors to provide ongoing stability and transparency across production and development environments for our derivative credit risk system. you will enforce accountability of the various stakeholder of the system, and in turn, you will be accountable for the environment repository and will provide a centralized view of all environments.
+
+
+ 
+
+
+you will be a process oriented individual, with strong written and verbal communication skills with the ability to collaborate with and influence multiple stakeholders.
+
+
+primary responsibilities
+
+
+
+
+responsible for the planning and preparation of the non-production environments.
+
+
+manage all non-production environments. ensure that these systems are in line with production at all times.
+
+
+assist in the planning and development of deployment schedules to all environments.
+
+
+establish and maintain processes for documenting the environments.
+
+
+prepare high level plans to ensure that infrastructure provisioning objectives are met.
+
+
+ensure that relevant governance and control standards are adhered to.
+
+
+coordinate deployments across dependent applications and teams, working closely with support and change management teams.
+
+
+communicate project deployment details to all stakeholders.
+
+
+provide support and escalation point for any environment issues from development, qa and support teams.
+
+
+evaluate upcoming projects in terms of their impact on existing environments and ensure that those environments are ready to meet the demands placed on them.
+
+
+propose initiatives that will reduce environment down time and support and development costs.
+
+
+
+
+ 
+
+
+job specifications
+
+
+competencies:
+
+
+ 
+
+
+
+
+exceptional time management and ability to work across multiple projects simultaneously.
+
+
+excellent critical thinking and decision making skills.
+
+
+superior troubleshooting, problem solving.
+
+
+ability to manage stress in a fast-paced, changing environment.
+
+
+keen attention to detail.
+
+
+excellent oral and written communication skills.
+
+
+independent self-starter, results oriented, and a willingness to take ownership.
+
+
+experience in managing a complex environment with strong knowledge of change, problem and delivery management.
+
+
+effective collaborative and proven process improvement skills.
+
+
+strong influence and relationship building skills.
+
+
+
+
+ 
+
+
+technology:
+
+
+ 
+
+
+
+
+strong knowledge of it standards, methodologies and project life cycles.
+
+
+up-to-date with trends in technology and or the marketplace.
+
+
+strong knowledge of a relational database management system. preferred: ms sql server.
+
+
+experience with autosys, tidal or a similar job management system an asset.
+
+
+experience with distributed computing an asset.
+
+
+strong knowledge of unix/linux and shell scripting.
+
+
+
+
+ 
+
+
+qualifications:
+
+
+ 
+
+
+
+
+5+ years of practical experience with large enterprise application development and or support.
+
+
+2+ years of experience in financial services and or capital markets it an asset.
+
+
+2+ years of experience in release, environment or deployment management in an enterprise it department.
+
+
+undergrad degree in computer science, engineering, math, or a related field.
+
+
+
+
+managerial excellence
+
+
+strong ability to influence stakeholders and peers.
+
+
+key relationships
+
+
+
+
+reports to: manager, derivative credit risk valuations development
+
+
+accountable to the head, trading credit risk technology and the director, application services.
+
+
+business partners: group risk management, trading credit risk and risk capital
+
+
+
+
+time allocation
+
+
+documentation and requirements gathering:25%
+
+
+planning and testing: 25%
+
+
+relationships and communication: 25%
+
+
+release planning and execution:25%
+
+
+working conditions
+
+
+be prepared to work in a flex-hour position which may involve some evenings and/or weekends.
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+05/30/2014
+ 
+
+
+req id:
+  
+90118
+
+
+posting notes:  
+none
+
+

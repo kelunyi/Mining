@@ -1,0 +1,50 @@
+:
+1) project management
+- work with management to define project scope and secure project resources
+- work with business analysts and development leads to analyze requirements and produce technical designs (edds, gdds, functional specifications, interface specifications). ensure that accurate work estimates are provided
+- evaluate and prioritize requirements with stakeholders to address business need, and time and resource constraints
+- manage the plan and provide status updates. ensure that development resources are optimally engaged and are tracking to assigned tasks
+- ensure key quality gates (design reviews, code reviews, security scans, etc.) are passed prior to handoff during each stage of the project. provide design walkthroughs for the testing teams. manage plogs and pcns as needed
+- manage the project implementation plan. ensure that production support and escalation procedures have been defined
+- coordinate efforts with multiple 3rd party vendors
+ 
+2) release co-ordination
+- ensure that integrated test plans have been developed and reviewed and that all testing environments have been allocated for the release
+- communicate key release milestone dates
+- ensure key quality gates are passed (load tests, code reviews, security scans, etc.) for the integrated release
+- create the release implementation plan, conduct implementation walkthroughs and run implementation conference calls
+3) team leadership
+- work with management to mentor and grow staff
+- provide management with feedback on staff
+- participate in and manage the co-ordination of support issues
+- work with management to create a positive work environment, encouraging staff camaraderie, engagement and team spirit
+- build relationships with business partners and support groups, acting as an ambassador for the team
+in addition, the incumbent should be effective in process improvement; he/she will provide the department with leadership by continually improving processes to generate greater efficiencies across the department:
+- procedural and technical changes to cut costs
+- improved operational efficiencies
+- improved quality
+- improved customer satisfaction
+qualifications:
+- minimum of 2 years of project management experience
+- minimum of 5 years of experience working in the it industry, with at least two in the software development field
+- understanding of retail banking is required; customer and crm experience would be an asset
+- a strong understanding of software engineering principles: familiarity with all aspects of the sdlc is essential
+- understanding formal testing standards and methodologies
+- strong excel and ms project skills
+- strong analytical skills are essential
+- solid understanding of technical implications of code changes
+- a software development background is required
+- familiarity with some or all of the following would be considered an asset: web services,  java, websphere, 
+- a demonstrable track record in dealing with production support issues
+- experience leading a team would be a strong asset
+- experience performing evaluation on user requirements, providing cost/benefit analysis
+excellent business writing and communication skills
+quick decision making skills and self-directed
+education and accreditations:
+university bachelor degree or community college diploma in a technical discipline, computer science, math or engineering related discipline is desirable.
+other information:
+work standard hours but may have to work additional hours to meet project deadlines or to coordinate the implementation releases after hours.
+ 
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

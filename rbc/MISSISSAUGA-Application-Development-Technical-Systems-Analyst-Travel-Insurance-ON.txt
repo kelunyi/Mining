@@ -1,0 +1,199 @@
+Title:Application Development Technical Systems Analyst - Travel Insurance
+Location:MISSISSAUGA, ON, CA
+Date Posted:2015-06-23
+URL:https://jobs.rbc.com/job/MISSISSAUGA-Application-Development-Technical-Systems-Analyst-Travel-Insurance-ON/264892000/
+knowledge in p&c insurance applications.  the individual should have strong analytical and communicational skills to meet the fulfill the following mandate:
+
+
+ 
+
+
+key technical skills (must have) for application design and development to perform in this role :
+
+
+ 
+
+
+
+
+iseries platform skills, sound   of ile cl,rgp programming,  iseries commands - 5 plus years
+
+
+synon 2e/ca 2e  or any case tool development skills on the iseries  
+
+
+ibm portal server development, java programming skills on j
+
+
+extensive   of data design/modeling, defining new functions, define new entity relationship,
+
+
+
+
+ 
+
+
+the following skills would be considered as a plus for this position:
+
+
+
+
+ansi ile c programming on the iseries
+
+
+xml/xslt/css style sheet processing and transformation
+
+
+soap web service and client side to enable a service oriented architecture
+
+
+inter portlet communication
+
+
+using ide development tools such rational application developer and sub version
+
+
+
+
+collaboration with other teams:
+
+
+        - providing support for insurance business and enterprise it projects , support bsa, qa teams.
+
+
+        - support both internal and external insurance clients - some third party/vendor involvement
+
+
+        - update problem resolution procedures/operating manual/provide feedback/coaching to it/business
+
+
+ change/release management,
+
+
+    - follow sdlc waterfall and agile development methodologies; 
+
+    - create/maintain all production change records by working with it project mangers
+
+
+    - following the pmf/sdlc development process and create all required artifacts such as technical design documentation, integration test plans etc.,  to meet enterprise/industry standards.
+
+    - ensure changes comply with rbc change management procedures and enterprise standards
+
+    - review it implementation plans identifying potential issues and recommending changes where appropriate
+
+    - actively take part in post implementation production testing
+
+    - maintain it documentation to keep up to date with changes.
+
+    - updates to security and control documentation, meet audit requirements
+
+
+ 
+
+
+additional skills/ experience that would be considered for this position:
+
+    - some exposure/   of  insurance applications in claims and sales areas.
+
+
+    - ability to think logically and problem solving abilities to triage incidents and escalate to management.
+
+
+    - manage workload and prioritize with respect to project constraints and commitments.
+
+
+    - building relationships with enterprise it/business groups in order to resolve production issue with minimal business impact
+
+    - willingness to learn and accept new challenges 
+
+
+    - collaborate and work as an excellent team player.
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+mississauga
+ 
+
+
+address:
+  
+6880 financial drive
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+05/14/2015
+ 
+
+
+req id:
+  
+88720
+
+
+posting notes:  
+none
+
+

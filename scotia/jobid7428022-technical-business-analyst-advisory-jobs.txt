@@ -1,0 +1,56 @@
+:
+1.
+ 
+facilitate work sessions with business clients and other stakeholders to gather business and process flow requirements. assist in translating results into a business and/or technical requirements document.
+2.
+ 
+research and analyze business requirements for new/enhanced systems to determine best fit for technology and how to best meet requirements or if necessary, how best to amend requirements to meet the realities of delivery time lines and resource constraints.
+3.
+ 
+translate business requirements into technical design and functional requirements document.
+4.
+ 
+provide analysis of data requirements. identify data sources and requirements for data migrations, data conversion and data loads into complex database repositories.
+5.
+ 
+prepare project plans, prepare estimates of cost and schedule.
+6.
+ 
+provide support for integrated systems testing and user acceptance testing 
+7.
+ 
+provide input to project status and progress reports to client and sr. management.
+8.
+ 
+provide mentoring and coaching on best practices.     
+qualifications:
+1.
+ 
+5 years’ experience as a system analyst or business system analyst
+2.
+ 
+familiarity with banking applications including cash management and/or payments is an asset
+3.
+ 
+exceptional written and oral communication skills.
+4.
+ 
+knowledgeable in distributed computing and web based applications. familiar with logical data & process modeling, use case modeling, work flow modeling, and the rational unified process.
+5.
+ 
+knowledgeable in the system development life cycle and test methodology.
+6.
+ 
+excellent problem solving skills, vision and innovative approach to computing based solutions and ability to convey these ideas. 
+7. some background in computer programming an asset
+8.
+ 
+strong leadership, mentoring, coaching and motivational skills.
+9.
+ 
+must be reliable, pro-active, results-oriented, customer-focused and attentive to details.
+education and accreditations:
+computer science degree/diploma or business analysis diploma/certification     
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+
