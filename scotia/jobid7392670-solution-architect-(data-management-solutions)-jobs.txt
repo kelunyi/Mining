@@ -1,3 +1,8 @@
+Title:Solution Architect (Data Management Solutions)
+Location:Toronto, Ontario, Canada
+Date Posted:2015-04-07
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7392670-solution-architect-(data-management-solutions)-jobs
+-------------------------------------------
 :
 1. participate in all aspects of a system development life cycle within the technology team (lead requirement analysis, solution design, development best practice, test methodology, implementation strategy, and production support).
 2. lead the evolution of systems or software development lifecycle (sdlc) best practice that adapts to data management solutions and, but not limited to, risk data aggregation regulatory reporting (rdarr) compliance.

@@ -1,3 +1,8 @@
+Title:Senior Manager Solutions Architecture
+Location:Toronto, Ontario, Canada
+Date Posted:2015-03-20
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7295012-senior-manager-solutions-architecture-jobs
+-------------------------------------------
 :
 -  responsible for understanding the detail business requirements and ensuring the solutions are compliant with a prudential interpretation of osfi regulations: basel iii, alm, ftp and liquidity risk, stress testing and regulatory reporting (e.g., ccar, ncr, etc.).  collaborates with the business planning and analysis team to ensure that the documented requirements actually reflect the customers’ needs.
 -  delivery of conceptual and detail solutions based on those requirements

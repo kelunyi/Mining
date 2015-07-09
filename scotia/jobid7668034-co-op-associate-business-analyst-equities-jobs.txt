@@ -1,3 +1,8 @@
+Title:CO OP Associate Business Analyst Equities
+Location:Toronto, Ontario, Canada
+Date Posted:2015-05-27
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7668034-co-op-associate-business-analyst-equities-jobs
+-------------------------------------------
 : 
 as an associate in the global wholesale technology business analysis team for institutional equities (gwt-ie bas) you will be responsible for supporting the technology that facilitates mid-office clearing (trade management) as well as a data warehouse (equity management information system) utilized by institutional traders at scotiabank. your role as an associate will be to work under the guidance of a business analyst assisting them as directed in facilitating the gathering of requirements, writing specifications, organizing documentation, executing test cases, and providing end-user support. gwt-ie bas act as a liaison between the business users and development teams.  as a member of a small agile team, you will have the opportunity to work on a variety of new initiatives as well as provide operational support for existing applications. 
 key accountabilities for this role include:

@@ -1,3 +1,8 @@
+Title:Solutions Architect (Collection Systems Call Centre Technologies)
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-05-08
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7575998-solutions-architect-(collection-systems-call-centre-technologies)-jobs
+-------------------------------------------
 :
 • providing technical architectural designs solutions / reviews for major business application and technology initiatives focusing on web / internet systems (i.e. web servers, web designs, internet protocols, and internet security).
 • presenting work for review in structured walkthrough presentations of application systems to/with project team members and users during various stages of the development process.

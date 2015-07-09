@@ -1,3 +1,8 @@
+Title:Associate \ Senior Business Analyst
+Location:Toronto, Ontario, Canada
+Date Posted:2015-04-10
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7418354-associate-_-senior-business-analyst-jobs
+-------------------------------------------
 
 support the associate director, onboarding technology project management in the ongoing analysis, structuring and rollout of new technology and process changes required to ensure onboarding activities are globally coordinated, client-centric, and compliant with regulatory reform impacting global banking and markets globally (including the integration of ongoing developments in kyc/aml/atf  rules, g20 derivative regulatory reform, fatca, etc.).
 draft business requirements by consulting with various user and stakeholder groups, formulate business process flow charts, scope data migration, support data and document migration, and conduct uat and acceptance of technology changes.  apply business acumen, user experience and technological knowledge to analyze and define user requirements for the centralized onboarding technology platform.

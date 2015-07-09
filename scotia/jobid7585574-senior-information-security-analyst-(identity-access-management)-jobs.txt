@@ -1,3 +1,8 @@
+Title:Senior Information Security Analyst (Identity Access Management)
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-05-11
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7585574-senior-information-security-analyst-(identity-access-management)-jobs
+-------------------------------------------
 :
 • participate to develop and run the enterprise access governance operating model by building rules, strategy documentations and framework documentations, etc…
 • perform required tasks for the enterprise access governance function; tasks relevant to logical access management (lam) including access request, access certification, communication, and documentation of operational processes and procedures.

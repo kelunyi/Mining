@@ -1,0 +1,457 @@
+Title:Lead Consultant, Security Analytics
+Location:Toronto, ON, CA
+Date Posted:2015-06-03
+URL:https://jobs.rbc.com/job/Toronto-Lead-Consultant%2C-Security-Analytics-ON/265215600/
+-------------------------------------------
+purpose:
+
+
+it risk and security – information security provides it security consulting for global security services that are business aligned and enablers to the delivery of secure solutions. this position provides leadership and execution in the area of security analytics for security services leveraged by the global rbc business and infrastructure team across all enterprise security services to detect complex and advanced threats.
+
+
+ 
+
+
+the position provides security and technical leadership in the area of security analytics for security services used to provide protection for the global rbc business, application and infrastructure team across the enterprise. provides security expertise and leadership in the domains of security analytics.
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+skills & experience:
+
+
+
+
+data analytics and analysis skills with extensive experience working with large data sets to identify and analyze patterns that span lengthy time periods.
+
+
+visualizing data sets to make associations i.e. “connect the dots” and identify activity that falls outside of baseline levels
+
+
+security domain expertise: detailed and in depth understanding of security data, attack vectors, counter measures etc
+
+
+data science expertise: advanced analytical skills, like using machine learning and predictive analytics algorithms, and expert knowledge to prepare data for analysis and reporting.
+
+
+expert knowledge of big data technologies designed to optimize analysis of large amounts of data.
+
+
+mapreduce/spark/storm/hive/pig expertise is advantageous.
+
+
+demonstrate competence and expertise to combat emerging threats by taking advantage of big data, and data discovery advanced threat detection capabilities.
+
+
+identify the sequence of an attack: analyze data surrounding incidents to identify anomalies and patterns that are not “normal.”
+
+
+by factoring in it, user, and business application data as context, they can reach a conclusion on the impact of a security incident.
+
+
+data interrogation techniques to conduct big data analysis in order to discover attack sequences and better understanding of the business impact of security and other events.
+
+
+analyze security incidents, detect root causes, and infer larger attacks before adversaries can exfiltrate high-value data.
+
+
+provide results of data analysis to security operations teams to conduct security investigations based on hypothesis and suspicion.
+
+
+possess the ability to ask questions as needed, receive fast responses, and quickly pivot their investigations based on those responses.
+
+
+translate security incidents into business impact by developing a centralized view of it, user, business application data and security event data.
+
+
+define and create a multi-structured data model into a single repository, to be transformed and correlated so that the outcome of security investigations is about business impact.
+
+
+
+
+ 
+
+
+primary responsibilities:
+
+
+
+
+establish, mature and optimize the security analytics capability across the enterprise and globally.
+
+
+lead the delivery of security analytics capability to identify advanced and targeted attacks, as well as to support / enhance cyber threat analysis, intelligence and reporting functions
+
+
+lead the evaluation and implementation of security analytics capability to enhance the cyber
+
+
+provide leadership, guidance and oversight to drive security analytics maturity improvements across the organization, in line with the changing threat landscape, regulatory and compliance requirements etc
+
+
+provide subject matter expertise, technical deliverables oversight of strategic cyber projects and initiatives to enhance and improve security analytics capabilities and maturity.
+
+
+conduct regular key control assessments for technologies and services implemented
+
+
+measure the effectiveness of the cyber solutions capabilities to ensure appropriate plans are in place to address lower performance and ineffective practices
+
+
+partner with information security operations to provide leadership and support in the areas of 
+
+
+cyber threat analytics, security analytics techniques and approaches
+
+
+support the delivery of the 3 year cyber security roadmap to maintain and optimize the security analytics capability.
+
+
+provide depth of expertise, skills, source of knowledge on current & emerging techniques leveraging security analytics to identify cyber threat issues and trends
+
+
+act as a point of escalation for security investigations and incidents to provide guidance and oversight on incident resolution and containment techniques
+
+
+interface into business units to bring business context to cyber threat and trends..
+
+
+provide security consulting to various areas in the bank on cyber security topics as needed
+
+
+further develop and enhance relationships with other lines of business to form a cohesive, cross functional cyber security analytics capability to identify trends, external / insider threat intelligence information..
+
+
+lead the enhancement and optimization of implemented reporting mechanisms to provide enhanced data to detect advanced and complex threats affecting individual business units.
+
+
+maintain and optimize information / cyber security policies and standards that will drive a baseline security posture with incremental improvements over time.
+
+
+leads the development of security controls and control objectives and monitors, including the measurement of the effectiveness of security controls.
+
+
+provides leadership for successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+
+
+project planning & execution
+
+
+
+
+provides leadership, direction and guidance for requirements gathering and scope definition for the projects
+
+
+provide leadership and direction to the project team, including 3rd party suppliers, contingent workers and internal staff.
+
+
+provides recommendation for best solutions based on understanding of business requirement, needs and challenges
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+advisors to senior management on cyber security and cyber threat decisions and direction
+
+
+functions as an in-house consultant to it risk and security, gti, t&o leaders
+
+
+leads complex group meetings (including business partners) for security design, decision making, problem solving, implementation and strategic planning.
+
+
+prepares and delivers presentations to business and technology partners, senior management and executives selecting the appropriate approach based on the audience.
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+provides superior client experience and strengthens relationships with business partners
+
+
+collaborates with colleagues across the organization to get things done
+
+
+manages project communications including status reports to executives, stakeholders, business units, vendors, project team etc.
+
+
+provides senior management with timely updates on project issues
+
+
+may utilize single vendor/3rd party (consultants, offshoring, outsourcing) of known capacity and manages the relationship at the project level
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+as part of bau, further develop high performance cyber security teams that are highly skilled and possess depth of experience across the various cyber security domains.
+
+
+support ongoing cyber talent management, including talent acquisition, development and skills enhancement.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems
+
+
+supports development of security engineers
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+how time will be allocated (percent)
+
+
+security analytics – 70%
+
+
+security consultation – 10%
+
+
+security planning and design – 10%
+
+
+policies, standards, control objectives  – 10%
+
+
+ 
+
+
+education/experience
+ 
+
+
+
+
+depth of skills and experience - information security and cyber security domains
+
+
+data analytics and analysis skills with extensive experience working with large data sets to identify and analyze patterns that span lengthy time periods.
+
+
+visualizing data sets to make associations i.e. “connect the dots” and identify activity that falls outside of baseline levels
+
+
+security domain expertise: detailed and in depth understanding of security data, attack vectors, counter measures etc
+
+
+data science expertise: advanced analytical skills, like using machine learning and predictive analytics algorithms, and expert knowledge to prepare data for analysis and reporting.
+
+
+expert knowledge of big data technologies designed to optimize analysis of large amounts of data.
+
+
+professional with experience on security consulting, designing and delivering large projects/programs  
+
+
+iso 27002, nist 800 series, cobit control framework  
+
+
+experience with large projects/programs
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+par process and financial knowledge related to technology
+
+
+annual budget process
+
+
+risk assessment & quantification
+
+
+conflicts and issues resolution and escalation
+
+
+strong communication skills
+
+
+strong facilitation skills
+
+
+strong presentation skills
+
+
+conflicts and issues resolution and escalation
+
+
+strong negotiation skills
+
+
+
+
+business knowledge
+
+
+
+
+business line(s)’ business strategy, needs and technology
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+design, deployment, optimization of enterprise security solutions and services e.g. cyber threat management &  intelligence, security analytics solutions, siem, malware detection & analytics, apt detection and containment etc
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+
+
+ 
+
+
+people management knowledge
+
+
+
+
+rbc hr philosophy, principles, direction, policies & guidelines
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+may have to manage staff… dependent on portfolio
+
+
+
+
+*li - fh1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+07/11/2015
+ 
+
+
+req id:
+  
+89144
+
+
+posting notes:  
+none
+
+

@@ -1,3 +1,8 @@
+Title:Web developer\UI Designer
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-06-12
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7791420-web-developer_ui-designer-jobs
+-------------------------------------------
 :
 application analysis and design, and development for enterprise level ui services layer
 assist technical resources in the analysis of business requirements in order to establish the technical feasibility of proposed initiatives

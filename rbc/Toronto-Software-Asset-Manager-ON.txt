@@ -1,0 +1,315 @@
+Title:Software Asset Manager
+Location:Toronto, ON, CA
+Date Posted:2015-06-10
+URL:https://jobs.rbc.com/job/Toronto-Software-Asset-Manager-ON/272824500/
+-------------------------------------------
+purpose:
+
+
+to support the direction and management of a defined set of supported software titles with the implementation of best practices from the itam software asset management program.  this professional will have a clear understanding of the current software licensing policies in place and manage expectations by meeting self-audit targets, on boarding new software titles and delivering quality customer service.  efficiently manage software requests by redeploying surplus where possible (to control rbcfg software expenditure), responsible for the day-to-day operational activities and will act as the primary contact for internal clients. be responsible to provide ongoing status reports as well as identify opportunities to streamline processes that will assist in the success of software asset management.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities
+
+
+
+
+manage software assets as they relate to the itam lifecycle for assigned portfolio of products/services and geographies, working towards consistent global coverage and responsibility. titles include (but not limited to): red hat (rhel, jboss), oracle (dbee, rac, tuning/diagnostics, partitioning, ocon, weblogic), tibco (businessworks), symantec (storage foundation), cisco (tidal, jaws), vitria (businessware), microsoft sever products (sql, biztalk, crm, windows server, exchange, sharepoint).
+
+
+ensure process, procedure, issue tracking and relevant documentation is current and complete, in collaboration with the manager and the team
+
+
+conduct/participate in regular meetings and collaboratively work with internal/external partners to on-board new applications and tools
+
+
+prepares relevant documents related to purchases/true-ups and present to senior managers/executives for sign off
+
+
+completes/enters ebudget records as required for financial tracking
+
+
+liaise with senior managers and executives to socialize contracts and supporting documentation on software expenditures
+
+
+establishes relationships with resellers and vendors to promote support and advice with software asset management
+
+
+responsible for managing the activities related to the administration of software entitlements
+
+
+assist in the acquisition of software solutions by interfacing with the vendors and the software support staff (procurement)
+
+
+provide input on high dollar value contracts and negotiations
+
+
+ensures that technical and management approvals are acquired for procurement, deployment and control of software assets
+
+
+reconcile ongoing software requirements in a timely manner as it relates to the existing vendor agreements
+
+
+completes software asset management reports including the monthly/quarterly/annual self-audits and other reports as required by governance and audit staff
+
+
+act as a primary contact/referral point for both internal and external software audits
+
+
+establishes and maintains accurate records of software including details of ownership and allocation
+
+
+maintains detailed records of software deployments and relevant  agreements (in conjunction with the procurement group), which may be contained within an asset management database
+
+
+ensure available software licenses are redeployed from surplus inventory prior to ordering new licenses from the supplier
+
+
+review and discuss service level agreement targets quarterly with vendors
+
+
+contribute to process improvement/re-engineering initiatives for administration, maintenance and management to ensure the reduction of total cost of ownership
+
+
+participate with other team members in establishing team performance objectives and promote the concepts of team building
+
+
+provide backup/relief for team members as required
+
+
+
+
+ 
+
+
+position requirements/specificiations: 
+
+
+systems knowledge
+
+
+
+
+end user reporting tools (e.g. microsoft access, excel, outlook, powerpoint, service now, my marketplace)
+
+
+relevant technology (sccm, ucmdb)
+
+
+it standards, methodologies
+
+
+
+
+ 
+
+
+key competencies required
+
+
+
+
+highly motivated
+
+
+developing project management skills
+
+
+very professional, able to work with all internal / external contacts
+
+
+very strong organizational and planning skills
+
+
+strong written / verbal communications skills
+
+
+expertise in microsoft office suite
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+requirements methods: interviewing, business process
+
+
+quality control
+
+
+communication skills
+
+
+facilitation skills
+
+
+presentation skills
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+business line(s)’ business applications/ processes.
+
+
+general knowledge of factors affecting business
+
+
+bu specific strategies & critical success factors
+
+
+itam best practices
+
+
+
+
+ 
+
+
+time allocation:
+
+
+50% asset management
+
+
+20% vendor management
+
+
+20% partner, customer and business management
+
+
+10% training, technology research and personal development
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front street w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+91153
+
+
+posting notes:  
+none
+
+

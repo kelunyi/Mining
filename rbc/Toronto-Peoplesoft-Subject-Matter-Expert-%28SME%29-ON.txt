@@ -1,0 +1,346 @@
+Title:Peoplesoft Subject Matter Expert (SME)
+Location:Toronto, ON, CA
+Date Posted:2015-06-13
+URL:https://jobs.rbc.com/job/Toronto-Peoplesoft-Subject-Matter-Expert-%28SME%29-ON/266438300/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+
+
+this position supports the peoplesoft general ledger 
+functional
+ package with specific emphasis on configuration, workflow, allocations, configure second level approval & average daily balance, security and year end ledger roll over.  the successful candidate will be a peoplesoft general ledger functional expert.  the person who takes on this responsibility will have a major involvement with helping to define how peoplesoft functionality will help to drive forward the bank’s financial processing.
+
+
+while there is a peoplesoft technical side to this position, the emphasis is on the functional side.  the successful candidate must have a ba mindset and be willing to perform financial ba work along with the peoplesoft general ledger functional duties.
+
+
+there are numerous initiatives that finance is looking at that will require direct input from the successful candidate.
+
+
+
+
+primary responsibilities
+
+
+business analysis & documentation
+
+
+
+
+coordinates detailed business requirements phases identifying, tracking and resolving business systems issues.
+
+
+assesses, researches, analyzes and documents sponsor/stakeholder needs selecting appropriate information gathering and/or modeling techniques to solve problems.
+
+
+recommends business solutions that satisfy sponsor/stakeholder needs continually exploring and assessing options for value-add for clients.
+
+
+
+
+
+
+ensures successful completion of project objectives within budget, on time and as per project office methodology.
+
+
+directs preparation of appropriate documentation and ensures adequate end user training for assigned projects.
+
+
+
+
+ 
+
+
+planning & testing
+
+
+
+
+develops high level plans for completion of requirements and acceptance phases of projects, improving in the level of detail and accuracy of estimates over time.
+
+
+develops and executes testing including coordinating system and acceptance testing.
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and business partners using a variety of techniques and collaboration from initiation to close.
+
+
+
+
+
+
+facilitates small to medium size group meetings and conducts small cross- functional interviews.
+
+
+prepares and delivers presentations to business partners.
+
+
+resolves minor conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+provides expertise, training and direction to more junior staff.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+authorities, impact, risk
+
+
+
+
+as the peoplesoft general ledger sme you will control all changes assigned to you to ensure they are done to requirements.  you will work with the bsa to ensure all changes are as requested before the changes can be put into qa for final testing.
+
+
+when our business partners request information about the capabilities of the peoplesoft system you will provide the information and direction on the capabilities of peoplesoft.
+
+
+some of the projects this person would be part of fall into the 1 to 10 million dollar range.  the ability to create sound solutions is mandatory.
+
+
+this position supports the it and business finance solutions area and will have an impact on financial software development.
+
+
+
+
+ 
+
+
+job specifications
+
+
+the following are the important peoplesoft related tasks:
+
+
+
+
+setting up and maintaining peoplesoft allocations
+
+
+configuring peoplesoft for new business units and amending peoplesoft configuration for existing pcs
+
+
+setting up workflows
+
+
+running the year end ledger process and ensuring that the year end balances are rolled over correctly
+
+
+trouble shooting processing issues with any of the above.
+
+
+assist in the upgrade to the new release of peoplesoft application and peoplesoft tools
+
+
+provide guidance on implementing peoplesoft processes that are currently not used by rbc
+
+
+trouble shooting processing issues.
+
+
+
+
+ 
+
+
+strong communication and written skills are mandatory.
+
+
+ 
+
+
+required:
+
+
+
+
+extensive knowledge of the oracle peoplesoft general ledger application.
+
+
+5 years peoplesoft experience
+
+
+
+
+ 
+
+
+preferred:
+
+
+
+
+knowledge of financial systems.
+
+
+
+
+ 
+
+
+key relationships 
+
+
+
+
+the key people this position deals with are our business partners who come to us with their requirements, technical systems analysts creating the code, the qa team who test the code. it is also possible you will be asked to investigate possible solutions available in peoplesoft and the gl system in general for our business partners.
+
+
+this position does not have any people manager responsibilities.
+
+
+
+
+ 
+
+
+working conditions
+
+
+the position will be located in a modern office workstation.  this is a very detailed oriented job that will require minimal physical effort.  at times the stress level could be high.
+
+
+ 
+
+
+time allocation
+
+
+depending upon the current needs of our business partners, this position will be split between doing specialized peoplesoft related tasks and general work for the peoplesoft general ledger and related systems.
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+20 king st west; 3rd floor
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/18/2015
+ 
+
+
+req id:
+  
+89233
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

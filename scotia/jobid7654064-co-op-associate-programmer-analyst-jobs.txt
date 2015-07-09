@@ -1,3 +1,8 @@
+Title:CO OP Associate Programmer Analyst
+Location:Toronto, Ontario, Canada
+Date Posted:2015-05-25
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7654064-co-op-associate-programmer-analyst-jobs
+-------------------------------------------
 :
 •    analysis, design and development of scripts using sql, pl/sql stored procedures
 •    analysis, design and development of scripts using unix, perl & php

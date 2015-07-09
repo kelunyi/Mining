@@ -1,0 +1,187 @@
+Title:Data Architect
+Location:Toronto, ON, CA
+Date Posted:2015-06-27
+URL:https://jobs.rbc.com/job/Toronto-Data-Architect-ON/256270400/
+-------------------------------------------
+key accountabilities
+
+
+ 
+
+
+
+
+technical management and project development functions:
+
+	•provide leadership and direction for integrating and rationalizing data design within rbc’s data management environment
+
+	•demonstrate proficiency in facilitating large complex assignments while taking an enterprise wide view of data requirements.
+
+	•provide dwe solution architecture for data warehousing projects
+
+	•conduct studies of new tools and technologies relevant to data management & data warehousing
+
+	•improve eim performance by providing technology leadership through:
+
+	•education and awareness
+
+	•development of business cases for tools and technology introduction
+
+	•extend and promote the rbc data policies, standards and guidelines across the enterprise.
+
+	•exercise influence and impact across the enterprise in promoting the thought leadership and the strategic data management direction across the enterprise - establish, publish, and evangelize the use of information standard data models, policies, tools and infrastructure across the enterprise.
+
+	•lead research efforts and introduction of new data management tools and technologies.
+
+	•initiate and direct studies related to enterprise data standards, strategies, issues and opportunities
+
+
+ communications:
+
+	•liaise with other technical areas, conduct technology research, evaluate software and produce strategy/direction papers.
+
+	•effectively communicate complex architectural strategies and directions to both systems and business users
+
+	•interface with systems and business management to raise their level of understanding and support for information integration.
+
+	• promote the goal of data stewardship.
+
+
+
+
+ 
+
+
+ 
+
+
+position specifications
+
+
+knowledge / experience:
+
+
+
+- in-depth understanding of application, information and data architectures; broad knowledge of rbc businesses and systems
+
+- ability to balance creativity with pragmatism, concepts with practical applications
+
+- very strong interpersonal and communication skills; ability to communicate with people in wide variety of areas and at various levels from technical specialists to senior executives.
+
+- ability to learn and absorb quickly new concepts (in business and in systems), apply new knowledge as appropriate and transfer knowledge to others
+
+- strong technical skills in data management: data modeling and db design, dwe solution architecture, data movement, business intelligence, data quality, reference and master data management, data governance processes etc.
+
+
+- enterprise data modeling and integration
+
+- understanding of business and solution architecture disciplines and techniques
+
+
+- experience and ability to solution with current technologies (db2, sql server, oracle, teradata, datastage, oracle bi etc)
+
+
+- ability to assess and solution with emerging technologies (big data, hadoop, nosql, cloud etc.)
+
+domain knowledge requirements
+
+- data model entities and relationships of a financial services platforms and enterprise functions (e.g. banking, insurance, investments, wealth management, aml, risk, finance, fraud etc....)
+
+- patterns of usage of the entities and relationships in the data model
+
+
+- database integration patterns and performance considerations for operational and dwe databases
+
+
+
+
+education required: ba/bs
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+04/15/2015
+ 
+
+
+req id:
+  
+86549
+
+
+posting notes:  
+none
+
+

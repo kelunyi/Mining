@@ -1,0 +1,415 @@
+Title:Mid-Tier Lead Architect
+Location:Toronto, ON, CA
+Date Posted:2015-06-05
+URL:https://jobs.rbc.com/job/Toronto-Mid-Tier-Lead-Architect-ON/265847400/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+the lead architect is a pivotal role within the enterprise mid-tier & legacy simplification.  this lead architect role is required to manage the diverse mid-tier architecture and service which span the rbc enterprise.
+
+
+ 
+
+
+the lead architect plays a critical role in leading key aspects of the transformational activities and ongoing operations for the enterprise mid-tier & legacy simplification team.  this role includes leading the development and implementation of current and future-state architectures as well as the development of comprehensive roadmaps to ensure project investments are aligned to rbc strategy and objectives.
+
+
+ 
+
+
+the vision for the enterprise mid-tier & legacy simplification is to be viewed as an indispensable partner in maturing and growing rbc's technology capabilities in order to most efficiently and effectively enable the business growth strategy.  the lead architect is instrumental in positioning the organization to execute and deliver on its strategic objectives.
+
+
+ 
+
+
+key aspects of the lead architect role include:
+
+
+ 
+
+
+•     accelerating/growing rbc’s technology base to achieve critical business capabilities.
+
+
+•     enabling strategic objectives by providing actionable architecture direction for the maturation of critical business and technology capabilities and solutions on a global scale.
+
+
+•     achieving a rationalized portfolio of effective business and technology solutions that increase cost   efficiencies and enable the business, e.g., through:
+
+
+ 
+
+
+o    leveraging of shared services.
+
+
+o    collaboration.
+
+
+o    simplification.
+
+
+ 
+
+
+•     appropriately balancing the benefits of enterprise consistent shared services with the need for strategically critical flexibility at the line of business and global level.
+
+
+•     enabling agility and adaptability to shifts in business and technology strategy.
+
+
+•     manage approximately 5 lead architects in the wealth applications function globally
+
+
+ 
+
+
+primary responsibilities
+
+
+
+
+partner with t&o, business, global counterparts and clients to:
+	
+
+
+develop, socialize, and maintain current and future-state architectures, rationalizing the portfolio of it assets by deploying a mid-tier across the rbc enterprise portfolio/t&o, while ensuring alignment with the business strategy.
+
+
+develop roadmaps and help ensure it investments are aligned with the future-state architectures.
+
+
+ensure that new projects / programs meet enterprise architectural  and technology standards.
+
+
+work with application custodians to assess, document, and review technology health check and architectural concerns.
+
+
+review and approve the deployment of new app codes and their retirement.
+
+
+maintain an accurate representation of the overall portfolio in rbc enterprise.
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+work collaboratively with the t&o teams and global partners to:
+	
+
+
+ensure that the value delivered is aligned to maximize synergies and enterprise leverage (e.g., through integration and standardization), while optimizing the efficient use of resources (e.g., such as engineering, application development, business, and consulting resources).
+
+
+participate in the creation of reference architectures.
+
+
+identify synergies and reusable business services and components.
+
+
+facilitate and participate in reviews and share skills, knowledge, and best practices.
+
+
+
+
+
+
+provide guidance and expertise to architects.
+
+
+participate in, and enforce, the enterprise governance frameworks.
+
+
+
+
+identify opportunities for cost savings and more efficient operations. contribute to savings by proposing improvements to development processes, introduction of effective tooling / practices, elimination of redundant systems / procedures, etc.
+
+
+ 
+
+
+job specifications
+
+
+ 
+
+
+required:
+
+
+
+
+undergraduate degree in computer science, engineering, or equivalent experience.
+
+
+15+ years of experience managing large complex teams of distributed resources.
+
+
+expert knowledge of architecture, application development, application systems design, and integration.
+
+
+proven effective leadership to drive and facilitate transformation in a large and complex global organization.  includes ability to influence decision making and facilitate teams with multiple stakeholders at all levels in the organization as well as knowledge of change management discipline and best practices.
+
+
+solid experience operating in a complex information technology and management process environment.
+
+
+capability to establish and maintain effective partnerships and relationships with key stakeholders (global architecture areas, application development, t&o management, rbc business groups, gti)
+
+
+ability to discuss information technology in business terms.
+
+
+ability to manage multiple priorities and aggressive deliverables and take a leadership role in moving initiatives forward.
+
+
+ability to think strategically and propose solutions to high risk issues
+
+
+excellent written and verbal communication as well as strong interpersonal and executive presentation skills.
+
+
+strong collaboration, analytical, and consultative skills.
+
+
+
+
+ 
+
+
+education preferred:
+
+
+masters degree in business, computer science, or engineering preferred.
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+management and allocation of annual budget ($100 million + development).
+
+
+increase cost efficiencies wherever possible.
+
+
+management of additional architecture resources depending on workload.
+
+
+execution of all enterprise mid-tier governance processes associated with the enterprise t&o portfolio.
+
+
+cross-organizational, multiple business lines, and geographical impact.
+
+
+
+
+ 
+
+
+key relationships 
+
+
+ 
+
+
+
+
+reports to the vp transformation
+
+
+direct reports – as required across the geographies
+
+
+interaction with rbc executives including the technology and operations (t&o) leadership team, application development (ad), global technology infrastructure (gti), various line of business, clients and global partners.
+
+
+partner with smes e.g., business architects, solutions architects, consultants
+
+
+collaborate with various capability areas e.g., finance, program, and project portfolio management, etc.
+
+
+
+
+ 
+
+
+managerial excellence
+
+
+
+
+ensure that employees understand the rbc vision; support and reinforce targeted behaviours that contribute to rbc goals/global objectives.
+
+
+provide focus and clarity in establishing individual goals, driving performance management, supporting career development, and rewarding strong performance.
+
+
+leverage the value in department and enterprise-wide teams to develop better solutions and achieve a cross-enterprise mindset.
+
+
+accept and successfully execute change while supporting employees through the process, and keeping them focused on business priorities.
+
+
+
+
+ 
+
+
+time allocation
+
+
+ 
+
+
+
+
+enterprise mid-tier & legacy simplification  - develop and maintain architecture strategy aligned to the business (40%)
+
+
+provide architectural direction to application groups (20%)
+
+
+develop and implement strategy to increase cost effectiveness while driving revenue and profitability (20%)
+
+
+ensure adherence to audit policies/enterprise architecture guidelines (10%)
+
+
+collaborate across geographies, engage in progress reviews/updates (10%)
+
+
+
+
+ 
+
+
+*li-kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+senior manager/director
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/30/2015
+ 
+
+
+req id:
+  
+89349
+
+
+posting notes:  
+sf:efc; sf:jb
+
+
+ 
+
+
+ 
+
+

@@ -1,0 +1,288 @@
+Title:Analyst - Data Integrity (Capital Markets)
+Location:Toronto, ON, CA
+Date Posted:2015-06-13
+URL:https://jobs.rbc.com/job/Toronto-Analyst-Data-Integrity-%28Capital-Markets%29-ON/267607600/
+-------------------------------------------
+purpose of the role is managing wider crm and other system data integrity issues
+
+
+this role will offer a significant opportunity to act as a change agent leading efforts that will strengthen our front office client relationships. 
+
+
+the crm strategy team will interact across global markets functions; the role offers the opportunity to move from operations to the front-office.
+
+
+
+
+ 
+
+
+responsibilities:
+
+
+ 
+
+
+
+
+liaison between crm strategy analyst and technology
+
+
+support data integrity through data transformation and data clean up efforts including:  reviewing the reconciliation of various systems feeds (inputs/outputs) to the crm; conducting due diligence on data errors existing in crm and other systems (revenue) identifying discrepancies; following up and fixing errors
+
+
+track key metrics on data integrity
+
+
+grow data integrity efforts upstream from crm system to include other systems (e.g. rr codes in oms systems etc)
+
+
+work with business stakeholders to understand data remediation priorities
+
+
+ability to understand various trading flows to assist in the maintenance of data repositories
+
+
+identify opportunities to enhance operations efficiency and data management and streamline existing processes
+
+
+kick out revenue systems exceptions and manage resolution
+
+
+
+
+ 
+
+
+data reconciliation and integrity management:  
+ongoing maintenance/reconciliation between systems and management of client reference data
+
+
+ 
+
+
+
+
+reconcile and maintain master accounts in front-office versus back-office versus database systems
+
+
+implement credit hierarchy in cdr and add corresponding view in workbench
+
+
+maintain client-to-plan mapping in csi
+
+
+gather requirements for manual table administration and subsequent automation
+
+
+
+
+ 
+
+
+data clean-up and maintenance:  
+
+
+ongoing effort to clean up and maintain crm/systems data
+
+
+ 
+
+
+
+
+eliminate duplicate and stale contacts
+
+
+fix incorrect client naming conventions
+
+
+separate issuer/client data structure
+
+
+align naming conventions/structure with analytics reporting convention
+
+
+delineate client versus prospect
+
+
+manage media contacts
+
+
+add pt ids
+
+
+add coverage where missing
+
+
+manage coverage contacts lists
+
+
+add/manage mclaughlin codes
+
+
+add/manage factset holdings
+
+
+
+
+ 
+
+
+ 
+
+
+data issue resolution
+
+
+ 
+
+
+
+
+investigate and trouble shoot data issues as they arise (e.g. templeton investments versus franklin global – revenue not showing up correctly)
+
+
+
+
+ 
+
+
+qualifications
+
+
+ 
+
+
+
+
+ba, ma, ms or equivalent with an in-depth understanding of institutional capital markets
+
+
+3+ years experience working with crm system
+
+
+demonstrated ability in written and oral communications
+
+
+self startertexcellent verbal and written communication skills
+
+
+ability to thrive in a fast-paced,  high stress and detail oriented environment
+
+
+ability to facilitate meetings among stakeholders with diverse and sometimes conflicting points of view, including strong negotiation skills and developing strong client relationships 
+
+
+
+
+ 
+
+
+ 
+
+
+*li-nr1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+200 bay st
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/30/2015
+ 
+
+
+req id:
+  
+83408
+
+
+posting notes:  
+none
+
+

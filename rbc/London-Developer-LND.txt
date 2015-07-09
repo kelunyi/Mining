@@ -1,0 +1,379 @@
+Title:Developer
+Location:London, LND, GB
+Date Posted:2015-06-11
+URL:https://jobs.rbc.com/job/London-Developer-LND/273054300/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+join the global equities technology team in london to perform general development on multiple concurrent projects of varying sizes
+
+
+ 
+
+
+the equities business in london is rapidly growing and as a result ge technology london has a requirement for a dynamic, proactive and hands-on developer who will do whatever is necessary to ensure projects are delivered on time and to a high degree of quality
+
+
+ 
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+work on a variety of projects to directly benefit the equities trading desk in london
+
+
+some projects will require the writing of code to be deployed in production, other projects will be data analysis oriented
+
+
+some projects will be highly tactical in nature to address immediate business needs, whereas others will contribute to the platform’s target state
+
+
+identify strategic internal platforms for tactical deliverables, liaise with other teams to migrate solutions to strategic platforms on a longer term basis
+
+
+engage with both the technology team and the business directly to capture requirements for immediate implementation
+
+
+anticipate potential constraints/issues and manage expectations
+
+
+provide accurate estimates to project manager
+
+
+liaise with vendor development teams as necessary
+
+
+work closely with qa and production support teams through full development lifecycle of deliverables into production
+
+
+where necessary, train the business on delivered functionality
+
+
+
+
+ 
+
+
+ 
+
+
+           
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+incumbent works under guidance of regional head of ge technology, emea
+
+
+day to day prioritisation also provided by other members of ge technology team
+
+
+operates with limited supervision
+
+
+
+
+ 
+
+
+ 
+
+
+key relationships
+
+
+ 
+
+
+
+
+reports to regional head, ge technology emea
+
+
+relationships with london equities desk
+
+
+relationships with other it teams and it vendors
+
+
+no direct reports     
+
+
+
+
+ 
+
+
+working conditions
+
+
+ 
+
+
+
+
+base location will be either thames court or riverbank house, london
+
+
+occasional overseas travel may be required
+
+
+trading floor environment
+
+
+
+
+ 
+
+
+education &/or experience
+
+
+ 
+
+
+required
+
+
+ 
+
+
+
+
+education to degree level
+
+
+high level of knowledge and understanding of equities trading business (cash and electronic desks, dma and algo trading)
+
+
+understanding of fix protocol
+
+
+experience of working with equities trading desk(s)
+
+
+
+
+ 
+
+
+preferred
+
+
+ 
+
+
+
+
+experience of fidessa trading platform highly desirable
+
+
+experience of ullink trading platform           
+
+
+
+
+ 
+
+
+ 
+
+
+competencies
+
+
+ 
+
+
+behavioural
+
+
+ 
+
+
+
+
+highly self motivated
+
+
+excellent analytical skills
+
+
+excellent organisational skills
+
+
+strong interpersonal skills
+
+
+collaborative
+
+
+able to quickly pick up new technologies
+
+
+
+
+ 
+
+
+technical
+
+
+ 
+
+
+
+
+excellent knowledge of scripting languages (e.g. python, tcl)
+
+
+strong database skills (sql and object development)
+
+
+strong java development skills
+
+
+good vba development skills
+
+
+
+
+ 
+
+
+*li-mm2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+rbc's partnership with the business disability forum highlights our commitment to being a disability-smart employer.
+
+
+ 
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+london
+ 
+
+
+address:
+  
+london
+ 
+
+
+work hours/week:
+  
+35
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+09/11/2015
+ 
+
+
+req id:
+  
+91642
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

@@ -1,3 +1,8 @@
+Title:Solution Architect
+Location:Stratford, Ontario, Canada
+Date Posted:2015-03-23
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7308660-solution-architect-jobs
+-------------------------------------------
 :
 conduct ongoing review of the dciw, wps and pega case management environments to establish/monitor trends and provision for growth
 provide input to infrastructure sizing to support new applications on-boarding the dciw, wps and pega case management platforms

@@ -1,3 +1,8 @@
+Title:Lead Programmer Analyst (Microsoft Technologies for Information Security)
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-04-17
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7460597-lead-programmer-analyst-(microsoft-technologies-for-information-security)-jobs
+-------------------------------------------
 :
 • participate and provide technical leadership in the development, maintenance and support of the ip360 dashboard, tripwire sih and tripwire ccm.
 • assist in the definition of user requirements.

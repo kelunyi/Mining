@@ -1,0 +1,324 @@
+Title:Sr. Java Developer - FX trading (Capital Markets) Core Java, FIX, REST, FX, Trading IT
+Location:Toronto, ON, CA
+Date Posted:2015-06-09
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Java-Developer-FX-trading-%28Capital-Markets%29-Core-Java%2C-FIX%2C-REST%2C-FX%2C-Trading-IT-ON/272587400/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+the primary   of this role is to provide java technology expertise in developing high availability, real-time distributed fx trading systems.
+
+
+ 
+
+
+the candidate will display excellent motivational, and technical ability aligned to significant experience within a high-performance software development environment. this will require knowledge of multithreaded development, messaging systems, and ability to integrate these with external systems.   strong ability to communicate well and work constructively as part of a team are essential.
+
+
+ 
+
+
+knowledge of capital markets in general and the fx market in particular is desirable but not essential.
+
+
+ 
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+contribute to the overall design and development of real-time solutions for fx trading, risk management, booking, and pricing
+
+
+work with other team members to ensure high quality software development in line with the agreed strategic approach
+
+
+perform initial integration testing of own work to ensure a complete and correct solution in addition to assisting official support and test teams in performing their functions
+
+
+identify business, technology and people risks associated with a solution
+
+
+assist with 2nd line support as necessary.
+
+
+mentor junior developers on the team
+
+
+
+
+ 
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+works under the guidance of the fx technology team management
+
+
+works closely with other team members to ensure joint ownership of a quality solution
+
+
+
+
+ 
+
+
+ 
+
+
+key relationships
+
+
+ 
+
+
+
+
+position reports to fx it management
+
+
+partner with peers from the front office, other technology teams, and support and test personnel
+
+
+
+
+ 
+
+
+ 
+
+
+working conditions
+
+
+ 
+
+
+
+
+located in downtown toronto, minimal travel required
+
+
+high pressure, fast paced and demading enviroment.
+
+
+ability to prioritize multiple priorities effectively.
+
+
+effectively function within a highly matrixed, global team (london, new york, toronto)
+
+
+flexibilty to quickly adjust to changes in a dynamic enviroment.
+
+
+
+
+ 
+
+
+ 
+
+
+education &/or experience
+
+
+ 
+
+
+required
+
+
+
+
+excellent core java
+
+
+significant experience designing, implementing and delivering multithreaded, distributed high-availability real-time software.
+
+
+experience working closely with other developers using an agile software development approach
+
+
+experience effectively applying technology best practices and processes to a high-paced organization
+
+
+qa automated testing and process
+
+
+
+
+ 
+
+
+preferred
+
+
+
+
+knowledge of the capital markets
+
+
+knowledge of front-office fx trading
+
+
+experience with reuters rmds middleware
+
+
+experience with 29west lbm & umq middleware
+
+
+
+
+ 
+
+
+technical
+
+
+
+
+significant experience developing, maintaining, and deploying high-performance, low-latency applications.
+
+
+design abilities, which will involve building designing and deploying managed and unmanaged solutions.
+
+
+multithreaded skills & use of current java open-source libraries and frameworks
+
+
+knowledge of messaging middleware systems
+
+
+
+
+ 
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington street w.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/24/2015
+ 
+
+
+req id:
+  
+91096
+
+
+posting notes:  
+n/a
+
+
+ 
+
+
+ 
+
+

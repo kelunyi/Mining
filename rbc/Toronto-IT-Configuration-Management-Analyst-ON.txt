@@ -1,9 +1,11 @@
 Title:IT Configuration Management Analyst
 Location:Toronto, ON, CA
-Date Posted:2015-06-23
-URL:https://jobs.rbc.com/job/Toronto-IT-Configuration-Management-Analyst-ON/269283500/
+Date Posted:2015-06-26
+URL:https://jobs.rbc.com/job/Toronto-IT-Configuration-Management-Analyst-ON/276315600/
+-------------------------------------------
 purpose: 
-
+
+
 provide exemplary support to rbc capital markets and wealth management businesses. trouble shoots and provides solutions for end user integration products. control source code, build software packages. to develop, improve and automate build and test processes within capital markets.
 
 
@@ -21,10 +23,6 @@ end user integration
 provide administration, maintenance, optimization, release management and technical support for end points in the production environments.
 
 
-
-
-
-
 good understanding of microsoft-defined best practices.
 
 
@@ -36,6 +34,7 @@ operating system build, configuration and engineering
 
 
 
+ 
 
 
 coding, testing & documentation
@@ -107,6 +106,9 @@ organizes and participates in walkthrough reviews of all technical specification
  
 
 
+position requirements/specifications:
+
+
 education/experience:
 
 
@@ -160,6 +162,9 @@ conflicts and issues resolution and escalation
  
 
 
+ 
+
+
 diversity and equal opportunity employment:
 
 rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
@@ -191,7 +196,7 @@ toronto
 
 address:
   
-155 wellington street.
+155 wellington street
  
 
 
@@ -245,13 +250,13 @@ no
 
 job posting end date:
   
-06/28/2015
+07/12/2015
  
 
 
 req id:
   
-90454
+92540
 
 
 posting notes:  

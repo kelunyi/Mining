@@ -1,0 +1,305 @@
+Title:Voice Network Analyst
+Location:Minneapolis, MN, US
+Date Posted:2015-06-16
+URL:https://jobs.rbc.com/job/Minneapolis-Voice-Network-Analyst-MN-55401/273922700/
+-------------------------------------------
+purpose
+: 
+
+
+this position would be responsible for managing various ipt and media technology implementations relating to rbc’s global voice services.
+
+
+this position would provide an escalated point of contact for technical networking support, primarily for the gins network operations staff. 
+
+
+all responsibilities are carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+change management
+
+
+
+
+prime interface between voice engineering teams and gins/gocc for change management.
+
+
+contribute to, and vet method of procedure documents for change projects.
+
+
+initiate change control tickets.
+
+
+follow-up on success of change activities.
+
+
+work to 100% change success with 0 unplanned downtime resulting from planned changes.
+
+
+ensure documentation is current as it relates to changes made, ie. prp docs, diagrams etc…
+
+
+
+
+ 
+
+
+troubleshooting & support
+
+
+
+
+provide support in resolving various voice infrastructure related issues.
+
+
+
+
+
+
+utilizes all available resources to perform trouble shooting e.g. documentation, contacts, etc.
+
+
+manage incidents/problems according to incident/problem management process
+
+
+identify any major operational/networking problems to the voice engineering team with possible recommendations for solution.
+
+
+coordinate incident resolution with various it support teams and external service providers, identifying, tracking and resolving issues.
+
+
+
+
+relationships, communication & customer service
+
+
+
+
+promote and foster a team environment within the department and service partners to achieve superior customer focused service delivery, realized through high client satisfaction, as demonstrated by client surveys and fewer escalations
+
+
+effectively communicate and build rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+use different tactics for resolving conflicts/issues prior to escalation.
+
+
+effectively liaise with internal and external service partners as required
+
+
+work with peer groups within t & o to bring complex issues to resolution, escalating to management when required
+
+
+establish and maintain effective relationships with clients and gain their trust and respect
+
+
+provide input into level of service provided by it support teams
+
+
+responsible for ensuring clients’ queries and concerns are responded to in a prompt, helpful and professional manner while promoting user self-sufficiency.
+
+
+
+
+ 
+
+
+ 
+
+
+incident ownership
+
+
+
+
+set follow up times for all incidents, so that recovery can be achieved within severity guidelines
+
+
+follow up with service partners when status not provided within guidelines and escalate when necessary
+
+
+provide diagnosis and problem recovery for incidents
+
+
+
+
+development
+
+
+
+
+continually enhance skills and build knowledge in all aspects of the organization, the business and information systems
+
+
+obtain any other certifications as required to meet changing business needs.
+
+
+
+
+
+
+ 
+
+
+
+
+job specifications
+
+
+ 
+
+
+required:
+
+
+
+
+ba/bs is required.
+
+
+5+ years experience in 
+ccie collaboration, 
+ccvp, 
+cisco unity connection, 
+cucm 9.1 (and above), 
+sip trunking, 
+ospf, 
+eigrp, and 
+vlans
+
+
+hands on voice infrastructure knowledge essential
+
+
+voice infrastructure and/or sip certifications an asset
+
+
+lan/wan certification an asset
+
+
+
+
+ 
+
+
+preferred:
+
+
+
+
+demonstrated knowledge of standard financial industry business best practices.
+
+
+project management skills
+
+
+itil v3 training 
+
+
+
+
+*li-ac
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+minneapolis
+ 
+
+
+address:
+  
+60 s 6th street
+ 
+
+
+work hours/week:
+  
+40+
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+regular - u.s.
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+exempt
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/15/2015
+ 
+
+
+req id:
+  
+91854
+
+
+posting notes:  
+sf:efc; sf:jb
+
+

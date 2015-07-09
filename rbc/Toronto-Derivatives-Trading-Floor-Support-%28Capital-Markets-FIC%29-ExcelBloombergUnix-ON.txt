@@ -1,0 +1,375 @@
+Title:Derivatives Trading Floor Support (Capital Markets - FIC) Excel/Bloomberg/Unix
+Location:Toronto, ON, CA
+Date Posted:2015-06-10
+URL:https://jobs.rbc.com/job/Toronto-Derivatives-Trading-Floor-Support-%28Capital-Markets-FIC%29-ExcelBloombergUnix-ON/265924200/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+the primary   of this role is to provide trading floor support for the rates derivative businesses in toronto. the candidate is expected to have a strong background in rates derivatives trading with the ability to effectively communicate with traders and other key stakeholders and rapidly diagnose and solve problems.
+
+this toronto based position requires candidates to possess excellent communication skills, as the individual will be dealing with trading groups on a frequent basis. additionally candidates should have a strong understanding of fixed income products, trade lifecycle, market data and excel (including vba). they should be able to work effectively within a regional team. equally, though they must also be capable of generating independent ideas, and show great initiative and drive.
+
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+deal with trader queries.
+
+
+managing trading floor production incidents / application outages including risk management systems, market connectivity and tradefeeds
+
+
+support and maintain p&l, pricing and risk spreadsheets
+
+
+timely and regular communication to users and technology members 
+
+
+administer, maintain and troubleshoot various platforms
+
+
+provide application training to existing and new users.
+
+
+manage application start-up / shutdown during system maintenance windows and bcp tests.
+
+
+
+
+ 
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+direct, significant impact on support for business users
+
+
+could participate in all areas of application support as directed in a complex and demanding environment
+
+
+impact on supportability of applications delivered by in-house development teams & vendors
+
+
+
+
+ 
+
+
+ 
+
+
+key relationships
+
+
+ 
+
+
+
+
+reports to regional derivatives client support head
+
+
+front, middle and back office business users responsible for fixed income derivatives
+
+
+interacts with peers from the various it applications and infrastructure groups, to trouble shoot and fix any issues that arise during the day
+
+
+liaise with fo quant/development teams
+
+
+liaise with off-shore teams   
+
+
+
+
+ 
+
+
+ 
+
+
+working conditions
+
+
+ 
+
+
+
+
+trading floor environment
+
+
+early morning support
+
+
+the main hours are from 6:30am through to the close of trading (normally 17:30) monday to friday. covered by 2 shifts. work outside these hours is expected on a “as needed” basis.
+
+
+weekend work is required on infrequent “as needs” basis for major system enhancements/bcp test.
+
+
+
+
+ 
+
+
+ 
+
+
+education &/or experience
+
+
+ 
+
+
+
+
+previous experience in working in front office investment banking it
+
+
+trading floor experience                                       
+
+
+strong fixed income derivative knowledge
+
+
+good problem solving and problem management skill
+
+
+excel vba
+
+
+bloomberg
+
+
+reuters
+
+
+ion mmi
+
+
+proven experience of working in a trade floor environment dealing with system outages using clear incident management skills and processes.
+
+
+
+
+ 
+
+
+           
+
+
+competencies
+
+
+ 
+
+
+
+
+maintains a “client first” mentality.
+
+
+can work under pressure and trading floor hours
+
+
+proven aptitude for business problem solving under pressure
+
+
+motivation to achieve
+
+
+able to coordinate multiple work streams simultaneously
+
+
+ability to prioritize tasks based on criticality
+
+
+excellent communication skills
+
+
+excellent interpersonal skills
+
+
+strong research, investigation and evaluation skills
+
+
+able to deal directly with diverse array of contacts including business users, infrastructure and desktop support team, development teams, etc.
+
+
+communicates clearly and precisely to the business without jargon and to it without emotion and effectively managing expectations of both at all times
+
+
+excellent working knowledge of fixed income products with particular focus on pricing, p&l and risk.
+
+
+
+
+ 
+
+
+technical:
+
+
+
+
+microsoft office including strong proficiency in excel incl vba.  experience of excel add-ins (e.g. bloomberg blp, reuters rtget, ion).
+
+
+good working knowledge of industry standard etrading (e.g. bloomberg toms, bloomberg, tradeweb).
+
+
+
+
+
+
+good knowledge of unix / linux and windows.
+
+
+
+
+
+
+broad knowledge of it, with ability to adapt and pick up new technologies as required such as sql, perl scripting etc.
+
+
+
+
+
+
+good understanding of geneos or other monitoring tools.
+
+
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+200 bay street
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+trading floor
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+05/28/2015
+ 
+
+
+req id:
+  
+89371
+
+
+posting notes:  
+n/a
+
+
+ 
+
+
+ 
+
+

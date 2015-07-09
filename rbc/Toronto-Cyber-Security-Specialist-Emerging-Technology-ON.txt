@@ -1,0 +1,418 @@
+Title:Cyber Security Specialist – Emerging Technology
+Location:Toronto, ON, CA
+Date Posted:2015-06-25
+URL:https://jobs.rbc.com/job/Toronto-Cyber-Security-Specialist-Emerging-Technology-ON/256980900/
+-------------------------------------------
+purpose:
+
+
+it risk and security – information security provides it security consulting for global security services that are business aligned and enablers to the delivery of secure solutions. this position provides leadership and execution in the area of it security for security services leveraged by the global rbc business and infrastructure team across all enterprise security services.
+
+
+ 
+
+
+the position provides security and technical competence in the area of cyber security - emerging technologies designed to provide protection for global rbc business, application and infrastructure teams across the enterprise. provides security expertise and depth of skills in the domains of cyber security and emerging technologies to combat complex threats.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+cyber security direction and consulting 
+
+
+
+
+mature and optimize the advanced and emerging security technology capabilities i.e. advanced endpoint security
+
+
+provide leadership, guidance and oversight to drive cyber security maturity improvements across the organization, in line with the changing threat landscape, regulatory and compliance requirements etc
+
+
+provide subject matter expertise, technical deliverables oversight of strategic cyber projects and initiatives to enhance and improve cyber threat intelligence capabilities and maturity
+
+
+conduct regular key control assessments for technologies and services implemented (note: this could be a big undertaking which will likely require the appropriate staffing to execute effectively)
+
+
+measure the effectiveness of the advanced cyber security & emerging technologies / controls capabilities to ensure appropriate plans are in place to address lower performance and ineffective practices
+
+
+partner with information security operations to provide leadership and support in the areas of threat analysis, cyber defense techniques and approaches
+
+
+support the delivery of the 3 year cyber security roadmap to maintain and optimize the advanced cyber security & emerging technologies / controls capability.
+
+
+provide depth of expertise, skills, source of knowledge on current & emerging cyber issues, attack methods, threat response and mitigation techniques
+
+
+act as a point of escalation for security investigations and incidents to provide guidance and oversight on incident resolution and containment techniques
+
+
+interface into business units to bring business context to cyber security threat management practices, security controls and threat reporting etc, as needed
+
+
+provide security consulting to various areas in the bank on cyber security topics as needed
+
+
+further develop and enhance relationships with other lines of business to form a cohesive, cross functional cyber security and threat management approach to protecting bank assets.
+
+
+lead the enhancement and optimization of implemented reporting mechanisms to demonstrate the value of the advanced cyber security & emerging technologies / controls function with tangible benefits
+
+
+maintain and optimize information / cyber security policies and standards that will drive a baseline security posture with incremental improvements over time.
+
+
+identifies technical and business opportunities to take advantage of cross project knowledge, best practices and reusability to expedite projects.
+
+
+
+
+project planning & execution
+
+
+
+
+provides direction and guidance for requirements gathering and scope definition for the projects
+
+
+provide leadership and direction to the project team, including 3rd party suppliers, contingent workers and internal staff.
+
+
+provides recommendation for best solutions based on understanding of business requirement, needs and challenges
+
+
+identifies resources and skills required
+
+
+anticipates operational and some tactical risks and works with the project team to mitigate
+
+
+raises and tracks issues and conflicts, removes barriers, resolves minor   project issues and escalates to immediate manager where required
+
+
+manages issues and problem resolution when required
+
+
+seeks clarity in business requirements or escalates as appropriate
+
+
+promotes innovative or improved methods to get the work done and implements best practices
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+leads complex group meetings (including business partners) for technical design, decision making, problem solving, implementation and strategic planning.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+provides superior client experience and strengthens relationships with business partners
+
+
+collaborates with colleagues across the organization to get things done
+
+
+manages project communications including status reports to executives, stakeholders, business units, vendors, project team etc.
+
+
+provides senior management with timely updates on project issues
+
+
+may utilize single vendor/3rd party (consultants, offshoring, outsourcing) of known capacity and manages the relationship at the project level
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+provides guidance, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+as part of bau, further develop high performance cyber security teams that are highly skilled and possess depth of experience across the various cyber security domains.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+how time will be allocated (percent)
+
+
+security solutions & services  – 70%
+
+
+security consultation – 10%
+
+
+security planning and design – 10%
+
+
+policies, standards, control objectives  – 10%
+
+
+ 
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+professional with experience on large projects/programs with multiple applications with multiple interfaces and/or 3rd parties 
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+applicability of different testing tools
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools
+
+
+
+
+
+
+communication skills
+
+
+
+
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+business knowledge
+
+
+
+
+business line(s)’ business strategy, needs and technology
+
+
+desktop and email security
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+design and deployment of enterprise security technologies and solutions e.g. firewalls, ids/ips, siem, malware detection & analytics, vulnerability scanning etc
+
+
+
+
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+
+
+ 
+
+
+people management knowledge
+
+
+
+
+rbc hr philosophy, principles, direction, policies & guidelines
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+
+
+key organization relationships
+
+
+ 
+
+
+
+
+reports to:  director, cyber threat intelligence & strategy
+
+
+
+
+ 
+
+
+
+
+technology partners:  gti, t&o developers, application and infrastructure teams
+
+
+
+
+ 
+
+
+
+
+business partners: all rbc business, infrastructure and application areas, 3rd parties
+
+
+
+
+ 
+
+
+*li - fh1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/27/2015
+ 
+
+
+req id:
+  
+86697
+
+
+posting notes:  
+none
+
+

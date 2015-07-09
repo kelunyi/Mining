@@ -1,0 +1,181 @@
+Title:Senior Data Engineer
+Location:Jersey City, NJ, US
+Date Posted:2015-06-11
+URL:https://jobs.rbc.com/job/Jersey-City-Senior-Data-Engineer-NJ-07097/266983200/
+-------------------------------------------
+purpose: 
+
+
+rbc has employees from a wide range of backgrounds. some of us come from hedge funds, some of us come from investment banks, and some of us have no financial services background whatsoever. we think that this diversity helps us develop better software, by drawing on the experience of our team across disciplines. the   of this role is to contribute to the design and development of the strategic core finance platform. the platform provides solutions related to finance and product control. we are actively seeking software developers to help build, extend, and maintain this platform.
+
+
+ 
+
+
+the core layer is devised of code-level apis, restful end-points, web components, and database technologies. the system is currently undergoing a significant amount of change that will allow it to scale up to the needs of the largest tier-1 financial institution.
+
+
+ 
+
+
+the candidate will manage the complete life cycle including development. he or she will be hands-on with disruptive technologies and will support all aspects of the technology solution. the candidate will have strong technical skills; previous financial industry experience is not required.
+
+
+ 
+
+
+primary responsibilities
+
+
+
+
+design and implement various application components within the team
+
+
+validate overall application design and make sure that applicable technologies are being used
+
+
+establish ‘best practices’ within a development team to make them more productive and efficient and mentor team members
+
+
+develop software with proper unit, integration and regression tests
+
+
+ensures adequate technical documentation and training
+
+
+develops detailed plans and accurate estimates
+
+
+works closely with qa team to ensure high quality of the product
+
+
+
+
+ 
+
+
+leadership and strategic thinking
+
+
+
+
+you love writing good code and having technical discussions
+
+
+you are self-motivating and can self-prioritize
+
+
+you can design and implement solutions that can be reused in other projects
+
+
+you familiar with distributed systems development particularly using restful approaches
+
+
+you ensure your solutions are stable and generic and reuse core components
+
+
+you actively contribute new ideas and different perspectives to solutions
+
+
+you want to work in a versatile team that is not overly process driven
+
+	 
+
+
+
+
+job specifications:
+
+
+ 
+
+
+required skills:
+
+
+
+
+oracle 11g experience is required.
+
+
+full stack software engineer.
+
+
+5+ years of experience in object oriented languages (java, c++).
+
+
+5+ years of experience in database  (oracle, sql server).
+
+
+large data volume processing experience is required.
+
+
+big data or data warehousing patterns.
+
+
+strong understanding why things like source control, overnight builds, and proper releases are important to the development process.
+
+
+
+
+ 
+
+
+preferred skills:
+
+
+
+
+web development experience (nice to have)
+
+
+hadoop and vertica experience is a plus.
+
+
+python scripting experience is a plus.
+
+
+financial experience is a plus.
+
+
+
+
+ 
+
+
+*li-ac
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+diversity 
+and equal opportunity 
+employment
+:
+
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors
+. 
+
+
+ 
+
+
+about rbc: 
+
+interested in finding out more? click 
+here
+. 
+
+
+ 
+
+

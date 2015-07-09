@@ -1,0 +1,201 @@
+Title:Technical Systems Analyst
+Location:Toronto, ON, CA
+Date Posted:2015-06-06
+URL:https://jobs.rbc.com/job/Toronto-Technical-Systems-Analyst-ON/251937700/
+-------------------------------------------
+key accountabilities:
+
+
+ 
+
+
+*** this is an application & system support focused role not a 
+d
+evelopment/
+h
+elpdesk role ***
+
+
+ 
+
+
+application and system support
+
+
+- ensures that the main portal applications is available and operational through monitoring, trouble-shooting and status reporting of scheduled jobs
+
+
+- performs production and non-production systems support
+
+
+- participates in walkthrough reviews of all technical specifications, programs and unit test plans
+
+
+- coordinates implementation planning and execution. 
+
+
+- performs disaster recovery for supported applications
+
+
+- performs performance tuning 
+
+
+- provides on-call support of applications
+
+
+- prepares distribution lists and om documentation
+
+
+- completes technical documentation and training material
+
+
+- co-ordinates testing of joint project plans, evaluating vendors and 3rd party software based upon set criteria
+
+
+- continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems
+
+
+ 
+
+
+knowledge / experience:
+
+
+process knowledge
+
+
+- different testing tools (e.g. mercury, visual studio)
+
+
+- excellent communication skills
+
+
+- proficient facilitation skills
+
+
+- risk assessment & quantification methodologies
+
+
+- conflicts and issues resolution and escalation
+
+
+ 
+
+
+business knowledge
+
+
+- business line(s)’ business applications/ processes. performance measurements, var, securities lending, experience and knowledge in the financial industry
+
+
+ 
+
+
+systems knowledge
+
+
+- different programming languages required knowledge on sql server 2000/2005, transact-sql, .net visual studio, iis 6.0, asp.net, vb.net, dll (windows dynamic link library), java 
+
+
+- database knowledge (sql 2005), oracle 
+
+
+- knowledge of mq, web logic, .net framework 2.0-3.5 and associated technologies
+
+
+- multiple platforms e.g. mvs, internet, client/server, host systems, unix
+
+
+- it standards, methodologies, cmm & audit requirements
+
+
+- middleware technologies (ex. mqseries message broker, web sphere, wxf, xml, .net)
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+your home office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+03/28/2015
+ 
+
+
+req id:
+  
+84857
+
+
+posting notes:  
+none
+
+

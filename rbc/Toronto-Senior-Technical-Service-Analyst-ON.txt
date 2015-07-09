@@ -1,11 +1,12 @@
 Title:Senior Technical Service Analyst
 Location:Toronto, ON, CA
-Date Posted:2015-06-23
-URL:https://jobs.rbc.com/job/Toronto-Senior-Technical-Service-Analyst-ON/275387000/
+Date Posted:2015-06-17
+URL:https://jobs.rbc.com/job/Toronto-Senior-Technical-Service-Analyst-ON/274221800/
+-------------------------------------------
 purpose:
 
 
-working within the global distribution services team, the incumbent will carry out support activities required to facilitate software testing services to application teams within rbc.
+working within the global distribution services team, the incumbent will carry out support activities required to provide software distribution services to windows based assets for business units within rbc.
 
 
  
@@ -25,16 +26,22 @@ software distribution support
 
 
 
-design software deployment plans (provisioning documents) for infrastructure, application and security patch releases and all related activities.
+create software distribution entries into the manual software deployment system
 
 
-support lab testing of new releases.
+provide technical guidance to the lines of business for compliance activities
 
 
-proactively follow up on the testing of software releases, identify problems and facilitate remediation.
+participate in the  sccm 2012 migration  activities
 
 
-work thought service partners to resolve issues impacting pre-prod software testing.
+assist with the design and implementation of the software library
+
+
+proactively follow up on software install problems and facilitate remediation.
+
+
+work thought service partners to resolve all issues impacting software installation.
 
 
 resolve assigned incidents within establishes slas
@@ -43,13 +50,16 @@ resolve assigned incidents within establishes slas
 identify chronic problems, design and implement a remediation plan.
 
 
-identify opportunities for automation and improving software testing success.
+be cognizant of all current release statuses and problems.
+
+
+participate in rm bi-weekly meetings to discuss issues related to distribution of sfr’s or any questions that the rm’s may have
+
+
+identify opportunities for automation and improving software distribution
 
 
 contribute to development activities designed to improve software distribution.
-
-
-facilitate act testing
 
 
 document prps and workarounds.
@@ -70,13 +80,7 @@ develop proposals for senior management.
 contribute to successful project completion by identifying risks and developing/recommending mitigation strategies.
 
 
-participate in walkthrough reviews of all technical specifications, programs and unit test plans.
-
-
 ensure operational procedures are documented.
-
-
-preparation of change records as required.
 
 
 open incident tickets for any and all issues related to missing or incorrect requirements needed to deliver on responsibilities. 
@@ -92,13 +96,13 @@ relationships & communication
 
 
 
-effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+effectively communicates and builds rapport with team members, stakeholders and interface with groups using a variety of techniques and collaboration from initiation to close.
 
 
 facilitates small to large group meetings to resolve software distribution issues.
 
 
-prepares and delivers presentations to business and technology partners and senior management, selecting the appropriate approach based on the audience. 
+prepares and delivers presentations to business, technology partners and senior management, selecting the appropriate approach based on the audience. 
 
 
 resolves conflicts/issues and escalates others as appropriate.
@@ -114,13 +118,16 @@ development & coaching
 
 
 
-may act as project leader
+may act as project leader/back up team leader
 
 
-continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.  ongoing sharing of expertise, tips and tricks, knowledge and experience gained through complex packaging activities, enterprise support and all other troubleshooting activities.
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems. 
 
 
-an active resource to assist junior team members with packaging questions and concerns.   
+ongoing sharing of expertise, tips and tricks, knowledge and experience gained through complex packaging activities, software deployments, enterprise support and all other troubleshooting activities.
+
+
+an active resource to assist junior team members with distribution questions and concerns.
 
 
 
@@ -128,10 +135,10 @@ an active resource to assist junior team members with packaging questions and co
  
 
 
-position requirements/specifications:
+position requirements/specificiations:
 
 
-education/experience
+education/experience 
 
 
 
@@ -139,35 +146,7 @@ education/experience
 technical undergraduate degree or equivalent experience
 
 
-
-
- 
-
-
-systems knowledge
-
-
-
-
-in depth knowledge of windows computing technologies.
-
-
-in depth knowledge of software distribution technologies.
-
-
-working knowledge of sql.
-
-
-working knowledge of networking technologies.
-
-
-working knowledge of development languages and methodologies
-
-
-working knowledge of middleware technologies. (ex. mqseries/websphere, wxf, xml, .net)
-
-
-in depth knowledge of sccm / sms distributions
+sccm2007-2012\sms operations experience
 
 
 
@@ -203,10 +182,33 @@ conflicts and issues resolution and escalation
  
 
 
-how time will be allocated:
+systems knowledge
 
 
-80% production support
+
+
+in depth knowledge of windows computing technologies.
+
+
+in depth knowledge of software distribution technologies (sms, sccm2007, sccm2012)
+
+
+in depth knowledge of sql.
+
+
+in depth knowledge of networking technologies.
+
+
+
+
+ 
+
+
+how time will be allocated
+:
+
+
+80% production operations
 
 
 20% identifying chronic issues and implementing remediation plans
@@ -252,7 +254,7 @@ toronto
 
 address:
   
-315 front st west
+315 front street
  
 
 
@@ -306,13 +308,13 @@ no
 
 job posting end date:
   
-07/12/2015
+07/05/2015
  
 
 
 req id:
   
-92279
+91996
 
 
 posting notes:  

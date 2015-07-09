@@ -1,3 +1,8 @@
+Title:Senior System Support Specialist
+Location:Toronto, Ontario, Canada
+Date Posted:2015-05-28
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7670493-senior-system-support-specialist-jobs
+-------------------------------------------
 :
 you will support mission critical windows, citrix, linux, tomcat, infrastructure and related applications that require immediate resolutions. 
 you recommend and design procedures to prevent unplanned system outages. 

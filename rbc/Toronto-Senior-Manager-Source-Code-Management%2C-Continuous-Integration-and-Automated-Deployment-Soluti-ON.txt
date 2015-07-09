@@ -1,0 +1,413 @@
+Title:Senior Manager - Source Code Management, Continuous Integration and Automated Deployment Soluti
+Location:Toronto, ON, CA
+Date Posted:2015-06-10
+URL:https://jobs.rbc.com/job/Toronto-Senior-Manager-Source-Code-Management%2C-Continuous-Integration-and-Automated-Deployment-Soluti-ON/272821900/
+-------------------------------------------
+purpose
+
+
+provide technical and thought leadership to drive a large transformational initiative which changes and optimizes the delivery of solutions across the enterprise via the source code management, continuous integration and automated deployment coe (scm, ci&ad) supporting a combination of agile/ traditional/ hybrid methodology across rbc. this position also has overall accountability and is responsible for developing the coe and being seen as the experts and trusted advisors in this domain. 
+
+
+ 
+
+
+primary responsibilities
+
+
+drive the continuous delivery methodology strategy
+
+
+
+
+provide thought leadership and direction, and champion the adoption of tooling and their processes to enable devops methodology across the organization. 
+
+
+be seen as the trusted leader in source code management, (scm) , continous integration (ci) and automated deployment (ad) technologies.
+
+
+continue to develop the source code management, continuous integration and deployment coe by creating the vision, mandate, training and communication strategy
+
+
+research, implement, and support the enterprise with tools and processes to support source code policies, and to enable continuous integration, builds and deployments
+
+
+provide technical leadership in the adoption and management of source code tools, build & integration and automation deployment tools.
+
+
+develop, coach and mentor a team of skilled internal consultants, actively pursue and build networks, partnerships with internal, external stakeholders to increase awareness of devops and to help identify projects, programs and businesses that would benefit from using devops
+
+
+solve complex business and technology problems partnering with leaders across t&o and bring devops and sdlc knowledge to provide ‘best-fit’ solutions
+
+
+ensure the team understands its role as champions and monitor its effectiveness, and make adjustments as necessary.
+
+
+define the communications, engagement strategy, engagement plan, communications, and engagement evaluation material.
+
+
+ensure that program and project management processes are utilized to streamline and enhance effectiveness and minimize risk to the organization
+
+
+oversee and report regularly to t&o oc to build support for the scm & ci & ad  coe strategy and to ensure the team’s capabilities are leveraged across the entire t&o organization
+
+
+work with executives and senior management to ensure that resources are engaged in a timely manner to support key programs and projects in t&o
+
+
+
+
+ 
+
+
+strategy and communication
+
+
+
+
+develop and maintain strong relationships with business executives, senior management and other internal and external partners.
+
+
+leverage external & internal communication expertise to create visibility and awareness for devops across t&o
+
+
+create a clear strategy for moving the devops from current state to aspirational future state 
+
+
+
+
+ 
+
+
+group effectiveness
+
+
+
+
+facilitate the integration of process improvement solutions within change efforts
+
+
+assist in developing/refining governance processes ensuring consistency
+
+
+identify and document best practices, savings opportunities or process improvements
+
+
+responsible to actively identify opportunities for service/productivity improvements
+
+
+
+
+·       
+
+
+relationships & communication
+
+
+
+
+provide superior client experience and strengthen relationship with business partners.
+
+
+liaise between vendors, executives, bu, t&o and supporting groups.
+
+
+manage program communications including status reports to all stakeholders.
+
+
+selects external vendors and third parties as necessary and manage the relationships
+
+
+
+
+managerial excellence
+
+
+
+
+set direction and vision for the team.
+
+
+manage performance, reward and recognition
+
+
+coach and mentor team members
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+establish succession plan for key positions, including own.
+
+
+select and build a high performing diverse team that leverages individual capabilities and strengths.
+
+
+promote a mindset for sustained success, growth and diversity.
+
+
+spearhead and guide people through change.
+
+
+
+
+ 
+
+
+ 
+
+
+how time will be allocated (percent):
+
+
+ 
+
+
+ 
+
+
+
+
+40
+% - driving
+ 
+devops engagement / pipleine across the enterprise
+
+
+
+
+ 
+
+
+
+
+2
+5
+% - coaching and advising team members 
+
+
+
+
+ 
+
+
+
+
+25
+ % - communication and adoption of devops
+
+
+
+
+ 
+
+
+
+
+5% - process improvement initiatives
+
+
+
+
+ 
+
+
+
+
+5% - managerial excellence
+
+
+
+
+ 
+
+
+·        experience
+
+
+·        7+ years in senior development roles
+
+
+
+
+thorough understanding, knowledge of source code management tools and practices,
+
+
+superior understanding and experience with automated build, integration and deployment tools and processes
+
+
+
+
+
+
+proven ability to build and develop high performing teams
+
+
+account management, exposure to innovation and creating strategic plans
+
+
+ability to apply devops and best practices to a diverse range of projects and readiness
+
+
+strong communication skills
+
+
+strong analytical skills, problem solving skills
+
+
+strong teamwork orientation
+
+
+strong organizational skills with the ability to meet deadlines and manage several activities simultaneously
+
+
+effective at working with senior managers and executives
+
+
+demonstrated leadership ability
+
+
+strong organizational, planning and personable skills.
+
+
+proficient in ms office tool suite
+
+
+
+
+  
+   
+
+
+education
+
+
+
+
+undergraduate degree or equivalent experience
+
+
+
+
+·
+
+
+technical & systems knowledge:
+
+
+
+
+ endevor, harvest, rtc, aldon, svn and tfs
+
+
+jenkins, maven, nexus, rtc, rally
+
+
+
+
+
+
+solid understanding of devops principals
+
+
+sdlc knowledge
+
+
+strong writing and communication skills (e)
+
+
+strong stakeholder management skills
+
+
+solid skills in managing issues, changes and problems (e)
+
+
+issues escalation and resolution (e)
+
+
+cost/benefit analysis & alternatives identification (p)
+
+
+budgeting, project costs management  (p)
+
+
+
+
+ 
+
+
+key organizational relationships
+
+
+
+
+position reports to director, solution delivery services
+
+
+business and technology partners
+	
+
+
+rbc business platforms
+
+
+t&o executive
+
+
+rbc epmo
+
+
+program/project leaders across t&o
+
+
+
+
+
+
+
+
+ 
+
+
+diversity:
+
+
+diversity in the workplace, one of our shared values, lies at the heart of our rewarding, open, supportive and inclusive work environment. we respect and respond to the many competing and evolving priorities in our lives so you can focus on what you can do best – put clients first. 
+
+
+ 
+
+
+eoe/m/f/d/v
+
+
+ 
+
+
+about rbc: 
+
+interested in finding out more? click 
+here
+. 
+
+
+ 
+
+

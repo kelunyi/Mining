@@ -1,0 +1,99 @@
+Title:Business Architect
+Location:Toronto, Ontario, Canada
+Date Posted:2015-06-23
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7837049-business-architect-jobs
+-------------------------------------------
+:
+•
+ 
+compile and maintenance of the conception/elaboration/use case documentation.
+•
+ 
+develop high quality deliverables across all project phases (scope through uat support).
+•
+ 
+participates in directly capture objectives (dco) activity, including modeling of ui, process flows and business rules
+•
+ 
+ensures delivered work product meet/perform to functional requirements by serving as a testing resource in both unit and user acceptance testing phases.
+•
+ 
+have a basic understanding of the prpc methodology and the main features of prpc; their features and limitations.
+•
+ 
+complete work in time / effort budget.  provide proactive updates to engagement leader if timelines or effort estimates are in jeopardy.  
+•
+ 
+provides regular updates to program manager on project progress and outstanding issues.
+•
+ 
+focused on customer success (realization of business benefit)
+•
+ 
+keep current on rapidly changing technological trends, self-teach new technologies and maintain an understanding of the division’s business and technology strategies.
+qualifications:
+•
+ 
+understands and applies procedures, regulations, and policies related to areas of specialized expertise.
+•
+ 
+has business knowledge in one of the following domains; financial services (retail or wholesale banking), insurance, credit, or crm.  
+•
+ 
+creative and flexible in identifying technical solutions to resolve business problems in a rapidly changing, demanding and complex business environment. 
+•
+ 
+excellent interpersonal and relationship building skills in order to deliver proposals, provide user support and interact with team members and other departments. 
+•
+ 
+ability to quickly and independently develop an advanced knowledge of the prpc architecture and all prpc design and implementation features. 
+•
+ 
+flexible and adaptable, the individual will be open to learning new methodologies, tools, platforms and systems.
+•
+ 
+role requires individuals to be open minded, able to make sound decisions without having all the facts
+•
+ 
+highly analytical, the individual is able to quickly understand how various elements relate to one another, having an end to end perspective of decisions and anticipating issues/roadblocks 
+•
+ 
+ability to meet and manage tight and changing deadlines and priorities
+•
+ 
+expert communication, negotiation and influencing skills in order to drive dialogue with business partners in order to understand their underlying needs and requirements while managing their expectations given the limitations of the framework
+•
+ 
+solid customer focus skills to discern underlying client needs and foresee opportunities to enhance level of service and increase solutions' scalability 
+•
+ 
+strong team focus with a genuine interest in working collaboratively with others, mentoring  peers and being open to giving and receiving constructive feedback
+education and accreditations:
+•
+ 
+a ba/bs degree or equivalent work experience
+•
+ 
+minimum of 2- 3 years practical experience in analysis, requirement gathering, design and development
+•
+ 
+good understanding of business systems analysis and development.
+•
+ 
+experience in j2ee (jsp, servlets, ejb, xml, java) and/or .net, oracle and/or db2 and ms/sql are assets
+•
+ 
+experience in websphere or weblogic application server are a plus
+•
+ 
+strong oo experience 
+•
+ 
+experience working with pega is an asset
+ 
+other information:
+ 
+job posting code: agile
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

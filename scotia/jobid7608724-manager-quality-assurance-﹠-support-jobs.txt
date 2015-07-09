@@ -1,3 +1,8 @@
+Title:Manager Quality Assurance & Support
+Location:Toronto, Ontario, Canada
+Date Posted:2015-05-15
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7608724-manager-quality-assurance-﹠-support-jobs
+-------------------------------------------
 :
 1. manage the uat process by analyzing user requirements, participate in design sessions, preparing uat strategies, plans and completion reports.  preparing, documenting and executing detailed uat functions/cases and ensuring anticipated results are achieved.  raise and manage defects, working with business users, project team and developers to ensure that defects are investigated, resolved and retested prior to implementation. 
 2. manage the coordination of day to day testing efforts for assigned application systems and project testing efforts with other testing personnel, end users, technical support and development areas. 

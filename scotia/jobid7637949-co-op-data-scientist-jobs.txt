@@ -1,3 +1,8 @@
+Title:CO OP Data Scientist
+Location:Toronto, Ontario, Canada
+Date Posted:2015-05-19
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7637949-co-op-data-scientist-jobs
+-------------------------------------------
 :
 the co-op student within decision sciences will, under the direction of a senior manager, perform a variety of functions:
 • network construction, data transformations and application of network analytics to complex business issues, involving relationships among both entities and individuals, to better understand transaction effects and interactions and allow for better business decisions

@@ -1,0 +1,318 @@
+Title:FX Trading  Development Team Lead (Capital Markets Technology) Core Java / RESTful / FIX
+Location:Toronto, ON, CA
+Date Posted:2015-06-25
+URL:https://jobs.rbc.com/job/Toronto-FX-Distribution-Development-Team-Lead-ON/224083300/
+-------------------------------------------
+purpose
+
+
+the primary   of this role is to provide senior level technology and team management expertise in developing high availability real-time distributed fx trading systems.
+
+
+ 
+
+
+the candidate will display excellent technical, organizational, and motivational ability aligned to sustained experience within a high-performance technology environment.  this will require knowledge of distributed multithreaded development, messaging systems and ability to integrate these with external systems.  strong knowledge of the fx market is essential.
+
+
+ 
+
+
+the candidate will manage at least one project as post of the distribution stream of work, they will be the “go to” person for the business sponsor, ensure timely and accurate communication of any risks or issues and ensure the project stays within the overall strategic plan of the programme.
+
+
+ 
+
+
+the candidate will work effectively as part of a global team to design and implement real-time solutions.
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+manager members of the e-commerce development team to deliver solutions to the business
+
+
+manage at lease one project with the distribution (whistler, fx cash rfq ecommerce) stream of work
+
+
+ensure that tactical and strategic solutions dovetail.
+
+
+contribute to the overall design and development of the real-time solutions for fx pricing, trading and risk management.
+
+
+work closely with business sponsors to understand their requirements and architect, design, and execute technical solutions.
+
+
+provide guidance and mentoring for new team members as necessary.
+
+
+identify business, technology and people risks associated with a solution.
+
+
+assist with 2nd line support as necessary
+
+
+
+
+ 
+
+
+key relationships
+
+
+ 
+
+
+
+
+position reports to fx it management
+
+
+functional management of local / global development teams
+
+
+partner with peers from the front office, other technology teams, and support and test personnel
+
+
+
+
+authorities, impact, risk
+
+
+
+
+advises on key design and implementation decisions within fx pricing, trading and risk technology
+
+
+supports and mentors more junior team members
+
+
+
+
+competencies
+
+
+behavioural
+
+
+
+
+ability to meet client needs without sacrificing deadlines and quality
+
+
+ability to break problems into well-defined and manageable tasks
+
+
+ability to work effectively within global team
+
+
+good written and communication skills
+
+
+ability to liaise with traders, middle office, and it
+
+
+highly motivated and takes initiative
+
+
+ability to cope with changing priorities
+
+
+takes accountability for own work
+
+
+aligns immediate needs with long-term strategies
+
+
+abides by the rbccm code of conduct
+
+
+
+
+technical
+
+
+
+
+significant experience developing, maintaining, and deploying high-performance, low-latency applications.
+
+
+design abilities, which will involve building designing and deploying managed and unmanaged solutions.
+
+
+multithreaded skills & use of current java open-source libraries and frameworks
+
+
+knowledge of messaging middleware systems
+
+
+
+
+education &/or experience
+
+
+required
+
+
+
+
+experience running more than one project simultaneously
+
+
+significant industrial experience dedicated to fx front office technology (pricing, risk, liquidity aggregation, high frequency trading, ecommerce, etc).
+
+
+significant experience designing, implementing and delivering multithreaded, distributed high-availability real-time software.
+
+
+experience working closely with other developers using an agile software development approach
+
+
+experience effectively applying technology best practices and processes to a high-paced capital markets organization
+
+
+qa automated testing and process
+
+
+
+
+preferred
+
+
+
+
+knowledge of the capital markets
+
+
+knowledge of front-office fx trading
+
+
+experience with solace systems middleware
+
+
+experience with sybase databases and/or oracle coherence
+
+
+
+
+working conditions
+
+
+
+
+located in downtown toronto, minimal travel required
+
+
+high pressure, fast paced and demading enviroment.
+
+
+ability to prioritize multiple priorities effectively.
+
+
+effectively function within a highly matrixed, global team (london, new york, toronto)
+
+
+flexibilty to quickly adjust to changes in a dynamic enviroment.
+
+
+
+
+ 
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+12/31/2014
+ 
+
+
+req id:
+  
+68994
+
+
+posting notes:  
+sf:wk
+
+
+ 
+
+
+ 
+
+

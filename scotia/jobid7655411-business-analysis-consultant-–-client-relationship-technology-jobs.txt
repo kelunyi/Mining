@@ -1,0 +1,34 @@
+Title:Business Analysis Consultant – Client Relationship Technology
+Location:Toronto, Ontario, Canada
+Date Posted:2015-05-25
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7655411-business-analysis-consultant-–-client-relationship-technology-jobs
+-------------------------------------------
+:
+you will research, analyze and gather requirements for complex projects to support the client relationship team and supported wealth management business units.
+you provide subject matter expertise for system infrastructure process flow methodology to produce data requirements (attributes, sources, mapping, etc.) based on consuming system and business unit needs.
+you create and maintain data standards and data definitions for a consolidated transaction repository, including field-level data definitions, mapping rules, validations, workflows and recommended golden sources for data. 
+you identify and resolve data issues, through the interaction with operations, business users and data providers, with the goal of improving process and data quality
+you develop and enhance the internal controls, monitoring, procedures and reports related to the end-to-end data management operational process.  define and capture metrics to measure the effectiveness of data quality and assurance.
+you define test strategies, test plans and test cases for the consolidated transaction repository implementation and establish operational qa methods to ensure the highest quality data.
+you work with technology to define and customize tools and reports to support quality activities. 
+you are able to develop interim deliverables required by business until a final production solution is created. 
+you continually acquire and enhance the knowledge of business strategies.
+you effectively plan, secure and schedule resources for business requirements and processes. 
+you participate in application design walkthroughs and provide guidance to the development team.
+you write business case proposals; develop test strategies and test cases, develop detailed project plans, and monitor progress against planned objectives.
+you provide documentation and training to the users by defining business procedures and workflows. 
+you participate in the design and implementation of system enhancements.
+you must be comfortable and capable of dealing with the demanding needs of the front, middle and back office users. 
+you will communicate effectively with internal clients and external vendors.
+you may be required to travel.
+ 
+functional requirements:
+five years of technical business analysis experience with information technology projects. 
+five years of experience in market valuation methods, risk management methodologies and models. strong understanding of risk management practices, systems development techniques, real-time analytical and formal modelling tools. 
+advance technology experience with j2ee, unix, xml, and version control tools.
+ 
+education:
+a recognized post-graduate degree in business, computer science, mathematics or a related discipline.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

@@ -1,0 +1,634 @@
+Title:Intermediate Technical Systems Analyst – Rewards & Loyalty
+Location:Toronto, ON, CA
+Date Posted:2015-06-17
+URL:https://jobs.rbc.com/job/Toronto-Intermediate-Technical-Systems-Analyst-Rewards-&-Loyalty-ON/274263400/
+-------------------------------------------
+purpose:
+
+
+ 
+
+
+partners across it and with assigned business line(s) to assess, research, and analyze business, technical and system needs in order to resolve business systems issues by recommending technology solutions that meet sponsor/stakeholder needs. 
+
+
+ 
+
+
+context
+ is small to medium development or maintenance projects (multiple functions, single application at one time). emphasis is split between testing, technical analysis and design. this specific role will support the 
+rewards & loyalty
+ team on mid-tier, online and mobile delivery projects related to the rbc rewards loyalty program.
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+technical analysis, design & specification
+
+
+
+
+using different techniques and tools (top-down, oo, rational rose), designs technical solutions that meet business requirements and plc deliverables including component reusability, data sharing and security.
+
+
+coordinates design phases for small to medium projects/programs, identifying, tracking and resolving technical issues.
+
+
+prepares detailed technical specifications in accordance with all project office objectives for plc and documentation.
+
+
+organizes and participates in walkthrough reviews of technical specifications, programs and unit test plans.
+
+
+
+
+ 
+
+
+coding, testing & documentation
+
+
+
+
+design, code, unit & assembly test for functions of low to medium complexity.
+
+
+writes unit test plans and provides coordination and support of testing
+
+
+completes technical documentation and training material.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+provides estimates on activities/tasks required to perform design, coding and unit testing, improving accuracy over time.
+
+
+performs performance tuning to improve performance of single function.
+
+
+low level planning of work packages meeting project objectives within budget and on time.
+
+
+provides third-level support of applications, database etc.
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+facilitates small to medium size group meetings for technical design, problem solving and task implementation.
+
+
+prepares and delivers presentations to technology partners.
+
+
+resolves minor conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of junior technical development staff.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+position requirements:
+
+
+ 
+
+
+education/experience
+
+
+
+
+professional with experience on applications with single functions
+
+
+
+
+
+
+preference will be given to candidates with experience in 
+card based payments
+ solutions, including point-of-sale (pos) and merchant acquiring-side capabilities.
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+different testing tools (e.g. nunit, mercury, devpartner, fxcop) (d)
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools (e.g. visio, freemind) (p)
+
+
+communication skills (d)
+
+
+facilitation skills (d)
+
+
+presentation skills (d)
+
+
+risk assessment & quantification methodologies (d)
+
+
+conflicts and issues resolution and escalation (d)
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+business line(s)’ business applications/ processes. (d)
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+different programming languages (e.g. html5, css, mobile sdks, mobiex, mobiliser, java, jee, jsp, ibm portal,  c#, c++, c, html/javascript, vb.net, cobol, jcl) (p)
+
+
+multiple platforms e.g. mainframe, internet, client/server, cloud and ability to select appropriate one to meet business needs (d)
+
+
+it standards, methodologies, cmm & audit requirements (p)
+
+
+configuration management practices (d)
+
+
+middleware technologies: (ex. mqseries, websphere, http, wxf, xml) (d)
+
+
+
+
+ 
+
+
+role-specific skills:
+
+
+
+
+cloud services and integration
+
+
+web services – soap, rest, json
+
+
+java, javascript, html, css
+
+
+responsive and adaptive web design
+
+
+native mobile application development – ios, android, cross platform (cordova, phonegap)
+
+
+security e.g. oauth standards
+
+
+data modeling and architecture
+
+
+agile development experience
+
+
+analysis skills
+
+
+process design
+
+
+ux design
+
+
+api management tools, experience with ibm’s bluemix garage is an asset
+
+
+
+
+ 
+
+
+behavioural competencies:
+
+
+ 
+
+
+
+
+achievement motivation (3)
+
+
+breakthrough thinking (1)
+
+
+business acumen (2)
+
+
+customer insight (2)
+
+
+dealing with ambiguity (2)
+
+
+strategic influencing (2)
+
+
+teamwork & cooperation (3)
+
+
+analytical thinking (3)
+
+
+
+
+ 
+
+
+ 
+
+
+relationships:
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+reports to:
+
+
+
+
+
+
+ 
+
+
+development manager/ sr. tsa
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+business partners
+
+
+
+
+
+
+• digital strategy
+
+
+• insurance
+
+
+• direct investing
+
+
+• dominion securities
+
+
+• contact centre
+
+
+• business unit
+
+
+• it project and group managers
+
+
+• enterprise architects, solution architects and/or lead architects
+
+
+• vendor project managers and teams
+
+
+
+
+
+
+
+
+
+
+technical partners
+
+
+
+
+
+
+• application development/maintenance teams
+
+
+• business systems analysis teams
+
+
+• qa team
+
+
+• test facility teams
+
+
+• wccoe team
+
+
+• infrastructure
+
+
+• microsoft technology and middleware group
+
+
+• information security
+
+
+• infrastructure and deployment
+
+
+• qa and configuration management team
+
+
+• production implementation and support team
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+working conditions:
+
+
+ 
+
+
+
+
+standard office environment
+
+
+potential for periodic stress related to people management and project challenges and deadlines
+
+
+minimal travel
+
+
+
+
+ 
+
+
+time allocation:
+
+
+ 
+
+
+30%
+ - code development/maintenance
+
+
+25%
+ - qa support
+
+
+20%
+ - documentation review & walkthrough
+
+
+15%
+ - design
+
+
+10%
+ - maintenance/production support
+
+
+ 
+
+
+authorities, impact, & risk:
+
+
+ 
+
+
+
+
+decision authority: low & mid-level design
+
+
+scope, complexity & risk: small to medium
+
+
+sizing: small to medium
+
+
+impact: low to medium
+
+
+
+
+ 
+
+
+ 
+
+
+*li-kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/03/2015
+ 
+
+
+req id:
+  
+92034
+
+
+posting notes:  
+sf:efc; sf:jb
+
+
+ 
+
+
+ 
+
+

@@ -1,3 +1,8 @@
+Title:Senior Information Security Advisor (Threat\Risk Assessments)
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-05-19
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7631678-senior-information-security-advisor-(threat_risk-assessments)-jobs
+-------------------------------------------
 :
 1.  participate in initiatives and projects driven by various business lines. guide project and delivery managers to design and establish sound information security practices, ensuring that key artifacts such as security design documents, threat/risk assessments and data classifications are in place and that risk is effectively managed.
 2.  where required by risk, lead due diligence reviews over third party outsourcing partners to ensure that their security posture aligns with the bank and industry best practice. work with the relationship owner and the 3rd party to create and track an action plan for remediation of issues.

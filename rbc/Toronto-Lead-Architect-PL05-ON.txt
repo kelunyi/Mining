@@ -1,0 +1,409 @@
+Title:Lead Architect
+Location:Toronto, ON, CA
+Date Posted:2015-06-05
+URL:https://jobs.rbc.com/job/Toronto-Lead-Architect-PL05-ON/265878800/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+the 
+lead architect
+ is a pivotal role within the enterprise architecture (ea) community of practice.  each application development executive has an assigned 
+lead architect
+ to cover their respective area of responsibility.  the 
+lead architect
+ acts as the ‘portfolio steward’ for t&o technology strategic work-stream initiatives.
+
+
+ 
+
+
+the 
+lead architect
+ plays a critical role in leading key aspects of the transformation and ongoing operation for their assigned area.  this role includes creating, operationalizing a design authority in the transformation office to lead and oversee across the 12 t&o strategic work-stream initiatives current to future-state architectures as well as development of comprehensive roadmaps to ensure project investments are moving rbc in the direction of the articulated future-state.
+
+
+ 
+
+
+the vision for the enterprise architecture community of practice is to be ‘viewed as an indispensable partner in maturing rbc's implemented business and technology capability in order to most efficiently and effectively enable the business vision and strategy’.  the 
+lead architect
+ is a linchpin role under the ea operating model and is instrumental in positioning the organization to deliver on its value proposition.
+
+
+ 
+
+
+key aspects of the ea value proposition include:
+
+
+ 
+
+
+
+
+accelerating rbc’s maturity in critical business capabilities
+
+
+enabling strategic imperatives by providing actionable architecture direction for the maturation of critical business and technology capabilities and solutions
+
+
+achieving a rationalized portfolio of effective and efficient business and technology solutions that cost effectively enable the business, e.g., through:
+	
+
+
+leverage of shared services
+
+
+reducing redundancy
+
+
+simplification
+
+
+
+
+
+
+appropriately balancing the benefits of enterprise consistent shared services with the need for strategically critical flexibility at the line of business and regional level
+
+
+
+
+enabling agility and adaptability to shifts in business and technology strategy
+
+
+primary responsibilities
+
+
+
+
+in partnership with the lead solutions architect, act as the ‘portfolio steward’ for their assigned area of responsibility.
+	
+
+
+develop, socialize, and maintain current and future-state architectures, rationalizing the portfolio of it assets deployed within their lob, and ensuring alignment with the lob business strategy.
+
+
+develop roadmaps to ensure it investments are aligned with the future-state architectures.
+
+
+ensure that new projects / programs meet enterprise architectural and technology standards.
+
+
+work with application custodians to assess, document, maintain, and review technology health check and architectural concerns.
+
+
+review and approve deployment of new app codes and their retirement.
+
+
+maintain an accurate representation of the overall portfolio in iipm.
+
+
+
+
+
+
+work collaboratively with other lead architects, enterprise architecture, and solutions architecture to:
+	
+
+
+ensure that the value delivered is aligned to maximize synergies and enterprise leverage (e.g., through integration and standardization), while optimizing the efficient use of ea and other resources (e.g., such as engineering, application development, business, and consulting resources).
+
+
+identify synergies and reusable business services and components.
+
+
+participate in peer reviews and share skills, knowledge, and practices.
+
+
+
+
+
+
+provide domain expertise to their area of responsibility.
+
+
+participate in, and enforce, the enterprise governance frameworks.
+
+
+
+
+identify opportunities for cost savings and more efficient operations. contribute to nie savings by improvements to development processes, introduction of effective tooling/practices, elimination of redundant systems/procedures, etc.
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+management and allocation of annual budget.
+
+
+management of additional architecture resources depending on workload
+
+
+execution of all ea governance processes associated with their assigned portfolio.
+
+
+
+
+cross-organizational and multiple business line impact.
+
+
+ 
+
+
+job specifications
+
+
+ 
+
+
+required:
+
+
+
+
+undergraduate degree in business, computer science, or engineering or equivalent experience
+
+
+15+ years of experience managing large complex teams of distributed resources (direct and indirect reports).
+
+
+advanced to expert knowledge, experience, and understanding of architecture, applications systems design, and integration. 
+
+
+advanced to expert knowledge of the applicable business area.
+
+
+proven effective leadership to drive and facilitate transformation in a large and complex global organization.  includes ability to influence decision making and facilitate teams with multiple stakeholders at all levels in the organization as well as knowledge of change management discipline and best practices.
+
+
+solid experience operating in a complex information technology and management process environment.
+
+
+capability to establish and maintain effective partnerships and relationships with global architecture areas, application development, t&o management, rbc business groups, global technology infrastructure, and others.
+
+
+ability to discuss information technology in business terms.
+
+
+ability to manage multiple priorities and aggressive deliverables and take a leadership role in moving initiatives forward and removing obstacles.
+
+
+excellent written and verbal communication as well as executive presentation skills.
+
+
+strong analytical, consultative, and team communication/facilitative skills.
+
+
+
+
+ 
+
+
+preferred:
+
+
+masters degree in business, computer science, or engineering preferred
+
+
+ 
+
+
+key relationships 
+
+
+ 
+
+
+
+
+reports to the vp of the transformation
+
+
+number of direct reports varies according to project workload.
+
+
+interaction with rbc executives including the technology and operations (t&o) leadership team, t&o strategic work-stream leads, application development (ad), global technology infrastructure (gti), and line of business and regional application development leadership teams as well as many other vp level associates.
+
+
+partner with key capability areas e.g., lead architects, business architects, solutions architects
+
+
+partner with key related capability areas e.g., finance, program, and project portfolio management, etc.
+
+
+
+
+ 
+
+
+managerial excellence
+
+
+ 
+
+
+
+
+ensure that employees understand rbc vision, as well as support and reinforce targeted behaviours that contribute to rbc goals.
+
+
+provide focus and clarity in establishing individual goals, driving performance management, supporting career development and rewarding strong performance.
+
+
+leverage the value in unit, department, and enterprise wide teams to develop better solutions and achieve a cross enterprise mindset.
+
+
+accept and successfully execute change while supporting employees through the process, and keeping them focused on business priorities.
+
+
+
+
+ 
+
+
+time allocation
+
+
+ 
+
+
+
+
+develop and maintain architecture strategy aligned to the business (40%)
+
+
+provide architectural direction to application groups (30%)
+
+
+ensure adherence to enterprise architecture and participate in peer reviews (20%)
+
+
+portfolio management (10%)
+
+
+
+
+ 
+
+
+*li-kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+senior manager/director
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/30/2015
+ 
+
+
+req id:
+  
+89351
+
+
+posting notes:  
+sf:efc; sf:jb
+
+
+ 
+
+
+ 
+
+

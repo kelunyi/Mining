@@ -1,0 +1,472 @@
+Title:Sr. Business Systems Analyst
+Location:Toronto, ON, CA
+Date Posted:2015-06-25
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Business-Systems-Analyst-PL08-ON/276021300/
+-------------------------------------------
+purpose:
+
+
+ 
+
+
+engage it and business stakeholders to help plan, elicit, analyze, document, manage and communicate system requirements that meet business needs.
+
+
+ 
+
+
+context: 
+works on large development projects for the retail investments application (multiple functions, one application with multiple interfaces and/or 3
+rd
+ parties).
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+business analysis, documentation & consulting
+
+
+
+
+lead detailed system requirements phases and identify, track, and resolve business systems issues
+
+
+assess, research, analyze, and document stakeholder needs, selecting the appropriate information gathering and/or modelling technique to elicit requirements
+
+
+recommend business solutions that satisfy stakeholder needs, while continuously exploring and assessing options for value-add for clients
+
+
+ensure successful completion of project objectives with high quality, within budget, and on time by identifying risks, dependencies, assumptions and constraints, and develop and recommend mitigation strategies
+
+
+support development, qa and uat activities
+
+
+review test plans, scenarios, cases as needed
+
+
+identify, track, and resolve business systems issues
+
+
+support post implementation verification (piv) as needed
+
+
+together with project manager, determine best mix of development,  interfacing applications, and third party vendor solutions to meet business requirements and project objectives
+
+
+provide consulting services to business partners on new initiatives
+
+
+build and maintain a repository of reusable system documentation
+
+
+
+
+ 
+
+
+planning & testing
+
+
+
+
+develop detailed plans and accurate estimates for completion of system requirements and acceptance phases of projects, continuously improving the level of detail and accuracy of estimates
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+effectively communicate, collaborate, and build rapport with team members, stakeholders, and business unit partners using a variety of techniques
+
+
+plan and facilitate small- to large sized project meetings and conduct information gathering sessions
+
+
+prepare and deliver presentations to business unit partners and senior management, selecting the appropriate approach based on the audience
+
+
+resolve large complexity conflicts  and issues of medium complexity, appropriately escalate as needed
+
+
+participate in evaluation of 3
+rd
+ – party vendors and software
+
+
+manage some aspects of day-to-day operations with 3
+rd
+ – party vendors
+
+
+identify and manage risks, dependencies, assumptions and constraints for requirements, and communicate to appropriate parties
+
+
+
+
+ 
+
+
+ 
+
+
+development, mentoring & coaching
+
+
+
+
+continually enhance skills and build knowledge in all aspects of the organization, the business, and information technology
+
+
+provide expertise, training, direction, feedback, and coaching to build the capability of more junior staff
+
+
+
+
+ 
+
+
+position requirements:
+
+
+ 
+
+
+education/experience 
+
+
+
+
+10+ years professional bsa experience in a project-based environment
+
+
+university degree or equivalent
+
+
+fluent in technology and strong knowledge of software development methodologies/techniques
+
+
+retail investments background an asset
+
+
+cbap certification preferred
+
+
+
+
+ 
+
+
+technical skills
+
+
+
+
+understanding of various software development methodologies e.g., iterative, waterfall, agile etc. (p)
+
+
+requirements analysis and documentation e.g., use case modeling, reverse engineering, prototyping etc. (p)
+
+
+requirements management e.g., scope and change management, traceability, configuration management etc. (p)
+
+
+knowledge of requirements documentation and modeling tools (p)
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+various requirements methods and methodologies  (e)
+
+
+cost/benefit analysis & alternatives identification (p)
+
+
+communication skills (e)
+
+
+facilitation skills (p)
+
+
+presentation skills (e)
+
+
+risk assessment  (p)
+
+
+conflict and issue resolution (p)
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+business unit’s applications & processes (p)
+
+
+factors affecting business (p)
+
+
+bu specific strategies & critical success factors (p)
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+relevant technology (p)
+
+
+it standards & methodologies (p)
+
+
+talent management process (recruitment/selection, coaching, mentoring) (d)
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+b = 
+basic
+
+
+
+
+
+
+d 
+= developing
+
+
+
+
+
+
+p
+ = proficient
+
+
+
+
+
+
+e
+ = expert
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+relationships:
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+reports to:
+
+
+
+
+
+
+bsa manager
+
+
+
+
+
+
+
+
+
+
+partners:
+
+
+
+
+
+
+business representatives and project team, bsa team members, application development/maintenance teams
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+*li-kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/17/2015
+ 
+
+
+req id:
+  
+92554
+
+
+posting notes:  
+sf:efc; sf:jb
+
+
+ 
+
+
+ 
+
+

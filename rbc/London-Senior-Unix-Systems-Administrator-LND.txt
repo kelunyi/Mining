@@ -1,0 +1,483 @@
+Title:Senior Unix Systems Administrator
+Location:London, LND, GB
+Date Posted:2015-06-04
+URL:https://jobs.rbc.com/job/London-Senior-Unix-Systems-Administrator-LND/271578100/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+an enthusiastic, technically strong self-starter, working as a system administrator in the operations team to provide the highest level of support of linux and solaris technologies.  required to be dynamic, whilst exercising control and operational discipline, with a positive approach to learning and developing the technical environment, as well as themselves.
+
+
+ 
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+build, deploy, and maintain technology infrastructure, providing operational support & stability by following and using the tools, policies, processes and procedures where available. 
+
+
+provide a secure environment, managing and mitigating risks:
+	
+
+
+audit controls & processes – implementing and enforcing process to meet audit controls such as access review.
+
+
+regularly review and attest that controls are up to date and effective.
+
+
+patch management & technical security compliance – establishing maintenance cycles and ensuring compliance to rbc requirements.
+
+
+anticipate and quantify tactical, operational and strategic risks, applying risk-based approach to forecasting.
+
+
+
+
+
+
+monitor& manage capacity, performance, health and availability of host machines and infrastructure services.
+
+
+provide detailed reporting, kpis and metrics, analysing for trends, driving actions and enhancement/efficiency plans.
+
+
+taking the lead & initiative in plant management and root cause analysis, directing team members as appropriate.
+
+
+identify & manage risks & issues within unix and infrastructure services
+
+
+exemplary and disciplined service management following agreed process & procedures, such as, but not limited to:
+	
+
+
+resolve incidents impacting hosts or environment, and following up on root cause via problem management, liaising with additional internal/external groups when required, resulting in satisfactory resolution.
+
+
+create, review, maintain and update documentation.  document & publish fixes in central knowledge base, regularly re-evaluating processes and procedures.
+
+
+responsibility for the planning and controlled execution of releases into the managed environment, following change control procedures.
+
+
+ensuring customer satisfaction in service response and problem resolution.
+
+
+
+
+
+
+proactive management and enhancement of infrastructure and infrastructure services, such as, but not limited to:
+	
+
+
+work with global colleagues to provide globally consistent processes and procedures.
+
+
+integrate and interact with regional & global colleagues, providing innovative ideas.  evaluate, discuss, listen to and re-think ideas to move forwards in a productive manner.   active participation within and amongst teams and colleagues, providing constructive feedback when necessary.
+
+
+identify areas for automation and scripting wherever possible.
+
+
+
+
+
+
+help to identify opportunities for service/process improvement, synergies across the business and across infrastructure teams, and instigating & executing on initiatives.
+
+
+attendance of vendor related events and workshops, with active participation, seeking out industry trends, feeding them back into the firm and division.
+
+
+input, delivery and execution of project related work, taking ownership and providing technical expertise as appropriate.
+
+
+input into business continuity planning & practices, improving year on year.
+
+
+planning, presenting and executing on existing and future project plans for unix.
+
+
+•     provide out-of-hours support escalation.  
+
+
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+
+
+the position supports other infrastructure and application support teams in providing them with services.
+
+
+
+
+ 
+
+
+ 
+
+
+key relationships
+
+
+ 
+
+
+
+
+this position will report into the global unix server manager, and keep them appraised of any faults\risks within the environment related to the supported platforms.
+
+
+positive working relationships with application support teams and consumers of the platform we provide must also be maintained as part of the service we provide them
+
+
+close interaction with local and global technical infrastructure teams
+
+
+partnership with service management teams
+
+
+
+
+ 
+
+
+           
+
+
+working conditions
+
+
+ 
+
+
+
+
+this position will include some physical requirements related to installations of servers.
+
+
+other aspects of the role will primarily be desk based fault finding and reporting
+
+
+dynamic environment.
+
+
+can be stressful when dealing with outages.
+
+
+attention to detail is critical.
+
+
+shift & on-call rota
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+education &/or experience
+
+
+ 
+
+
+required
+
+
+ 
+
+
+
+
+automation techniques
+
+
+knowledge of server hardware components and experience of troubleshooting hardware related issues.
+
+
+advanced knowledge of server operating systems
+
+
+good understanding of virtualisation environments
+
+
+understanding of network infrastructure
+
+
+vendor relationship building
+
+
+
+
+ 
+
+
+ 
+
+
+           
+
+
+competencies
+
+
+ 
+
+
+
+
+procedure driven focus, attention to detail and diligent manner.
+
+
+
+
+
+
+effective communication skills written and verbal, liaising with colleagues and management regularly
+
+
+flexibility and team player
+
+
+self driven and self-motivated
+
+
+ability to learn quickly
+
+
+ability to multi-task and manage workload with focus on effective and efficient delivery.
+
+
+adaptable to an ever changing workload.
+
+
+enthusiastic, dynamic, hungry to learn new things.
+
+
+inquisitive
+
+
+
+
+ 
+
+
+ 
+
+
+technical requirements
+
+
+
+
+detailed knowledge and expertise of aix/linux and solaris infrastructure, load balancing, clustering, network & host security, and relevant protocols (smtp, http, ssl, dns, nfs)
+
+
+expertise with volume management and file systems
+
+
+detailed knowledge of storage connectivity platforms (for example, veritas)
+
+
+understanding of virtualisation technologies, for example - esx, hyperv, vsphere
+
+
+hardware configuration and modification (ibm)
+
+
+multiple platform familiarity, e.g., grid, internet, client/server
+
+
+exposure and support of storage environments (netapp/emc)
+
+
+scripting knowledge ( perl)
+
+
+reporting services
+
+
+
+
+ 
+
+
+ 
+
+
+frameworks
+
+
+
+
+understanding of itil and/or mof
+
+
+
+
+ 
+
+
+ 
+
+
+skills desired (not essential)
+
+
+
+
+project management
+
+
+san knowledge
+
+
+
+
+ 
+
+
+*li-mm2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+rbc's partnership with the business disability forum highlights our commitment to being a disability-smart employer.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+london
+ 
+
+
+address:
+  
+london
+ 
+
+
+work hours/week:
+  
+35
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+09/02/2015
+ 
+
+
+req id:
+  
+91080
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

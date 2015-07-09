@@ -6,6 +6,7 @@ from mining_source import Source
 from bs4 import BeautifulSoup
 import requests
 import mysql.connector
+from classification import classify
 
 
 __author__ = 'Shengnuo'
@@ -16,7 +17,7 @@ class RBC(Source):
 
     def __init__(self):
         self.url = "https://jobs.rbc.com/go/Technology-Jobs/586000/"
-        self.__conn = mysql.connector.connect(user='root', password = 'genghiskhan', host = 'localhost', database='job_database')
+        self.__conn = mysql.connector.connect(user='ke_developer', password = 'KEsolutions123', host = '23.229.208.192', database='KE_PRODUCT')
 
     def mine_to_file(self):
         #db_cursor = self.__conn.cursor()
@@ -60,13 +61,13 @@ class RBC(Source):
                     f.close()
                 f = open(desc_path, 'w')
 
-                f.write("Title:" + title + "\n")
-                f.write("Location:" + location + "\n")
-                f.write("Date Posted:" + date + "\n")
-                f.write("URL:" + job_url + "\n")
+                f.write(("Title:" + title + "\n").encode('utf-8'))
+                f.write(("Location:" + location + "\n").encode('utf-8'))
+                f.write(("Date Posted:" + date + "\n").encode('utf-8'))
+                f.write(("URL:" + job_url + "\n").encode('utf-8'))
                 f.write("-------------------------------------------\n")
                 try:
-                    f.write(desc)
+                    f.write(desc.encode('utf-8'))
                 except IndexError:
                     print desc_path
                 f.close()
@@ -107,10 +108,11 @@ class RBC(Source):
         Date_Posted DATE ,
         Location VARCHAR (45),
         URL VARCHAR (200),
-        Description VARCHAR (10000))""")
+        Description TEXT,
+        Difficulty ENUM('Co-op/internship','Entry','Experienced','Manager'),
+        Active TINYINT(1) DEFAULT '1')""")
 
-        db_cursor.execute("SELECT * FROM job_table")
-        delete_dic = {item[4]:item[4] for item in db_cursor.fetchall() if item[1] == "RBC"}
+        db_cursor.execute("update job_table SET Active = '0' WHERE Company = 'RBC'")
 
         while 1:
             current_url = str(self.url + `current_num` + "/?q=&sortColumn=referencedate&sortDirection=desc")
@@ -127,20 +129,14 @@ class RBC(Source):
                 date = datetime.datetime.strptime(raw_date,"%b %d, %Y").strftime("%Y-%m-%d")
                 job_url = urljoin(self.url,job.find("td",{"class":"colTitle"}).find("a",{"class":"jobTitle-link"}).get("href"))
                 desc = self.get_desc(job_url)
-                if job_url in delete_dic:
-                    del delete_dic[job_url]
+                difficulty = str(classify(desc))
+                db_cursor.execute("""INSERT INTO job_table (Title, Company, Date_Posted, Location, URL, Description, Difficulty, Active)
+                VALUES (%s, %s, %s, %s, %s, %s, %s, %s) ON DUPLICATE KEY UPDATE
+                  Date_Posted=%s, Location=%s, Description=%s, Active = %s, Difficulty = %s""",
+                                  (title, "RBC", date, location,  job_url, desc, difficulty, '1', date, location, desc, '1',difficulty ))
 
-
-                try:
-                    db_cursor.execute("INSERT INTO job_table VALUES (%s, %s, %s, %s, %s, %s)", (title, "RBC", date, location,  job_url, desc))
-                except mysql.connector.errors.IntegrityError:
-                    db_cursor.execute("UPDATE job_table SET Title=%s, Company=%s, Date_Posted=%s, Location=%s, Description=%s WHERE URL=%s", (title, "RBC",  date, location, desc, job_url))
-                except mysql.connector.errors.DataError: pass
             current_num += 25
 
-
-        for f in delete_dic:
-            db_cursor.execute("DELETE FROM job_table WHERE URL = '%s'", f)
         self.__conn.commit()
         db_cursor.close()
 

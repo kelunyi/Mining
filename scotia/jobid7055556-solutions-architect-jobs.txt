@@ -1,0 +1,114 @@
+Title:Solutions Architect
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-03-03
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7055556-solutions-architect-jobs
+-------------------------------------------
+:
+•
+ 
+own and continuously build development toolkit that will help the organization develop cutting-edge web applications that perform superbly across all platforms and browsers using cutting edge technologies through all architecture layers. 
+•
+ 
+work in a highly collaborative environment with cross-functional teams on projects ranging from a few weeks to a few months in length. 
+•
+ 
+clearly and concisely communicate highly technical challenges and solutions to client and non-technical team members.
+•
+ 
+strong understanding of the principles of software design, architecture, algorithms and data structures
+•
+ 
+good understanding of how to write clean code
+•
+ 
+maintain high standard of quality as you creatively and strategically problem solve throughout the product delivery process. 
+•
+ 
+be able to effectively communicate your work with both technical and non-technical peers 
+•
+ 
+be excited about new web technologies/techniques 
+•
+ 
+leading techniques and methodologies around responsive design and development
+•
+ 
+build solid back-end architectures that integrate easily with other systems and technologies 
+•
+ 
+understand design patterns and write reusable, modular code 
+•
+ 
+work closely with other solutions architects in (ux, design, qa) 
+•
+ 
+have a superior attention to detail and a strong ability in q/a including cross-browser and cross-platform displays and performance 
+•
+ 
+build applications out the restful web services in a stateless manner
+bonus points:
+•
+ 
+comfortable with version control, clearcase, git 
+•
+ 
+ability to work independently, with minimal supervision and guidance 
+•
+ 
+understand w3c accessibility standards
+•
+ 
+experience working in an agile environment 
+•
+ 
+background in user experience and/or design 
+•
+ 
+involvement in open source projects 
+qualifications:
+technical:
+•
+ 
+10+ years’ experience developing rich applications with html/css/js toolkits, jquery ui, bootstrap, font awsome
+•
+ 
+ability to write high-performance, reusable code for ui components
+•
+ 
+comfortable with object oriented javascript frameworks (prototype js, mootools, dojo, etc.)
+•
+ 
+experience with client side mvc vs. server side mvc (jsf, angular, backbone etc.)
+leadership:
+•
+ 
+ability to influence at the senior management level
+•
+ 
+ability to manage and develop team of professionals
+•
+ 
+ability to create bridge between application development and business to deliver results
+•
+ 
+change leadership - able to lead major organization change programs
+•
+ 
+results - project champion, able to lead mobile technology projects and programs
+•
+ 
+innovative - ability to see how existing and future technologies can be applied to help drive business objectives
+nice to have skills:
+•
+ 
+agile development
+•
+ 
+unit testing
+education and accreditations:
+bachelor’s degree in computer science, engineering or related area is required, or equivalent work experience.
+other information:
+scotiabank is looking for a passionate problem-solver to join our team as a senior solution architect. a successful candidate loves web development and is able to get the job done as well as keep up with the latest trends. the candidate should have great communication skills and the ability to introduce and champion fresh ideas. if you are looking for a highly creative, continuously evolving and team-based work environment – one where you get to solve challenging problems, collaborate with talented colleagues, and make a difference – we would love to hear from you.
+scotiabank is an equal opportunity employer and welcomes applications from all interested parties. we thank you for your interest, however, only those candidates selected for an interview will be contacted. no agencies please.
+
+

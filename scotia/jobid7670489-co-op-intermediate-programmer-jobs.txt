@@ -1,3 +1,8 @@
+Title:CO OP Intermediate Programmer
+Location:Toronto, Ontario, Canada
+Date Posted:2015-05-28
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7670489-co-op-intermediate-programmer-jobs
+-------------------------------------------
  for this role include:
 as part of a team, your key role and responsibility is to be able to program utilizing current methodologies, including object orientated programming techniques utilizing various programming languages and platforms.
 you will be responsible for creating complex business requirements documentation, and be able to translate those requirements into code. you will be responsible for building application from scratch as well as assist with the support and management of existing applications and services.

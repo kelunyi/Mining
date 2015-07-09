@@ -1,3 +1,8 @@
+Title:CO OP Investment Risk Analyst
+Location:Toronto, Ontario, Canada
+Date Posted:2015-06-16
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7803400-co-op-investment-risk-analyst-jobs
+-------------------------------------------
 
 • develop and maintain risk database in ms sql server, ensure current and accurate system documentation
 • assist in delivery of interactive risk solutions by leveraging business intelligence software

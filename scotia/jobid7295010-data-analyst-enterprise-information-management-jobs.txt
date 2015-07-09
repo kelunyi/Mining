@@ -1,3 +1,8 @@
+Title:Data Analyst Enterprise Information Management
+Location:Toronto, Ontario, Canada
+Date Posted:2015-03-20
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7295010-data-analyst-enterprise-information-management-jobs
+-------------------------------------------
 :
 1. create, update and maintain business source to target mapping for complex projects that requires technical knowledge.
 2. communicate transformation rules effectively to the development and the quality assurance team

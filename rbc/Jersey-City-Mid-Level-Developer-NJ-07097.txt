@@ -2,6 +2,7 @@ Title:Developer
 Location:Jersey City, NJ, US
 Date Posted:2015-06-18
 URL:https://jobs.rbc.com/job/Jersey-City-Mid-Level-Developer-NJ-07097/262285500/
+-------------------------------------------
 purpose:
   the   of this role is to develop and support in-house customization for our fixed income securities platform (mortgage backed securities). this encompasses functions within front office, risk management, finance accounting, and operations. the role will interact with front office traders, risk managers, senior developers, qa and business analysts to provide technical solutions. this person will be responsible to successfully develop technology solutions that meet sponsor/stakeholder requirements while demonstrating high levels of quality and productivity. the core functionality to be supported will be around font office, risk, finance and operations user community.
 

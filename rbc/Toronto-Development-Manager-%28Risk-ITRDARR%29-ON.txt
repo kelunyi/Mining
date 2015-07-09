@@ -1,0 +1,408 @@
+Title:Development Manager (Risk IT/RDARR)
+Location:Toronto, ON, CA
+Date Posted:2015-06-27
+URL:https://jobs.rbc.com/job/Toronto-Development-Manager-%28Risk-ITRDARR%29-ON/270285800/
+-------------------------------------------
+purpose:
+ 
+
+
+lead and manage all aspects of development from conception to implementation of the core new systems in rdarr program – data transparency layer and rdarr portal applications through hands on development as well as leading and guiding of development team. 
+
+
+partners with it and business stakeholders to ensure high quality design and delivery of  strategic applications in rdarr program that balance the agility, flexibility,  strategic reuse and timelines and cost of projects.
+
+
+primary responsibilities
+
+
+
+
+build and lead development team
+
+
+architect, design,  build and operationalize data ingestion for  data transparency layer and rdarr portal applications for rdarr program
+
+
+provide architecture and design leadership for the systems
+
+
+establish agile and sdlc processes as well as development best practices following enterprise policies, tools and processes
+
+
+hands on development and provide leadership and expert guidance to development teams and project resources.
+
+
+setting a development agenda that aggressively delivers value to our business sponsors.
+
+
+work closely with requirements, business stakeholders, program/project resources to break large problems into well-defined and manageable tasks
+
+
+ensure that sound development practices are followed, requirements and timelines are met, and quality software is released with high quality and up to date documentation.
+
+
+participate in the prioritization of technical initiatives and releases.
+
+
+manage vendor engagements with development partners and application providers.
+
+
+work closely with application support, infrastructure and other teams to ensure all aspects of application robustness and resiliency including system management, availability, security,  back and recovery and dr
+
+
+manage client and project needs and expectations and provide highlevel of customer service in daily client interactions.
+
+
+provide continuous feedback and coaching through formal and informal methods, provide people management of team members
+
+
+ensure that employees understand rbc vision, as well as support and reinforce targeted behaviours that contribute to the rbc goals.
+
+
+provide focus and clarity in establishing individual goals, driving performance management, supporting career development and rewarding strong performance.
+
+
+
+
+ 
+
+
+capabilities and skills required
+
+
+technical
+
+
+
+
+required: demonstrated leadership ability of a technology team.
+
+
+required: minimum ten years practical experience with large enterprise application development and support.
+
+
+required: extensive, hands-on experience with java or .net. familiarity with other programming languages desirable.
+
+
+expert knowledge of software design principles and architecture patterns,  including algorithms, data structures, computational complexity, multi-threading,  performance and scalability,  secure design,  data centric design etc.
+
+
+detailed knowledge of application and service design, portal development, continuous integration, test driven design, etl,  data integration and bi portals.
+
+
+required: minimum of five years of experience with the following technologies:
+
+
+
+
+unix/linux,  shell
+
+
+java,  j2ee,  html5, sql, rest , tomcat and java server technologies
+
+
+ms sql server and/ or sybase, oracle, mysql
+
+
+
+
+
+
+preferred: experience with the following technologies:
+
+
+
+
+spring, robot framework, 
+
+
+jpa and or hibernate
+
+
+tomcat and or jboss
+
+
+autosys and or tidal
+
+
+windows .net,  hadoop platform and tooling
+
+
+infrastructure and capacity planning
+
+
+
+
+
+
+preferred: experience working with and managing 3
+rd
+ party vendors.
+
+
+
+
+education
+
+
+
+
+required: university degree, preferably graduate in computer science, finance, mathematics or physical sciences.
+
+
+preferred: completion of certification such as the canadian securities course or similar experience.
+
+
+strong business analysis and project management skills.
+
+
+
+
+systems knowledge
+
+
+
+
+knowledge of it standards, methodologies, project life cycle and audit requirements.
+
+
+expert knowledge in agile development and other software development processes and tools
+
+
+experience in business analysis, in particular business workflow, functional specification, use case documentation.
+
+
+
+
+business knowledge
+
+
+
+
+trends in the industry / technology market place.
+
+
+preferred: minimum of five years of experience in the capital markets and core banking businesses
+
+
+preferred: good understanding of market, credit, and/or liquidity risk management, and related  risk metrics such as var and stress scenarios.
+
+
+experience with front-to-back data flows and market data.
+
+
+
+
+authorities, impact, risk
+
+
+
+
+manage system delivery for medium complexity systems
+
+
+acts within authorized authorities and limits and aligns approach with pmf
+
+
+accountable for strategic delivery of new rdarr technical capabilities
+
+
+organizational significance:  interact with multiple systems teams across enterprise
+
+
+time to market: critical (tight compliance timeline driven)
+
+
+business risk:  low
+
+
+resource management: directs
+
+
+vendor/ 3
+rd
+ party involvement: multiple it teams
+
+
+technology complexity: moderately complex
+
+
+
+
+key relationships
+
+
+reports to rdarr lead architect
+
+
+business partners
+
+
+
+
+rdarr program authoritative sources, data quality, reconciliation streams   business stakeholders
+
+
+rdarr architecture and program management teams
+
+
+data sourcing, data quality, reconciliation in risk areas
+
+
+
+
+ 
+
+
+technical partners:
+
+
+
+
+all risk data systems in credit risk, liquidity risk, market risk, operational risk and other data provisioning and consolidation systems across enterprise
+
+
+eim hadoop team
+
+
+rtb and other infrastructure teams
+
+
+
+
+working conditions 
+
+
+office/trading floor
+
+
+diversity in the workplace, one of our shared values, lies at the heart of our rewarding, open, supportive and inclusive
+
+
+work environment. we respect and respond to the many competing and evolving priorities in our lives so you can
+
+
+focus on what you can do best – put clients first.
+
+
+time allocation
+
+
+
+
+defining business and technical requirements, analyzing potential developments, and prioritization: 20%
+
+
+hands-on management of development initiatives, including architecture, design, and direct participation in the delivery of new systems, enhancements and fixes:  50%
+
+
+staff management: 10%
+
+
+manage projects from start to finish, provide status and transparency to business and senior tech management: 10%
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+people manager
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+05/29/2015
+ 
+
+
+req id:
+  
+90799
+
+
+posting notes:  
+none
+
+

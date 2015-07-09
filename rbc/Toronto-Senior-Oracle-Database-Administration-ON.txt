@@ -1,0 +1,338 @@
+Title:Senior Oracle Database Administration
+Location:Toronto, ON, CA
+Date Posted:2015-06-09
+URL:https://jobs.rbc.com/job/Toronto-Senior-Oracle-Database-Administration-ON/257936700/
+-------------------------------------------
+key accountabilities:
+ 
+
+
+ 
+
+
+ 
+
+
+senior oracle d
+atabase administration. primary responsibilities include:
+
+
+
+
+
+
+1.
+     
+maintenance services:
+
+
+·
+        
+create and maintain oracle databases, database objects, including tablespaces, tables, indexes, views, synonyms, triggers, procedures, sequences ... etc in development, test, production and disaster recover environments.
+
+
+·
+        
+based on the sla, decide the backup/recovery strategy.  code, test and support the backup/recovery scripts. 
+
+
+·
+        
+perform database monitoring and tuning, including memory, buffer pools, cpu, locking, sorting, …etc.
+
+
+·
+        
+work with application team to perform sql tuning. require to have high level of proven competence with sql (dml and ddl).
+
+
+·
+        
+handle database security requests in development, test, production and disaster recover environments. require to have good knowledge of security tools and standards
+
+
+·
+        
+perform space analysis on tablespaces.  perform tablespace expansion or reorg as required.
+
+
+·
+        
+ensure groundwork monitoring and tsm is setup properly.
+
+
+·
+        
+perform required analysis to resolve complex technical issues/problems.
+
+
+·
+        
+provide technical assistance to application team for utility usage and problem resolution.
+
+
+·
+        
+provide consulting to developers on optimal usage of oracle features and facilities.
+
+
+·
+        
+work with application and drp teams to ensure disaster recovery plan is tested and works properly.
+
+
+ 
+
+
+ 
+
+
+2.
+     
+design services
+
+
+ 
+
+
+ 
+
+
+·
+        
+provide skilled counsel in the technical design of applications. ensure optimum use of software facilities and features; walk through critical components.
+
+
+·
+        
+with senior staff, make decisions on data placement and strategic/tactical software, addressing business-specific objectives in the context of rbc technology strategies.
+
+
+·
+        
+perform physical database design; transform logical data models into physical database structures via standard processes. provide data modeling assistance as required.
+
+
+·
+        
+participate in the architecture review process for development projects. be accountable for adherence to standards and policies; escalate non-conformance.
+
+
+·
+        
+serve as the technical lead for projects of short duration.
+
+
+ 
+
+
+job requirements: (knowledge/ experience):
+
+
+·
+        
+minimum 5 years of solid dba experience on oracle. nice to have db2luw experience.
+
+
+·
+        
+in depth knowledge on database backup and recovery for oracle
+
+
+·
+        
+in depth knowledge on database tuning and sql tuning for oracle
+
+
+·
+        
+strong knowledge on oracle real application cluster (rac) and data guard 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+required skills/ competencies/ attributes:
+ 
+
+
+ 
+
+
+·
+        
+analytical and conceptual thinking
+
+
+·
+        
+knowledge share and transfer 
+
+
+·
+        
+teamwork and co-operation 
+
+
+·
+        
+listening, understanding and responding 
+
+
+·
+        
+excellent written & communication skills. ability to communicate with people in a wide variety of areas and at various levels from technical specialists to project managers.
+
+
+·
+        
+excellent problem management skills
+
+
+·
+        
+good negotiation skills
+
+
+·
+        
+good coaching/mentoring skills
+
+
+·
+        
+ability to learn and absorb new concepts quickly (both in business and systems), apply new knowledge as appropriate
+
+
+
+
+
+
+education: 
+
+
+ba/bsc
+
+
+required accreditation(s): 
+
+
+oracle certification is preferred
+
+
+ 
+
+
+this position will require after hours support for application/database implementations and carry rotation of 24x7 production support pager. 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west, 6th floor, toronto
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+04/19/2014
+ 
+
+
+req id:
+  
+86993
+
+
+posting notes:  
+sf:wk
+
+

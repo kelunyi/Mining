@@ -1,0 +1,398 @@
+Title:Jr-Int. GUI Developer
+Location:Toronto, ON, CA
+Date Posted:2015-06-17
+URL:https://jobs.rbc.com/job/Toronto-Jr-Int_-GUI-Developer-ON/274251200/
+-------------------------------------------
+purpose:
+
+
+ 
+
+
+risk data aggregation and risk reporting it (rdarr it) provides system development and support to rdarr program.   the rdarr it develops core new systems and tools to support rdarr business processes including rdarr portal, rdarr measurement system,  data transparency layer based on hadoop and integration with a wide range of risk systems and repositories across the enterprise.     these tools will require new and easy to use user interfaces to access the functionality and visualize and report on the data. 
+
+
+ 
+
+
+this position provides entry level development services for the full stack of rich web based  front-end and graphical user interface application for the rdarr tools.   the candidate is responsible for design, development, testing,  implementation and documentation of web front-end applications using agile and other sdlc methodologies
+
+
+ 
+
+
+context 
+is small to medium development or maintenance projects  (multiple functions, single application at one time). emphasis is split between testing, technical analysis and design.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles
+
+
+ 
+
+
+primary  responsibilities:
+
+
+ 
+
+
+technical analysis, design & specification
+
+
+
+
+using different techniques and tools (top-down, mvc, oo, rational rose), designs technical solutions that meet business requirements and plc deliverables including component reusability, data sharing and security.
+
+
+coordinates design phases for small to medium projects/programs, identifying, tracking and resolving technical issues.
+
+
+prepares detailed technical specifications in accordance with all project office objectives for plc and documentation.
+
+
+organizes and participates in walkthrough reviews of all technical specifications, programs and unit test plans.
+
+
+co-ordinates and provides input to backend developers on interfaces
+
+
+ 
+
+
+
+
+coding, testing & documentation
+
+
+
+
+develops, codes, documents programs of average to high complexity using different languages.
+
+
+writes unit test plans and provides coordination and support of testing using different tools.
+
+
+prepares distribution lists and om documentation.
+
+
+completes technical documentation and training material.
+
+
+
+
+
+
+co-ordinates testing of joint project plans, evaluating vendors and 3
+rd
+ party software based upon set criteria.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+provides estimates on activities/tasks required to perform design, coding and unit testing, improving accuracy over time.
+
+
+coordinates implementation planning and execution.
+
+
+
+
+
+
+performs performance tuning to improve performance of single function..
+
+
+provides on-call support of applications, database etc.
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+facilitates small to medium size group meetings for technical design, problem solving and task implementation.
+
+
+
+
+
+
+prepares and delivers presentations to technology partners.
+
+
+resolves minor conflicts/issues and escalates others as appropriate
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+continually enhances skills and builds knowledge in all aspects of the development,  organization, the business and information systems.
+
+
+
+
+ 
+
+
+position requirements/specifications 
+
+
+behavioural competencies
+ (for superior performance)
+
+
+
+
+achievement motivation
+
+
+breakthrough thinking
+
+
+business acumen
+
+
+customer insight
+
+
+dealing with ambiguity
+
+
+strategic influencing
+
+
+teamwork & cooperation
+
+
+analytical thinking
+
+
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+professional with experience on applications with single functions
+
+
+computer science /engineering undergraduate degree
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+different testing tools (e.g. expediter, file-aid)
+
+
+different design techniques (e.g. oo. mvc, top-down, structured analysis, component-based design) and tools (e.g. rational rose).
+
+
+communication skills
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+capital markets, banking, and/or data management  business applications/ processes an asset
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+red hat linux cluster to manage tomcat instance
+
+
+java development on back end restful layer (spring, jersey) to develop web services, javascript (angularjs), html, css development
+
+
+html5, css3 and javascript and widely used libraries (jquery, bootstrap, angularjs) and structures (json).
+
+
+tomcat and web services.
+
+
+unit testing with junit or similar tool.
+
+
+object oriented programming with java.
+
+
+unix/linux os, including shell programming.
+
+
+relational database (sql server) big data columnar database (vertica), hadoop data constructs (hdfs)
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/29/2015
+ 
+
+
+req id:
+  
+92026
+
+
+posting notes:  
+none
+
+

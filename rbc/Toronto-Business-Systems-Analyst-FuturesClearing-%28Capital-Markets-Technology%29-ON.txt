@@ -1,0 +1,266 @@
+Title:Business Systems Analyst - Futures/Clearing (Capital Markets IT) ION RISC AS400 /or SunGard GMI
+Location:Toronto, ON, CA
+Date Posted:2015-06-10
+URL:https://jobs.rbc.com/job/Toronto-Business-Systems-Analyst-FuturesClearing-%28Capital-Markets-Technology%29-ON/259950500/
+-------------------------------------------
+key accountabilities
+
+
+ 
+
+
+technical leadership and analysis, planning, implementation & system management:
+
+
+
+
+research and analyze issues around ion’s risc (rolfe and nolan) as400 platform; utilizing sql queries to investigate trade and deal characteristics to resolve end user inquires
+
+
+build a strong relationship with all business partners to help them succeed with our solutions as well as effectively represent their requirements in further evolving
+
+
+research, analyze and explore different options and recommend solutions and designs that meet business requirements
+
+
+lead disaster recovery (dr) exercises as well as incident/change/release management processes.
+
+
+advocate a strong quality assurance mindset throughout the team to ensure our solution minimizes all known risks.  
+
+
+manage larger production deployment projects and coordinate associated activities with our infrastructure partners.
+
+
+document operational processes for end user training and manage the production knowledgebase.
+
+
+
+
+ 
+
+
+project management responsibilities:
+
+
+
+
+works closely with functional areas (trading desk, operations, risk) to coordinate requirement gathering and new functionality implementation
+
+
+process ownership (business and technical)  - creation/re-engineering/documentation
+
+
+innovation in defining risk controls and procedures to minimize operation risk.
+
+
+
+
+ 
+
+
+ 
+
+
+requirements for successful candidates:
+
+
+ 
+
+
+technical/systems knowledge:
+
+
+
+
+strong preference to candidate with experience with ion’s risc  as400  or  sungard gmi platforms
+
+
+strong experience creating and modifying sql queries.
+
+
+experience working within complex application environments (application, relational database, hardware requirements, firewall, storage)
+
+
+microsoft excel skills
+
+
+an asset to have:
+	
+
+
+knowledge of other clearing and future trading applications (prysm, clearvision, tt x trader, cqg trader, riskmetrics, etc)
+
+
+ms windows server and unix system knowledge
+
+
+experience with business works, tibco designer, mq explorer,
+
+
+relational database knowledge and programming language e.g. vba scripting
+
+
+
+
+
+
+
+
+ 
+
+
+communication skills:
+
+
+
+
+exceptional communication skills (verbal and written)
+
+
+relationship management – ability to build strong relationships with peers, business colleagues and executives.
+
+
+facilitate small to large group meetings for technical discussion, decision making, problem-solving and task implementation.
+
+
+
+
+ 
+
+
+business knowledge:
+
+
+
+
+knowledge of the financial industry, particularly in the trading divisions of banks or brokerage houses would be an asset.
+
+
+cme and lch interest rate swap knowledge
+
+
+general familiarity with exchanged traded products, e.g. fixed income, options, futures, swaptions,  etc is also desired.
+
+
+
+
+ 
+
+
+ 
+
+
+education 
+
+
+ 
+
+
+information technology, computer science, computer/electrical engineering degree (or equivalent), business & science
+
+
+ 
+
+
+ 
+
+
+diversity
+
+
+ 
+
+
+diversity in the workplace, one of our shared values, lies at the heart of our rewarding, open, supportive and inclusive work environment. we respect and respond to the many competing and evolving priorities in our lives so you can focus on what you can do best – put clients first.
+
+
+ 
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington street w.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+05/01/2015
+ 
+
+
+req id:
+  
+87171
+
+
+posting notes:  
+n/a
+
+
+ 
+
+
+ 
+
+

@@ -2,6 +2,7 @@ Title:Market Data Software Developer
 Location:Jersey City, NJ, US
 Date Posted:2015-06-19
 URL:https://jobs.rbc.com/job/Jersey-City-Market-Data-Software-Developer-NJ-07097/274766800/
+-------------------------------------------
 purpose:
   the   of this role is to provide software development support for market data apis as part of the market data operations and engineering (mdoe) team.  liaison between market data developers, technology staff and management to ensure high quality and availability of the various market data distribution and messaging platforms we employ.
 

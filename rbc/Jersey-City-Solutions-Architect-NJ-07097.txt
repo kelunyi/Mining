@@ -1,0 +1,205 @@
+Title:Solutions Architect
+Location:Jersey City, NJ, US
+Date Posted:2015-06-01
+URL:https://jobs.rbc.com/job/Jersey-City-Solutions-Architect-NJ-07097/270713200/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+this is an exciting opportunity for someone who wants to make a difference in an enterprise setting. rbc capital markets is looking for an individual who is a visionary in their thinking, a technology leader in their own right and someone who is passionate in making a difference while engaging front office businesses and technology leads.
+
+
+ 
+
+
+the position forms the bridge between business goals and technology realities. this individual needs to be able to engage with the business, understand their goals and work closely with different business lines to formulate cross functional solutions. the solutions architect within enterprise architecture team will be the trusted advisor within the team. this person will be tasked to opine on the latest technology trends. example includes candidates who are well versed with various hadoop stacks, mobile technology and data distribution, etc. this person must have strong java, c# and c++ foundation. while the person is not expected to code on a daily basis, this is a hands on role as needed.
+
+
+ 
+
+
+ideally this person has strong fixed income and/or equities background as this person will be working with various business-aligned stakeholders.
+
+
+ 
+
+
+the candidate must have the business skills, technical skills and entrepreneurial skills to take complex business problems and translate them to technical approaches in line with the overall technology vision.
+
+
+ 
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+·   this position requires the candidate to be the trusted advisor  for initiatives like big data, mobile computing, platform solutions, private cloud, etc. solid knowledge of relational databases also required.
+
+
+ 
+
+
+·   drive simplification by engaging in detailed technical conversations for system integration, data modeling, and project level architecture.
+
+
+ 
+
+
+·  participate in governance forums to assess technology alignment to stated goals, and propose alternative technical paths as needed
+
+
+·  collaborate with the business, data, and application architects for a clean translation from business capabilities to robust technology stacks
+
+
+·  contributor to the architecture council, setting the future direction of technology in rbc capital markets
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+key relationships
+
+
+ 
+
+
+· global head of enterprise architecture capital markets
+
+
+· capital markets business line architects
+
+
+· global heads of it in capital markets
+
+
+· chief data officer organization
+
+
+· rbc overall enterprise architecture organization
+
+
+ 
+
+
+education &/or experience
+
+
+ 
+
+
+required
+
+
+ 
+
+
+·  7+ years of experience – large scale application experience required, strong analytical skills, must be up to date on latest technology trends
+
+
+ 
+
+
+· extensive experience collaborating with solution, information, and application architects and infrastructure engineers to identify, design, and implement highly complex, end-to-end solutions
+
+
+ 
+
+
+· experience in forming strategic partnerships with technology and business partners in a collaborative manner
+
+
+ 
+
+
+· expertise/working knowledge in nosql technology, relational db’s and various big-data stacks.
+
+
+ 
+
+
+· integration (middleware) experience in a financial services environment like mq, solace, etc
+
+
+ 
+
+
+· strong software development background across multiple technologies and vendor systems
+
+
+ 
+
+
+· strong enterprise patterns knowledge, and ability to apply theoretical computer science knowledge to novel technologies, and approaches to solving business problems
+
+
+ 
+
+
+preferred
+
+
+ 
+
+
+· experience in financial services, across both front and back office
+
+
+· bs/ms or phd in computer science, or related quantitative discipline
+
+
+· knowledge of the trade lifecycle, and different financial products
+
+
+ 
+
+
+*li-ac
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+diversity 
+and equal opportunity 
+employment
+:
+
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors
+. 
+
+
+ 
+
+
+about rbc: 
+
+interested in finding out more? click 
+here
+. 
+
+
+ 
+
+

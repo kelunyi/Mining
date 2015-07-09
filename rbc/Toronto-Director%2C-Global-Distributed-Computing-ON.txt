@@ -1,0 +1,298 @@
+Title:Director, Global Distributed Computing
+Location:Toronto, ON, CA
+Date Posted:2015-06-25
+URL:https://jobs.rbc.com/job/Toronto-Director%2C-Global-Distributed-Computing-ON/263820300/
+-------------------------------------------
+purpose
+
+
+leads, manages and executes enterprise wide end-to end strategy, planning, acquisition, implementation, optimization and support for global integration / hosting functions for rbc’s distributed computing (windows and unix - aix/solaris/linux) environment: including server os integration, server hardware integration, server operations, and production control & application coordination. 
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities
+
+
+client focused solutions
+
+
+
+
+manages and ensures superior second level support services to all stakeholders for all operating systems and server hardware within the area of responsibility
+
+
+ensures timely liaison with vendors regarding problems, fixes, and required enhancements
+
+
+creates and maintains strategies related to distributed computing / server platforms throughout the enterprise ensuring all performance and cost curves are closely managed
+
+
+drives the adoption and benefits realization from virtualization technologies such as vmware and hyperv
+
+
+an active leader and champion for technology currency and associated initiatives throughout t&o
+
+
+directs and manages the software distribution infrastructure and operations for complete global windows platform (servers and desktop)
+
+
+oversees and directs the timely evaluation, qualification, and implementation of new software products and o/s releases and software distribution
+
+
+manages and directs the development and maintenance of strategies for efficient operation, utilization and monitoring of rbc’s hosting environments across the rbc enterprise.
+
+
+directs the daily operations and level 1 support of rbc’s hosting environments.  directs the production control and application coordination areas across the enterprise. 
+
+
+directs and manages the pre-production environment
+
+
+ensures the timely and secure execution of rollout plans for key data center hardware and software systems initiatives.
+
+
+an active leader, advisor, business partner, and key stakeholder for the command centres and incident management team to ensure a high quality of level 1 support/management for all customers and stakeholders.
+
+
+liaise with business, t&o and other functional area executives and leaders to ensure the effective and secure operation of data center supported technology.  actively highlight and champion changes for improvement across rbc.
+
+
+deliver solutions and support for the business, t&o, and other functional areas in the various regions where rbc operates (including, but not limited to canada, usa, caribbean, and the uk)
+
+
+drive and advise on strategies, implementation, and management of cloud / private cloud hosting services
+
+
+an active leader within t&o that works in collaboration with various groups throughout rbc to increase customer insights and deliver customer focused solutions
+
+
+
+
+ 
+
+
+building a high performing team
+
+
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of direct and indirect staff
+
+
+promote and enable talent management processes including recruitment, performance management, performance development/coaching, reward & recognition and workforce planning
+
+
+provide leadership and direction to direct reports in creating a working environment of high employee engagement with focus on proactively providing reliable, flexible, and innovative technology solutions
+
+
+substantially improving efficiency & effectiveness
+
+
+ensures ongoing examination of the department processes to ensure the most effective procedures and methodologies are being deployed.
+
+
+maintains a highly disciplined technology environment by selecting and utilizing appropriate management tools, methodologies and practices.
+
+
+ensures process and reporting is in place for server, application performance, and problem resolution.
+
+
+directs the development and maintenance of a strategy which enables a predictive view of application performance and benchmarking capabilities.
+
+
+drive benchmarking exercises to ensure gti remains within the top tier of best practices.
+
+
+drive infrastructure optimization technologies to ensure a cost-effective infrastructure
+
+
+
+
+ 
+
+
+financial accountability
+
+
+
+
+oversees the management of the bank’s distributing computing environment / assets and associated cost pools with a focus on declining until rate costs while maintaining an optimized environment.
+
+
+oversees the management of the hardware and software budget.
+
+
+drive key enterprise software and hardware agreements with major vendors
+
+
+
+
+ 
+
+
+regulatory responsibilities
+
+
+
+
+runs the business with the applicable regulatory requirements, expectations and delegated authorities.
+
+
+manages and reacts to rbc or sox audits.
+
+
+maintains systems within compliancy requirements.
+
+
+
+
+ 
+
+
+position requirements/specifications: 
+
+
+education / experience 
+
+
+
+
+professional with experience leading large complex enterprise-wide infrastructure projects/programs with multiple interfaces and/or 3rd parties
+
+
+in depth experience of distributed computing (windows and unix - aix/solaris/linux)  including sever os integration, server hardware integration, server operations, production control & application coordination, and cloud.
+
+
+experience with virtualization technologies including vmware and hyperv
+
+
+experience with the implementation of new software products, o/s releases and software distribution
+
+
+
+
+ 
+
+
+how time will be allocated (percent):
+
+
+leadership, strategic direction and people management - 30%
+
+
+client focused solutions - 20%
+
+
+substantially improving efficiency & effectiveness - 20%
+
+
+financial accountability - 20%
+
+
+regulatory responsibilities - 10%
+
+
+ 
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+88738
+
+
+posting notes:  
+none
+
+

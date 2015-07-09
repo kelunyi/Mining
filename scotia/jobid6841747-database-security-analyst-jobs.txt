@@ -1,3 +1,8 @@
+Title:Database Security Analyst
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-03-03
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid6841747-database-security-analyst-jobs
+-------------------------------------------
 :
 • the dsa is responsible for the operations and support of the database security compliance program within is&c and across the scotiabank group.
 • the dsa is responsible for developing and/or enhancing the strategies and processes to identify, analyze and communicate application vulnerabilities as per the published remediation and escalation process flow.

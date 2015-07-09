@@ -1,0 +1,250 @@
+Title:Fidessa Application Support Analyst (Capital Markets Technology - Cash Equities)
+Location:Toronto, ON, CA
+Date Posted:2015-06-04
+URL:https://jobs.rbc.com/job/Toronto-Fidessa-Application-Support-Analyst-%28Capital-Markets-Technology-Cash-Equities%29-ON/252517800/
+-------------------------------------------
+purpose:
+
+
+ 
+
+
+the application support analyst will own the technical support for the fidessa application.  they will be supporting business unit/traders for cash equities application related issues.
+
+
+ 
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+
+
+provide application support for institutional fidessa
+
+
+scripting - using perl / shell / tcl  for system monitoring, and setting up of intra-day/eod reports
+
+
+implement new releases, bug fixes/patches/configuration changes into production
+
+
+liaison with trading and escalation to dev, network, systems, dba etc.
+
+
+contact exchanges and brokers/vendors to resolve connectivity issues
+
+
+investigate trading issues identified by operations and/or front-office control
+
+
+problem solve issues through investigation of relevant application logs
+
+
+monitoring of applications and pro-actively fixing any warnings
+
+
+creating queries to run reports for compliance enquiries
+
+
+provide early coverage, participate in weekend activity for street wide exchange and dr tests.
+
+
+
+
+ 
+
+
+must have staffing requirements:
+
+
+
+
+bachelors engineering/computer or related degree
+
+
+3+ years experience in support
+
+
+capital market experience and knowledge of equity markets
+
+
+excellent oral/written communication skills
+
+
+good outage management skills, with ability to multi-task
+
+
+good understanding of all aspects of trading and order management flows in
+
+
+
+
+            -   cash equity trading
+
+
+-   operations & settlements
+
+
+ 
+
+
+technical
+
+
+
+
+5+ years fidessa application server experience
+
+
+5+ years tcl scripting
+
+
+5+ years unix and shell scripting skills
+
+
+5+ years sql and sybase relational databases
+
+
+good knowledge of fix protocol
+
+
+understanding of software development lifecycle
+
+
+
+
+ 
+
+
+key lateral relationships
+
+
+
+
+equity traders
+
+
+major business sponsors – heads of desks, trading, retail,
+
+
+operational heads, compliance, audit, trade surveillance
+
+
+development teams
+
+
+
+
+ 
+
+
+units supported / key statistics
+
+
+
+
+global equity
+
+
+
+
+ 
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+200 bay street
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+trading floor
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+03/30/2015
+ 
+
+
+req id:
+  
+85277
+
+
+posting notes:  
+n/a
+
+

@@ -1,0 +1,372 @@
+Title:Senior Technical Systems Analyst
+Location:Toronto, ON, CA
+Date Posted:2015-06-11
+URL:https://jobs.rbc.com/job/Toronto-Senior-Technical-Systems-Analyst-ON/273110500/
+-------------------------------------------
+purpose:
+
+
+the incumbent will be required to work with our various it partners and 3rd party vendors in support of integrating new technology related to the distributed image capture and exchange (dice) program and may be called on to maintain in-house code and/or build scripts. the primary focus of this role is to work with our it and 3rd party vendor partners in the deployment process of their products and support our qa partners throughout the qa cycles as well as implementation to production and dr. secondary focus is to become proficient in each of the products as the incumbent will also be responsible for the ongoing maintenance of the vendor products post implementation in an production support and /or maintenance tsa role.
+
+
+this role requires the ability to work outside of normal 8-5 business hours for deploys as well as supporting the offshore qa testing teams overnight. the work demands may be dependent on the project lifecycle and support needs. will be called on to be on pager support and incident management.
+
+
+ 
+
+
+the dice program is one of the largest at rbc at this time. it is a highly complex program that has impact on all distribution channels.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+technical analysis, design and consulting 
+
+
+
+
+provides consulting services on new initiatives (medium to large of varying complexity).
+
+
+assesses researches and analyzes business and system needs, exploring alternative options to recommend technology solutions and designs that meet sponsor needs and plc deliverables including component reusability, data sharing and security.
+
+
+leads detailed design phases for medium to large projects/ programs identifying, tracking and resolving technical issues.
+
+
+prepares high level and detailed technical specifications for small to medium projects in accordance with plc, security and architecture documentation objectives.
+
+
+together with project manager and team, determines best mix of development, interfacing applications, third party vendor solutions to meet business requirements and project objectives.
+
+
+contributes to successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors and software as well as due diligence exercises.
+
+
+provides input and co-ordinates with dba in creating new and modifying existing database structures using different types of databases and recommending appropriate db based on required functionality.
+
+
+organizes and participates in walkthrough reviews of all technical specifications, programs and unit test plans.
+
+
+
+
+ 
+
+
+coding, testing & documentation
+
+
+
+
+will be called on to support integration, documentation, deploying code and executing unit test, system, integration and acceptance test using different languages and testing tools for functions of high complexity.
+
+
+ensures adequate technical documentation and training.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+develops detailed plans and accurate estimates for completion of integration/build, system testing and implementation phases of project.
+
+
+develops master distribution lists, implementation and contingency plans ensuring verification is performed.
+
+
+manages joint development, testing and plans and co-ordinates implementations
+
+
+performs database/disaster recovery for entire system in different situations.
+
+
+performs performance tuning to improve performance over multiple functions.
+
+
+provides on-call support of applications, database, etc. particularly more complex situations.
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors and software a well as due diligence exercises.
+
+
+facilitates small to large group meetings for technical design, decision making, problem solving and task implementation.
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+
+
+ 
+
+
+incident support & communication 
+
+
+
+
+manages communication during incidents and helps trouble shoot as required with internal and external teams.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+supports monitoring and incident management practices and for the applications within portfolio
+
+
+maybe called on to investigate incidents, impacts and then communicates to stakeholders
+
+
+will be on pager and after hours support
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+may act as project leader
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+position requirements/specifications:
+
+
+education/experience 
+
+
+
+
+professional with experience on applications with multiple functions
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+working with 3rd party vendors and how to integrate and assess upstream/downstream impacts
+
+
+different programming languages (e.g. cobol, jcl, java, c, html, vb, visual c++)
+
+
+multiple platforms (unix, linux, ms windows server 2003 and up)
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+middleware technologies (ex. mqseries/websphere, wxf, xml, .net)
+
+
+websphere jvm packaging and deployments
+
+
+db2 and oracle databases
+
+
+dynatrace knowledge
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+different testing tools (e.g. expediter, file-aid)
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools (e.g. rational rose).
+
+
+communication skills
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+how time will be allocated:
+
+
+technical analysis, design and consulting: 30%
+
+
+3rd party code integration/coding, testing and documentation: 30%
+
+
+planning, implementation and support:  20%
+
+
+incident support and communication: 20%
+
+
+development and coaching: 5%
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+180 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+91681
+
+
+posting notes:  
+none
+
+

@@ -1,0 +1,290 @@
+Title:Enterprise Resiliency Architect
+Location:Toronto, ON, CA
+Date Posted:2015-06-08
+URL:https://jobs.rbc.com/job/Toronto-Enterprise-Resiliency-Architect-ON/272249400/
+-------------------------------------------
+purpose:  
+
+
+responsible for providing senior infrastructure and subject matter expertise for the enterprise technology resiliency program for rbc technology & operations.  this candidate will ensure strong technical alignment with key technology & operations initiatives as well as initiatives related to improving resiliency of rbcs technology environment. this role will be the focal point for conducting assessments, recommendations, developing and maintaining the strategic architectures and roadmaps for approved remediation efforts. the selected candidate will also drive the implementation of application instrumentation and enhanced monitoring.
+
+
+ 
+
+
+primary responsibilities:
+ 
+
+
+
+
+provide technical guidance and domain expertise to t&o on it resilience and application monitoring.
+
+
+develop, socialize and maintain reference designs and best practices for it resiliency, recoverability and complexity
+
+
+work collaboratively with other technology sme’s and architects to identify synergies, best practices and reusable components.
+
+
+ensures alignment with enterprise wide business & it architecture
+
+
+lead the identification and operationalization of key resiliency indicators
+
+
+seeks out industry trends to generate and recommend alternative approaches / solutions to meet needs / requirements (i.e. business case, feasibility)
+
+
+reviews and approves technical program artefacts
+
+
+review designs to ensure compliance with program architecture
+
+
+promotes and leads the instrumentation of critical banking applications
+
+
+
+
+ 
+
+
+relationships and communications
+
+
+
+
+act as the primary domain expert working with business and technology executives and directors, enterprise groups, 3rd party vendors and project teams.
+
+
+build and maintain working relationships with t&o executive leadership and key subject matter experts around critical initiatives
+
+
+prepare and deliver presentations to business and technology partners, senior management, and executives, selecting the approach appropriate to the audience
+
+
+lead complex group workshops for assessment, design, decision making, problem solving, implementation and strategic planning
+
+
+facilitate knowledge transfer and collaborations
+
+
+
+
+ 
+
+
+development and coaching
+
+
+
+
+mentor, coach and develop team members both on domain expertise and rbc related knowledge
+
+
+build production resiliency capability in the team and across the t&o organization.
+
+
+
+
+ 
+
+
+position requirements/ specifications:
+
+
+education
+
+
+
+
+undergraduate degree or equivalent experience in a technical area of study. master’s degree preferred.
+
+
+
+
+ 
+
+
+experience
+
+
+
+
+it experience of at least 15 years out of which 5 years performing infrastructure operations and/or it resiliency initiatives.
+
+
+advanced to expert knowledge, experience and understanding of architecture, applications, system design and integration
+
+
+experience in quickly evaluating options, making decisions and executing within and intense high-tech environment.
+
+
+strong organizational skills with the ability to meet deadlines and manage several activities simultaneously
+
+
+strong knowledge of financial applications
+
+
+
+
+ 
+
+
+behavioural competencies
+
+
+
+
+leadership
+
+
+conceptual thinking
+
+
+impact and influence
+
+
+strategic influencing
+
+
+change leadership
+
+
+breakthrough thinking
+
+
+customer insight
+
+
+teamwork and cooperation
+
+
+achievement motivation
+
+
+adaptability
+
+
+analytical thinking
+
+
+initiative
+
+
+
+
+ 
+
+
+*li-ts2
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+315 front st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/05/2015
+ 
+
+
+req id:
+  
+91367
+
+
+posting notes:  
+none
+
+

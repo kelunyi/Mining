@@ -1,0 +1,510 @@
+Title:Senior Technical Systems Analyst, Infrastructure Resiliency
+Location:Toronto, ON, CA
+Date Posted:2015-06-10
+URL:https://jobs.rbc.com/job/Toronto-Senior-Technical-Systems-Analyst%2C-Infrastructure-Resiliency-ON/272850000/
+-------------------------------------------
+purpose:
+
+
+liaise across it infrastructure, payments and cards technology and multiple lines of business to assess, research, and analyze business, technical and system needs in order to resolve business systems issues by recommending technology solutions that meet sponsor/stakeholder needs.
+
+
+ 
+
+
+context 
+is 
+small to medium development and large maintenance projects 
+ (multiple projects - one application with multiple interfaces and/or 3rd parties).
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary  responsibilities:
+
+
+ 
+
+
+technical analysis, design and consulting 
+
+
+
+
+analyze performance metrics for application and provide solutions for performance and capacity improvements
+
+
+review & approve network solutions and coordinate implementation with infrastructure teams
+
+
+
+
+
+
+analyze application performance on the network infrastructure
+
+
+
+
+
+
+provides consulting services on new initiatives (small to large of varying complexity).
+
+
+
+
+
+
+assesses, researches and analyzes business and system needs, exploring alternative options to 
+recommend technology solutions
+ 
+and designs
+ that meet sponsor needs and plc deliverables including component reusability, data sharing and security.
+
+
+
+
+
+
+develops proposals for senior management.
+
+
+leads detailed design phases for small to large projects/ programs identifying, tracking and resolving technical issues.
+
+
+prepares high level and detailed technical specifications for small to medium projects in accordance with plc, security and architecture documentation objectives.
+
+
+together with project manager, determines best mix of development, interfacing applications, third party vendor solutions to meet business requirements and project objectives.
+
+
+contributes to successful project completion by 
+identifying risks and developing/recommending mitigation strategies.
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors and software as well as due diligence exercises.
+
+
+provides input and co-ordinates with dba in creating new and modifying existing database structures using different types of databases and recommending appropriate db based on required functionality.
+
+
+organizes and participates in walkthrough reviews of all technical specifications, programs and unit test plans.
+
+
+
+
+ 
+
+
+coding, testing & documentation
+
+
+
+
+develops, codes, documents and executes unit test, system, integration and acceptance test using different languages and testing tools for functions of high complexity.
+
+
+ensures adequate technical documentation and training.
+
+
+create reporting for performance and capacity using tools such as prognosis, inetco and dynatrace.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+develops 
+detailed plans
+ and accurate estimates for completion of build, system testing and implementation phases of project.
+
+
+develops master distribution lists, implementation and contingency plans ensuring verification is performed.
+
+
+manages joint development, testing and plans and 
+co-ordinates implementations
+
+
+performs 
+database/disaster recovery
+ for entire system in different situations.
+
+
+performs 
+performance tuning to improve performance over multiple functions
+.
+
+
+provides on-call support of applications, database, etc. particularly more complex situations.
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+develops criteria for and participates in the evaluation of 3rd party vendors and software as well as 
+due diligence exercises
+.
+
+
+manages the detail aspects of day-to-day operations with 3rd party vendors.
+
+
+
+
+
+
+effectively 
+communicates and builds rapport with team members, stakeholders and interface groups
+ using a variety of techniques and collaboration from initiation to close.
+
+
+
+
+
+
+facilitates small to large group meetings for technical design, decision making, problem solving and task implementation.
+
+
+prepares and delivers presentations to business and technology partners and senior management, selecting the appropriate approach based on the audience. 
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+may act as project leader
+
+
+
+
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+
+
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+position requirements/specifications 
+
+
+ 
+
+
+behavioural competencies
+ (for superior performance)
+
+
+
+
+achievement motivation (3)
+
+
+breakthrough thinking (2)
+
+
+business acumen (3)
+
+
+customer insight (2)
+
+
+dealing with ambiguity (4)
+
+
+strategic influencing (3)
+
+
+
+
+
+
+teamwork & cooperation (5)
+
+
+analytical thinking (4)
+
+
+
+
+if people management responsibilities:
+
+
+
+
+change leadership (3)
+
+
+developing others (4)
+
+
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+professional with experience on applications with multiple functions
+
+
+working knowledge of firewalls, switches and routers
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+different testing tools (e.g. expediter, file-aid)
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools (e.g. rational rose).
+
+
+communication skills
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+network diagnostics
+
+
+multi-threaded process techniques
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+cards and payments business; acquiring, issuing and association knowledge
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+different programming languages (e.g. cobol, jcl, java, c, html, vb, visual c++)
+
+
+knowledge in midrange systems (hp nsk)
+
+
+multiple platforms e.g. mvs, internet, client/server and ability to select appropriate one to meet business needs
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+middleware technologies (ex. mqseries/websphere, wxf, xml, .net)
+
+
+
+
+ 
+
+
+people management knowledge
+
+
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+
+
+ 
+
+
+how time will be allocated:
+
+
+50% performance & capacity monitoring and enhancement
+
+
+50% infrastructure review and recommendations
+
+
+ 
+
+
+*li- kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+330 front street west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/28/2015
+ 
+
+
+req id:
+  
+91596
+
+
+posting notes:  
+n/a
+
+
+ 
+
+
+ 
+
+

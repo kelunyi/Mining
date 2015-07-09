@@ -1,0 +1,404 @@
+Title:Jr.-Int. Technical Systems Analyst/Developer (GTO IT)
+Location:Toronto, ON, CA
+Date Posted:2015-06-08
+URL:https://jobs.rbc.com/job/Toronto-GTO-IT-Technical-Systems-AnalystDeveloper-ON/272243100/
+-------------------------------------------
+purpose:
+
+
+partners across it and with assigned business line(s) to assess, research, and analyze business, technical and system needs in order to resolve business systems issues by recommending technology solutions that meet sponsor/stakeholder needs.
+
+
+context
+ is 
+small to medium development or maintenance projects 
+ (multiple functions, single application at one time). emphasis is split between testing, technical analysis and design.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary  responsibilities:
+
+
+ 
+
+
+technical analysis, design & specification
+
+
+
+
+using different techniques and tools (top-down, oo, rational rose), designs technical solutions that meet business requirements and plc deliverables including component reusability, data sharing and security.
+
+
+coordinates design phases for small to medium projects/programs, identifying, tracking and resolving technical issues.
+
+
+prepares detailed technical specifications in accordance with all project office objectives for plc and documentation.
+
+
+organizes and participates in walkthrough reviews of all technical specifications, programs and unit test plans.
+
+
+co-ordinates and provides input to dba in modifying existing database structures for different types of databases (ims, db2, oracle, sql etc.)
+
+
+
+
+ 
+
+
+coding, testing & documentation
+
+
+
+
+develops, codes, documents programs of average to high complexity using different languages.
+
+
+writes unit test plans and provides coordination and support of testing using different tools.
+
+
+prepares distribution lists and om documentation.
+
+
+completes technical documentation and training material.
+
+
+
+
+
+
+co-ordinates testing of joint project plans, evaluating vendors and 3
+rd
+ party software based upon set criteria.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+provides estimates on activities/tasks required to perform design, coding and unit testing, improving accuracy over time.
+
+
+coordinates implementation planning and execution.
+
+
+
+
+
+
+performs database/disaster recovery for individual databases.
+
+
+performs performance tuning to improve performance of single function.
+
+
+high level planning of phases of projects meeting project objectives within budget and on time.
+
+
+provides on-call support of applications, database etc.
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+facilitates small to medium size group meetings for technical design, problem solving and task implementation.
+
+
+
+
+
+
+prepares and delivers presentations to technology partners.
+
+
+resolves minor conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems
+
+
+
+
+ 
+
+
+position requirements/specifications
+
+
+behavioural competencies
+ (for superior performance)
+
+
+
+
+achievement motivation 
+
+
+breakthrough thinking 
+
+
+business acumen 
+
+
+customer insight 
+
+
+dealing with ambiguity
+
+
+strategic influencing 
+
+
+teamwork & cooperation 
+
+
+analytical thinking 
+
+
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+professional with experience on applications with single functions
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+different testing tools (e.g. expediter, file-aid)
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools (e.g. rational rose).
+
+
+
+
+
+
+communication skills
+
+
+
+
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+business line(s)’ business applications/ processes.
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+.net c#, ,net applications, asp, .net and ajax
+
+
+sql server 2005, t-sql and stored procedures
+
+
+ibm data stage, cognos bi, cognos tm1, korn shell scripting
+
+
+different programming languages (e.g. cobol, jcl, java, c, html, vb, visual c++)
+
+
+
+
+
+
+multiple platforms e.g. mvs, internet, client/server
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+middleware technologies (ex. mqseries/websphere, wxf, xml, .net)
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/19/2015
+ 
+
+
+req id:
+  
+91360
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

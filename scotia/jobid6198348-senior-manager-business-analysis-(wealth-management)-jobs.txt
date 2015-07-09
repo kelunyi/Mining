@@ -1,3 +1,8 @@
+Title:Senior Manager Business Analysis (Wealth Management)
+Location:Toronto, Ontario, Canada
+Date Posted:2015-06-23
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid6198348-senior-manager-business-analysis-(wealth-management)-jobs
+-------------------------------------------
 : 
 over the past year or so, the brokerage technology solutions team has evolved from focusing almost entirely on the itrade vertical within global wealth management distribution (save for two application, scotia online & score for which the team provided services to other wealth business lines), to having the following broad accountabilities:
 •providing a full suite of technology services to both itrade and scotiamcleod across multiple platforms/applications, including salesforce, charles river and broadridge aspire, in addition to the applications the team had already been supporting previously, namely scotia online and score.

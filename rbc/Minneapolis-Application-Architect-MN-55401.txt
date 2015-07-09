@@ -1,0 +1,357 @@
+Title:Application Architect
+Location:Minneapolis, MN, US
+Date Posted:2015-06-10
+URL:https://jobs.rbc.com/job/Minneapolis-Application-Architect-MN-55401/272874400/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+the individual will be a technical leader for the us wealth management group, providing design and development direction for the suite of us applications. assignments/responsibilities will also extend to the global wealth management organization and rbc enterprise-level technology initiatives/strategies. the individual will be responsible for facilitating aspects of the application design/it architecture, and will collaborate with application teams, various lines of business, lead/associate-lead architects, and solutions architects where applicable. the primary focus of the role is to provide technical design leadership, and architectural analysis/support, among critical business projects and technology initiatives, for the   of delivering business systems that conform to the wealth management reference architecture.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+responsibilities
+
+
+ 
+
+
+application architecture definition
+
+
+
+
+analyze the business strategy, business scope, requirements, current state environment, and the technology choices to assess the impact to the overall suite of applications and the various platforms where they reside. based upon the analysis and assessment, propose solutions that best meet business sponsor needs.
+
+
+defines technical solutions for the given initiative that take into account the current state environment and constraints of the application suite. analyzes the viability of the architecture/design to meet the timeline, budget and quality.
+
+
+works with the solution architects, lead architects, and the enterprise architects to define the application architecture/design.
+
+
+identifies technical issues and risks and facilitates the mitigation approach.
+
+
+provides critical thinking and technical leadership from the idea-creation stage to the implementation of the project.
+
+
+develops and presents solution alternatives along with recommendations to executives and senior management.
+
+
+leads the development and maintenance of the application architecture, as well as the high level design of the systems, and then collaborates with the tsas for detailed design and implementation.
+
+
+works with the technical systems specialist and the business systems specialists from the impacted application groups/3
+rd
+ parties to understand the current state and constraints for defining the future state architecture & the interfaces.
+
+
+presents the application architecture for reviews as needed.
+
+
+works with vendors and third parties as need to fully define the solution.
+
+
+collaborates with the lead architect and the solutions architect (where applicable) to define strategic roadmaps for retail investment systems.
+
+
+
+
+ 
+
+
+documentation and reviews
+
+
+
+
+develops the artifacts (application architecture/design document, architecture decisions) as defined by the pmf/sdlc and reviews with enterprise architecture, lead architects, business architects and the key program stakeholders.
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration methods from initiation to closure.
+
+
+facilitates small to large group meetings for reviewing technical architecture, decision making and problem solving.
+
+
+prepares and delivers presentations to business, technology partners, and senior management/executives. 
+
+
+resolves conflicts/issues and escalates as appropriate.
+
+
+facilitates knowledge transfer and collaboration.
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+mentors tsas across wealth management it.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+ 
+
+
+ 
+
+
+qualifications
+
+
+basic qualifications:
+
+
+
+
+bachelor’s degree, or equivalent experience, in a technical area of study (computer science, mathematics, engineering, etc.) or other bs/ba degree with a concentration in computer science or information systems or equivalent.
+
+
+total it experience of at least 8-10 years, with 5+ years in technical lead roles. proven experience at leading/facilitating architecture among projects.
+
+
+
+
+
+
+solid experience with a variety of development technologies and application architectures, including j2ee, .net, distributed and enterprise technology platforms, eai, soa, etc.
+
+
+very strong communication skills (oral and written) and interpersonal skills.
+
+
+
+
+ 
+
+
+other required qualifications:
+
+
+
+
+experienced with program/projects involving complex integration of disparate types of technologies/platforms and data.
+
+
+experience in architecting/developing systems in a team environment.
+
+
+experience in architecting/developing geographically dispersed/diverse applications and systems.
+
+
+knowledgeable of all aspects of architecture including application, data, security, and infrastructure.
+
+
+broad knowledge of systems, software, programming languages, technology products, and database systems/structures.
+
+
+working knowledge of enterprise architecture frameworks.
+
+
+exposure to different architecture/design techniques (e.g. oo, top-down, structured analysis, component-based design) and tools (e.g. rsm, rsa).
+
+
+demonstrable facilitation and presentation skills.
+
+
+understand risk assessment and quantification methodologies.
+
+
+conflicts and issues resolution and escalation.
+
+
+strong leadership/facilitation skills, comfortable managing cross-functional technical teams and ability to define, influence and impact the technical direction.
+
+
+
+
+ 
+
+
+preferred qualifications:
+
+
+
+
+working knowledge and experience with all forms of cloud services (iaas, paas, saas) preferred.
+
+
+hands-on project management experience desirable.
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+about rbc wealth management
+
+
+through our association with royal bank of canada (rbc) — one of north america’s largest and healthiest financial institutions — rbc wealth management offers the strength and stability you require in a financial partner.
+
+
+ 
+
+
+
+
+rbc maintains consistently high credit ratings: s&p: aa-; moody’s: aa3; fitch: aa; dbrs: aa (as of july 2014)
+
+
+based on market capitalization, rbc is the 12th largest bank in the world and the sixth largest in north america. (bloomberg as of august 2014)
+
+
+rbc employs more than 79,000 employees who serve more than 16 million personal, business, public sector and institutional clients through offices in canada, the u.s. and 44 other countries.
+
+
+
+
+ 
+
+
+rbc’s financial strength, sound risk management policies, strong balance sheet and diversified business mix have enabled it to withstand many of the market shocks and pressures. rbc’s performance relative to global competitors has been and should remain a source of confidence for shareholders and clients —and a source of pride for employees.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+minneapolis
+ 
+
+
+address:
+  
+60 south 6th street
+ 
+
+
+work hours/week:
+  
+40
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+regular - u.s.
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+exempt
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/10/2015
+ 
+
+
+req id:
+  
+91612
+
+
+posting notes:  
+none
+
+

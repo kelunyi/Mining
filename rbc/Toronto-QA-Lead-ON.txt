@@ -1,0 +1,403 @@
+Title:QA Lead (Test Automation)
+Location:Toronto, ON, CA
+Date Posted:2015-06-27
+URL:https://jobs.rbc.com/job/Toronto-QA-Lead-ON/268988100/
+-------------------------------------------
+purpose:
+
+
+the incumbent will be responsible for leading a team to effectively and efficiently plan and execute required qa projects.
+
+
+ 
+
+
+context
+ is small to large development projects (multiple function, multiple application projects with multiple interfaces and/or 3rd parties). 
+
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+
+
+education/experiences
+
+
+qualifications
+
+
+
+
+a university degree or college diploma in computer science / computer programming / information technology or equivalent
+
+
+5+ years of professional quality assurance experience including 3+ years of being in a qa lead role, proficient with qa and test processes, and test deliverables, defining test strategies, test plans and evaluating risk coverage.
+
+
+experience working in an agile environment
+
+
+expert in requirement testability review
+
+
+experience with test automation and performance testing key concepts
+
+
+can balance between agility and process, results oriented and problem solving mentality.
+
+
+quality driven self-starter seeking continuous improvements and not afraid to raise red flags.
+
+
+proven track record of being a go to person who owns every task from beginning to end
+
+
+you have at least 1+ years of experience performing the tasks of a lead.
+
+
+
+
+ 
+
+
+responsibilities
+
+
+
+
+working with business and project teams to determine, review and verify test scope and items.
+
+
+provide and/or assist in the estimation of effort for the writing, planning and execution of all tests.
+
+
+conduct risk analysis, requirement review ensuring sufficient coverage in respect of project constraints and driving factors.
+
+
+continually ensure there is an adequate level of qa automation test coverage for all responsible applications.
+
+
+champion on agility and improvement in test process.
+
+
+create test strategies, test plans, risk coverage, acceptance criteria, and qa automation support documents.
+
+
+implement and maintain reporting on qa result metrics.
+
+
+supervise and work with 3rd party vendors, contract developers and/or partners as required.
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+communicates and builds rapport with team members, stakeholders and business partners using a variety of techniques and collaboration from initiation to close
+
+
+facilitates complex group meetings and conducts information gathering sessions
+
+
+prepares and delivers presentations to business and technology partners, senior management, selecting the appropriate approach based on the audience
+
+
+sets and manages qa expectations with 3rd party vendors, where appropriate.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+
+
+
+
+development & coaching
+
+
+
+
+sets strategy for qa activities for team members.
+
+
+defines team’s deliverables, content and quality metrics
+
+
+ensures team has adequate training, consulting and tools to deliver objectives.
+
+
+provides expertise, direction, coaching and development to build the team capability
+
+
+continually enhances own skills and builds knowledge in all aspects of the organization, the business and information systems
+
+
+
+
+
+
+how time will be allocate:
+
+
+
+
+planning – 35%
+
+
+execution – 30%
+
+
+documentation – 20%
+
+
+leadership (coaching, management) – 15%
+
+
+
+
+ 
+
+
+authorities / impact/ risk
+
+
+
+
+incumbent will lead a team of  2 to 5 qa analysts.
+
+
+incumbent is required to raise quality risks and issues before production implementations.
+
+
+excellent strategy and team approach will directly determine the success of the qa activities performed
+
+
+incumbent  is responsible for lead and coordinating test effort for 1 to 2 large (1m or greater )  complex (high testing risk) application development projects or 2 to 3 small or regular size projects
+
+
+
+
+
+
+preferred candidate
+
+
+
+
+knowledge of java.
+
+
+knowledge of databases (mysql, ms sql server, postgresql, oracle).
+
+
+experience with selenium, robot framework.
+
+
+experience with continuous build frameworks (jenkins, bamboo).
+
+
+training qa resources (remotely).
+
+
+experience working in an agile environment.
+
+
+experience with data-driven testing
+
+
+experience with mobile web applications, cloud testing is an asset
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+testing tools
+
+
+
+
+
+
+testing approaches/methodologies
+
+
+change management
+
+
+release management
+
+
+
+
+
+
+communication skills
+
+
+
+
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+
+
+systems knowledge
+
+
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+programming experience an asset
+
+
+knowledge in sql, and oracle
+
+
+working knowledge of mainframe (tso)
+
+
+hp alm quality center
+
+
+
+
+
+
+*li- kk1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/12/2015
+ 
+
+
+req id:
+  
+90395
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

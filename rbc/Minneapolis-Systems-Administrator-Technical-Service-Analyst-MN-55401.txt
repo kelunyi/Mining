@@ -2,6 +2,7 @@ Title:Systems Administrator / Technical Service Analyst
 Location:Minneapolis, MN, US
 Date Posted:2015-06-18
 URL:https://jobs.rbc.com/job/Minneapolis-Systems-Administrator-Technical-Service-Analyst-MN-55401/274545900/
+-------------------------------------------
 purpose 
 
 the infrastructure technical service analyst is responsible for performing analytical, design, implementation, and tier 3-4 support for infrastructure.  work is focused primarily on proprietary products that are designed specifically for designated business lines, however can be expanded to include enterprise wide projects, researching new technologies as well as support of legacy infrastructure as needed.   the candidates considered for this most level analyst have significant experience with successful implementations in their career. they are expected to provide mentoring to tier 1 and tier 2 analysts often serving as an informal work lead in helping to resolve more complex problems or questions.
@@ -304,7 +305,7 @@ no
 
 job posting end date:
   
-06/30/2015
+07/10/2015
  
 
 

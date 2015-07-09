@@ -1,0 +1,286 @@
+Title:Sr Technical Systems Analyst - WMB
+Location:Toronto, ON, CA
+Date Posted:2015-06-05
+URL:https://jobs.rbc.com/job/Toronto-Sr-Technical-Systems-Analyst-WMB-ON/263421800/
+-------------------------------------------
+responsibility for:
+
+
+ 
+
+
+
+
+wmb (websphere message broker)
+: this esb platform is used for integration and complex process orchestration, complementing datapower in building the rbc hybrid enterprise service bus
+
+
+datapower
+: this esb integration platform runs multiple applications for all major rbc line of business
+
+
+isam
+: this is the next generation web access gateway, securing the browser and mobile access
+
+
+legacy web access gateway, securing the browser and mobile access of rbc clients
+
+
+
+
+ 
+
+
+ 
+
+
+this position also provides technical consulting to application development groups on design and proper use of web services infrastructure on wmb and datapower, isam and home grown middleware
+
+
+ 
+
+
+responsibilities:
+
+
+
+
+provide development, production support, maintenance and technical consulting for 
+ibm websphere message broker
+ 
+software
+ components & infrastructure
+ (primary)
+
+
+provide development, production support, maintenance and technical consulting for 
+ibm websphere datapower
+ 
+software
+ components & infrastructure
+ (secondary)
+
+
+provide development, production support, maintenance and technical consulting for 
+ibm isam software
+ components & infrastructure
+ (secondary)
+
+
+provide development, production support, maintenance and technical consulting for legacy software components & infrastructure
+ (secondary)
+
+
+keep abreast of web services infrastructure solutions and web services standards in the market place to help identify key solutions that meet/exceed business objectives.
+
+
+assist in defining application design, development and deployment guidelines & best practices for web services infrastructure.
+
+
+conduct design reviews when required.
+
+
+
+
+ 
+
+
+position requires carrying a pager on weekly rotations for emergency support for wmb and later on other technologies, also covering as a backup for project development and support when team members are on vacation.
+
+
+ 
+
+
+ 
+
+
+how time will be allocated (percent):
+
+
+60% evaluation, design, analysis and development
+
+
+30% developers consulting, qa and production application support
+
+
+10% research and technical planning
+
+
+ 
+
+
+key organization relationships:
+
+
+reports to manager, messaging middleware & web services infrastructure.
+
+
+development community – developers and managers
+
+
+technical & operational support teams
+
+
+ 
+
+
+key competencies required:
+
+
+ 
+
+
+
+
+web services expertise is key for this role (5+ years).
+
+
+expertise in wmb development (3+ years). running wmb on zos is a strong asset
+
+
+familiarity with other eai and esb technologies, such as ibm datapower, or similar (desired but not required)
+
+
+proficient c/c++/.net/java programmer. (min 5 years)
+
+
+proficient xml (xml, xslt, xpath,.)(min 3 years)
+
+
+experienced in web services technologies and ws-* stack  (ws-security, ws-trust, , ws-secureconversation,,saml) (min 3 year)
+
+
+experienced in internet and web technologies (min 3 years)
+
+
+experience with enterprise formal development processes
+
+
+good administrative understanding of unix and windows nt.
+
+
+exposure to information and systems security technologies
+
+
+background in troubleshooting and providing support to a production environment.
+
+
+proven self-starter who can identify possible work areas, assess the need and deliver a solution.
+
+
+excellent communication skills (written, oral and presentation) capable of dealing with multiple development teams, including internal, off-shore or external partners.
+
+
+strong service partner orientation
+
+
+positive attitude toward technical issues and project pressure
+
+
+information seeking, self sufficient in efficiently dealing with new technologies and technological challenges
+
+
+innovation
+
+
+team work & cooperation, networking inside the company for getting support in the day by day challenges
+
+
+university or college degree in computer science, mathematics or related area preferred
+
+
+
+
+ 
+
+
+*li-ls1
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay w (wpp)
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+05/16/2015
+ 
+
+
+req id:
+  
+88401
+
+
+posting notes:  
+none
+
+

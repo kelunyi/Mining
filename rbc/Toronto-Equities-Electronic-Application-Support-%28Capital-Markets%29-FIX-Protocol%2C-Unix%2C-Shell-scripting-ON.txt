@@ -2,6 +2,7 @@ Title:Equities Electronic Application Support (Capital Markets) FIX Protocol, Un
 Location:Toronto, ON, CA
 Date Posted:2015-06-23
 URL:https://jobs.rbc.com/job/Toronto-Equities-Electronic-Application-Support-%28Capital-Markets%29-FIX-Protocol%2C-Unix%2C-Shell-scripting-ON/275410100/
+-------------------------------------------
 purpose:
 
 

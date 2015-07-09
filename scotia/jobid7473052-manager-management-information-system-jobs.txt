@@ -1,3 +1,8 @@
+Title:Manager Management Information System
+Location:Toronto, Ontario, Canada
+Date Posted:2015-04-21
+URL:http://jobs.scotiabank.com/ca/toronto/it/jobid7473052-manager-management-information-system-jobs
+-------------------------------------------
 :
 1. independently document the complex measurements from multi-faceted business processes that align the strategic direction of ssg.  this includes interview stakeholders to define detailed requirements and translate their business knowledge into a measurement or breakdown of the measurements that is quantifiable and achievable. 
 2. develop mis deliverables (kpi, balanced scorecard, dashboard, and business analytics) after confirming business requirements from the stakeholders. perform gap analysis on data elements that is missing from the mis deliverables by working with technology partners to source out the data requirement.  maintain the single version of the truth for all deliverables.

@@ -2,6 +2,7 @@ Title:Sr. Business Analyst (Credit Risk)
 Location:Toronto, ON, CA
 Date Posted:2015-06-18
 URL:https://jobs.rbc.com/job/Toronto-Sr_-Business-Analyst-%28Credit-Risk%29-ON/274616200/
+-------------------------------------------
 purpose: 
 work closely with enterprise risk management business, with a focus on risk capital measurement and analytics, to improve capabilities of it systems and quality of data used for this  . this includes supporting business and it teams in data and business analysis, facilitate creation of and updating of roadmaps, participation in business process re-engineering, new application selection and all parts of the software development life cycle (sdlc)
 

@@ -1,3 +1,8 @@
+Title:Solution Architect
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-03-17
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7243245-solution-architect-jobs
+-------------------------------------------
 :
 1) architecture roadmap
 - create and maintain application architecture roadmap, adjusting for business and technology changes

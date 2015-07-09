@@ -1,0 +1,368 @@
+Title:Sr. Java Developer - Derivatives/Trade reporting (Capital Markets) Spring, SQL, Oracle, messagi
+Location:Toronto, ON, CA
+Date Posted:2015-06-10
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Java-Developer-DerivativesTrade-reporting-%28Capital-Markets%29-Spring%2C-SQL%2C-Oracle%2C-messagi-ON/251319900/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+the gdrr (global directives regulatory reform) program implements a strategy for delivering and supporting solutions for various regulatory requirements (dodd frank / emir / etc). the cross asset development teams focus is in delivery of functionality to support requirements in this space including portfolio reconciliation, trade reporting, swaps surveillance, etc.  currently the teams primary activities is in the development and delivery of a cross asset real time derivatives warehouse, support and extension of existing trade reporting functionality, development of a new swaps surveillance solution and industrialization of an existing manual portfolio reconciliation solution.
+
+
+ 
+
+
+the cross asset development team is seeking a senior application developer with strong java development skills as well as expertise in application and database design.  the developer will develop and deliver the derivatives warehouse system functions to a high level of standards helping to define and design what those best practises and standards are.  the role also requires understanding of the business requirements and working in collaboration with all participating groups including but not limited to pm, ba, qa.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+technical analysis, design and consulting 
+
+
+
+
+participates in detailed design, prepares high level and detailed technical specifications for various phases of software delivery.
+
+
+
+
+
+
+together with project manager, determines best mix of development and interfacing applications to meet business requirements and project objectives.
+
+
+
+
+
+
+contributes to successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+collaborates with dba in creating new and modifying existing database structures using different types of databases and recommending appropriate db based on required functionality.
+
+
+
+
+
+
+organizes and participates in walkthrough reviews of all technical specifications, programs and unit test plans.
+
+
+
+
+ 
+
+
+coding, testing & documentation
+
+
+
+
+develops, codes, documents and executes unit test, system, integration and acceptance test using different languages and testing tools for functions of high complexity.
+
+
+ensures adequate technical documentation and training.
+
+
+
+
+ 
+
+
+planning, implementation & support
+
+
+
+
+manages joint development, testing and plans and co-ordinates implementations
+
+
+performs database/disaster recovery for entire system in different situations.
+
+
+
+
+
+
+performs performance tuning to improve performance over multiple functions.
+
+
+
+
+
+
+provides on-call support of applications, database, etc. particularly more complex situations.
+
+
+
+
+ 
+
+
+relationships & communication 
+
+
+
+
+prepares and delivers presentations to business and technology partners and senior management, selecting the appropriate approach based on the audience. 
+
+
+facilitates small to large group meetings for technical design, decision making, problem solving and task implementation.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+
+
+ 
+
+
+ 
+
+
+position requirements
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+expert in java and spring
+
+
+
+
+
+
+proficiency in sql, data modeling, database technology (pref. oracle)
+
+
+experience with xml and jms messaging
+
+
+experience with j2ee technologies/containers (e.g. jboss/websphere)
+
+
+experience with application clustering and designing for high availability preferred.
+
+
+experience with high volume transaction based systems preferred.
+
+
+it standards and methodologies
+
+
+
+
+ 
+
+
+behavioral competencies
+ 
+
+
+
+
+analytical thinking
+
+
+business acumen
+
+
+customer insight
+
+
+dealing with ambiguity
+
+
+teamwork & cooperation
+
+
+
+
+ 
+
+
+education/experience 
+(to enter position)
+
+
+
+
+undergraduate degree in business, computer science, finance  or any other relevant discipline
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+different testing tools (e.g. expediter, file-aid)
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools (e.g. rational rose).
+
+
+
+
+
+
+communication skills
+
+
+
+
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+capital market operations
+
+
+derivative product knowledge
+
+
+trade lifecycle
+
+
+
+
+ 
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington street w.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+03/24/2015
+ 
+
+
+req id:
+  
+82127
+
+
+posting notes:  
+n/a
+
+
+ 
+
+
+ 
+
+

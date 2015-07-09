@@ -1,0 +1,275 @@
+Title:Technical Systems Analyst – Compliance Technology
+Location:Toronto, ON, CA
+Date Posted:2015-06-27
+URL:https://jobs.rbc.com/job/Toronto-Technical-Systems-Analyst-Compliance-Technology-ON/245418700/
+-------------------------------------------
+key accountabilities
+
+
+technical analysis, design & planning
+
+
+
+
+works with business analysts to devise optimal it solutions.
+
+
+assesses, researches, and analyzes business and system needs, exploring alternative options to recommend technology solutions and designs that meet sponsor needs
+
+
+produces detailed designs for systems and components, identifying, tracking and resolving technical issues while accounting for component reusability, data sharing and security.
+
+
+works with development lead to provide detailed breakdowns and effort estimates of analysis, development and deployment work required to meet project requirements and timelines.
+
+
+contributes to successful project completion by identifying risks and developing/recommending mitigating strategies.
+
+
+understands and adheres to security and process controls to ensure secure handling of confidential data.  quickly escalates risks or gaps detected in controls to manager
+
+
+works with infrastructure groups facilitate the configuration and implementation of required hardware, software and network resources.
+
+
+investigates causes of production incidents with appropriate urgency. collaborates with production support groups to identify the relevant aspects of the incident context.  works to reproduce the issues, and validate solutions, in test environments. provides regular updates on investigation/resolution status.
+
+
+
+
+coding, testing & documentation
+
+
+
+
+implements and maintains automated unit and integration tests as an integral part of development work.
+
+
+works closely with qa team to ensure high quality of the product
+
+
+ensures adequate technical documentation and follows ‘best practices’ within the it teams
+
+
+performs design and code reviews and prepares technical documentation
+
+
+designs and executes and documents performance/load tests implemented components as needed
+
+
+designs and implements complex job scheduling for multi-region etl processing. 
+
+
+implements etl and data analysis models using c#, stored procedures, microsoft ssis and vendor frameworks as appropriate.
+
+
+designs reports and solutions of a medium complexity.
+
+
+implements unix scripts using standard shell utilities that reliable and easy to support and maintain
+
+
+develops and supports dynamic, data driven, web-based applications with the microsoft .net 4  framework
+
+
+correctly leverages distributed authentication technologies and role based authorization models
+
+
+
+
+ 
+
+
+core competencies / skills:
+
+
+technical
+
+
+
+
+expertise in database design and tuning
+
+
+database programming skills with experience r microsoft sql server 2008-2012 or sybase 15.x platforms
+
+
+solid understanding of the sdlc process / methodologies, relational database concepts, object-oriented techniques, user interface principles
+
+
+experience developing, maintaining, and deploying enterprise scale applications
+
+
+experience using business requirements  to produce designs both logical and physical
+
+
+able to implement software engineering best practices for version control, release management, unit and integration and planning
+
+
+able to quickly contribute quality designs and code on multiple aspects of the platform.
+
+
+programming experience with c#, java, unix shell scripting and perl
+
+
+experience with subversion, git or equivalent version control tools.
+
+
+experience with asp.net 2.0, asp.net mvc, webapi, ado.net, javascript, html, xml, ajax, iis server
+
+
+experience integrating with soap and rest web services
+
+
+familiarity with windows installer
+
+
+experience creating complex reports with ssrs
+
+
+
+
+business, relationships & communication
+
+
+
+
+good communication skills both verbal and written
+
+
+works collaboratively to resolve conflicts/issues but escalates as necessary.
+
+
+quick learner and someone who understands the ‘big picture’
+
+
+knowledge of capital markets products and data is an asset
+
+
+knowledge of financial industry
+
+
+
+
+core behaviors
+
+
+
+
+maintains client expectation without sacrificing deadlines and quality
+
+
+coordinates and manages multiple tasks and priorities (sometimes competing), while still producing high quality results.
+
+
+copes with change and ambiguity while ensuring all effort to make sure that there is cooperation and teamwork.
+
+
+consistently maintains a positive ‘can-do’ attitude and inspires others to excel.
+
+
+able to work after hours, or on weekends, as needed, to support production implementations and assist as an escalation contact for production incidents
+
+
+abides by the rbc code of conduct.
+
+
+
+
+ 
+
+
+education:   
+ undergraduate degree.  concentrations in computing science, applied mathematics or electrical engineering preferred.
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+02/24/2015
+ 
+
+
+req id:
+  
+82999
+
+
+posting notes:  
+none
+
+

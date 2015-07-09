@@ -1,0 +1,187 @@
+Title:Business Analyst
+Location:New York, NY, US
+Date Posted:2015-06-04
+URL:https://jobs.rbc.com/job/New-York-Business-Analyst-NY/271641700/
+-------------------------------------------
+purpose
+
+
+the   of this role is to perform business analysis for sales/dcm/credit applications and provide proactive support for front office trading and sales teams, middle office, specifically in fixed income credit products. the primary responsibility is to ensure the continued availability, effectiveness and accuracy of the production systems. they will also be working within the problem and incident management framework and be proactive in realizing maximum value from them through continuous technical and business process improvement.
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+
+
+provide end user and operational support for credit / sales/ dcm applications system; functionally includes trade capture, pricing, risk management, reporting.
+
+
+taking an active role in supporting all production systems, log issues into jira, prioritize, resolve, escalate (where required) and own all support issues through to resolution.
+
+
+assist with release management process. run with post release checkouts and user training to ensure user group is aware of new enhancements/changes and get their feedback.
+
+
+fulfill incident and problem management tasks to mitigate, remedy and prevent recurrences of outages.
+
+
+ensure logging of support incidents, hold problem review meetings (prms) and track action items to closure.
+
+
+provide regular updates and status to all stakeholders on open issues.
+
+
+ensures systems delivered to production environments meet enterprise quality requirements. facilitate rollout of software components in production.
+
+
+document processes and procedures for applications.
+
+
+assist with on-boarding for new businesses / applications.
+
+
+work with development/application teams to integrate new applications and maintain existing.
+
+
+assist in improvement of qa. 
+
+
+
+
+ 
+
+
+required skills:
+
+
+ 
+
+
+
+
+7 years of experience in it. minimum 5 years experience in financial industry.
+
+
+prior in depth experience in implementing and supporting large-scale production systems.
+
+
+knowledge of fixed income trading activities (trade capture, pricing, ecommerce & stp), and knowledge of applications such as bloomberg toms, isynd, market axess, espeed, btec is highly desirable. understanding trade allocations feeds (oasys)
+
+
+strong technical skills on unix and windows and understanding of itil processes.
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+new york
+ 
+
+
+address:
+  
+200 vesey street
+ 
+
+
+work hours/week:
+  
+40
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+regular - u.s.
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+required travel:
+  
+0
+ 
+
+
+exempt/non-exempt:
+  
+exempt
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+08/05/2015
+ 
+
+
+req id:
+  
+91163
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

@@ -1,0 +1,411 @@
+Title:Senior Business Analyst – Reference Data
+Location:Toronto, ON, CA
+Date Posted:2015-06-08
+URL:https://jobs.rbc.com/job/Toronto-Senior-Business-Analyst-Reference-Data-ON/235161300/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+the shared services team is in the process of building and maintaining various “golden copy” data services for trade, position, client, issuer, counterparty, security, book and people reference data. in addition, the team has various data centric projects either in development or planned, that will leverage this consolidated data infrastructure. this position is specifically dedicated across book data repository (bdr) and securities repository (srdr) hereafter referred to as xdr
+
+
+ 
+
+
+book data repository (bdr) is the authoritative store for capital markets trading books and related information.
+
+
+ 
+
+
+srdr serves as the firm's reference data repository for fungible products spanning equities, derivatives and fixed income from multiple data vendors, external (bloomberg, reuters, moody's, s&p, edi) and internal. srdr sources the data, transforms it into common normalized data structures and distributes to applications enterprise wide.
+
+
+ 
+
+
+this is a senior business analysis role in the xdr team.
+
+
+ 
+
+
+you will report to the business analysis lead for xdr.
+
+
+ 
+
+
+the successful applicant will take a role in the development and enhancement of the reference data platforms. the candidate's responsibilities will be hands on business, data and technical analysis.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles. must understand rbc vision and reinforce behaviour that contributes to rbc goals.
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+business & qa analysis 
+
+
+
+
+ensure that all requirements are fully analysed and written up with sufficient detail for the development team.
+
+
+review test plans, validate test cases with users and development team.
+
+
+responsible for all interactions & communications with relevant stakeholders.
+
+
+work with end users and operations to gather requirements, articulate and document these requirements.
+
+
+define and translate business requirements into technical analysis and functional specifications documents for developers and qa.
+
+
+complete data analysis to corroborate with business analysis.
+
+
+analyse new sources of data, data feeds, attributes for processing.
+
+
+analyse ongoing data changes, impact on application and defines solution for developers to implement.
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+work in an open and collaborative development environment
+
+
+interacts with business stakeholders as required
+
+
+manage mid level stakeholders across multiple business groups and operations.
+
+
+works with project management to adhere to schedule and scope
+
+
+facilitates group meetings for analysis and problem solving
+
+
+
+
+ 
+
+
+job specifications
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+university degree. preferably business degree or bsc.
+
+
+10 + years hands on analysis experience in high pressure environment.
+
+
+proven experience and expertise in reference data builds at tier 1 banks or data providers.
+
+
+proven experience in working on onshore-offshore model.
+
+
+
+
+ 
+
+
+process knowledge
+
+
+
+
+communication and negotiation skills.
+
+
+presentation and facilitation skills.
+
+
+
+
+ 
+
+
+business knowledge
+
+
+
+
+broad understanding of capital markets.
+
+
+expertise in securities reference data.
+
+
+past experience in back office / middle office  preferable.
+
+
+prior banking experience.
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+proven expertise in data mining like sql.
+
+
+software development life-cycle knowledge
+
+
+excellent understanding of data representation and modeling including xml and related technologies.
+
+
+database logical modeling and data mapping
+
+
+
+
+ 
+
+
+
+
+must have 
+
+
+
+
+sql (data mining)
+
+
+capital markets or investment banking
+
+
+data domain experience
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+nice to have 
+
+
+
+
+jira, confluence.
+
+
+
+
+
+
+
+
+key relationships 
+
+
+
+
+communicates effectively and builds rapport with peer groups across other application development and operations teams.
+
+
+works with project manager, development manager within team to complete analysis on time.
+
+
+works with stakeholders to understand requirements.
+
+
+interacts with users as required to gather requirements and manage expectations as required.
+
+
+
+
+ 
+
+
+behavioural competencies
+
+
+ 
+
+
+
+
+achievement motivation
+
+
+
+
+·out of the box thinking
+
+
+
+
+dealing with ambiguity
+
+
+teamwork & cooperation
+
+
+analytical thinking
+
+
+
+
+working conditions 
+
+
+
+
+minimal travel but should be open to travel if required by business
+
+
+role requires work in high pressure situations.
+
+
+
+
+time allocation
+
+
+60%
+ of the time is spent on actively analysing data, business requirements,  technical specifications, test case preparation and testing.
+
+
+25%
+ of time working with the pm, developers, users, stakeholders to make sure all requirements are understood.
+
+
+15
+% developing best practices and ba capabilities within the team
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington street w
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salary + variable bonus
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+04/17/2015
+ 
+
+
+req id:
+  
+79506
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

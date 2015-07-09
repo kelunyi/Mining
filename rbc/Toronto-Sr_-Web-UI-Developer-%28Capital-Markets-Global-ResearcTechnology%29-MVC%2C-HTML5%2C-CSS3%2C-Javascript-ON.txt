@@ -1,0 +1,247 @@
+Title:Sr. ASP.NET/ Web API / MVC Developer (Capital Markets Global Research) Kendo UI, HTML5, CSS3
+Location:Toronto, ON, CA
+Date Posted:2015-06-01
+URL:https://jobs.rbc.com/job/Toronto-Sr_-Web-UI-Developer-%28Capital-Markets-Global-ResearcTechnology%29-MVC%2C-HTML5%2C-CSS3%2C-Javascript-ON/270743300/
+-------------------------------------------
+key accountabilities
+
+
+
+
+development and coding:
+
+
+
+
+using different techniques and tools, designs technical solutions that meet business requirements and project life cycle deliverables including component reusability, data sharing and security while complying to the standards and process used at rbc 
+
+
+follow proper software development life cycle approach; generate good time estimates and work to meet the projected schedules 
+
+
+support, maintain and debug existing applications 
+
+
+proactive involvement in the development, enhancement and ongoing maintenance of various data centric reporting solutions, .net web applications and web sites 
+
+
+develop, code, and document additional modules and interfaces to existing applications 
+
+
+provide estimates on activities/tasks required to perform design, coding and unit testing, improving accuracy over time 
+
+
+write unit test plans and provide coordination and support of testing using different tools 
+
+
+complete technical documentation and training material 
+
+
+
+
+
+
+implementation & support:
+
+
+
+
+provides input to dba to create and maintain database structures for the database servers (sql server 2008 r2) 
+
+
+coordinates implementation planning and execution 
+
+
+performs application & database disaster recovery testing 
+
+
+coordinates and perform performance tuning to maintain overall application stability 
+
+
+provides on-call support of applications and databases 
+
+
+
+
+
+
+core behaviors:
+
+
+
+
+self-managed and results-oriented with sense of ownership 
+
+
+excellent oral and written communication skills 
+
+
+organizational skills needed to handle multiple, parallel assignments 
+
+
+effective in a team setting as well as in individual capacity 
+
+
+able to collaborate with different business/user groups and technology teams 
+
+
+hardworking, dedicated and responsible 
+
+
+
+
+ 
+
+
+
+
+knowledge/experience
+
+
+
+
+technical knowledge
+
+
+
+
+minimum of 5 years professional experience in software development with responsibilities in .net web application development and database development 
+
+
+minimum of 5 years of experience with c# .net development, asp.net web forms, asp.net mvc, entity framework
+
+
+minimum of 5 years of experience with databse design/modeling/programming (sql server)
+
+
+minimum of 3 years of experience with client side scripting and web technologies (jquery, javascript, html5, css3, angular js. knockout or backbone)
+
+
+minimum of 3 years of experience with telerik/kendo ui controls.
+
+
+mobile app development (ios, android, blackberry) is an asset
+
+
+experience with sql server integration services (ssis), sql server reporting services (ssrs), sql server analysis services (ssas) is an asset. 
+
+
+knowledge of cube design/olap/mdx is an asset
+
+
+solid knowledge of microsoft .net frameworks 2.0/3.5/4.0/4.5 and visual studio 2008/2010/2012 .net development environments 
+
+
+solid knowledge of web services, xml, webapi and wcf 
+
+
+excellent analytical and problem solving skills 
+
+
+strong interpersonal skills, teamwork experience 
+
+
+
+
+
+
+business knowledge
+
+
+
+
+previous experience with capital markets environment an asset
+
+
+
+
+*li-as2
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington street w.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+06/26/2015
+ 
+
+
+req id:
+  
+90822
+
+
+posting notes:  
+n/a
+
+

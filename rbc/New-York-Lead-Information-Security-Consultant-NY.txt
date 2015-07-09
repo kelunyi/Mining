@@ -1,0 +1,430 @@
+Title:Lead Information Security Consultant
+Location:New York, NY, US
+Date Posted:2015-06-25
+URL:https://jobs.rbc.com/job/New-York-Lead-Information-Security-Consultant-NY/275941200/
+-------------------------------------------
+purpose:
+
+
+it risk and security – security consulting provides it security consulting and risk assessment services that are business aligned and enablers to the delivery of secure solutions. this position provides leadership and execution in the area of it security risk assessment services supporting the global rbc business and infrastructure team.
+
+
+ 
+
+
+the position provides security and risk process leadership to assess and recommend protections for the global rbc business, application and infrastructure team across the enterprise. provides security expertise and leadership in the domains of risk assessment and consulting on appropriate controls and solutions for security issues. provides leadership on process improvement and other project initiatives for the team in conjunction with other stakeholders
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+provide expert leadership in conjunction with governance and control functions  to drive it risk and security maturity improvements across the organization, in line with the changing threat landscape, regulatory and compliance requirements etc
+
+
+provide security and it risk consulting services to project teams and their business units to assist in their security design in order to identify and address potential risks. review the security issues and identify  the appropriate controls to mitigate these risks
+
+
+preparation of security & it risk assessments of applications, infrastructure and suppliers including site visits as required
+
+
+participation in other risk review processes including privacy impact assessments, integrated risk profiles, and risk control self assessments as required
+
+
+assist in the review and approval of it risk issues and related action plans, and also risk acceptances where applicable
+
+
+provide support to other consultants through mentoring and peer reviews of work products as required
+
+
+interfaces and builds key relationships with security architects and other lead architects to ensure seamless project delivery with an enterprise coverage scope
+
+
+lead the delivery of the 3 year application and supplier security assessment roadmaps.
+
+
+drive the implementation of strategic improvements to it risk assessment processes with the definition of key controls, testing objectives and ongoing monitoring of the key controls
+
+
+define key control requirements, control testing objectives & conduct regular key control monitoring for risk assessment processes
+
+
+conduct ongoing measurement and evaluation of the effectiveness of the security control assessment capabilities implemented, and drive the development and execution of appropriate plans to significantly improve lower performance and ineffective practices
+
+
+assist in the development and tuning of security policies and standards that will drive an appropriate baseline security posture with incremental improvements over time.
+
+
+leads the delivery of thematic/systemic issue analysis and identifies technical and business opportunities to take advantage of cross project knowledge, best practices and reusability to expedite projects
+
+
+provide depth of expertise, skills, source of knowledge on current & emerging security domains
+
+
+act as a point of escalation for security investigations and incidents when required to provide guidance and oversight on incident resolution and containment techniques
+
+
+interface into business units to bring business context to security topics / issues, as needed
+
+
+provides leadership for successful project completion by identifying risks and developing/recommending mitigation strategies.
+
+
+ 
+
+
+ 
+
+
+project planning & execution
+
+
+ 
+
+
+provides leadership, direction and guidance for requirements gathering and scope definition for the projects
+
+
+provide leadership and direction to the project team, including 3rd party suppliers, contingent workers and internal staff.
+
+
+provides recommendation for best solutions based on understanding of business requirement, needs and challenges
+
+
+ 
+
+
+relationships & communication
+
+
+leads complex group meetings (including business partners) for security design, decision making, problem solving, implementation and strategic planning.
+
+
+prepares and delivers presentations to business and technology partners, senior management and executives selecting the appropriate approach based on the audience.
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+provides superior client experience and strengthens relationships with business partners
+
+
+collaborates with colleagues across the organization to get things done
+
+
+manages project communications including status reports to executives, stakeholders, business units, vendors, project team etc.
+
+
+provides senior management with timely updates on project issues
+
+
+may utilize single vendor/3rd party (consultants, offshoring, outsourcing) of known capacity and manages the relationship at the project level
+
+
+ 
+
+
+development & coaching
+
+
+provides direction, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+support ongoing cyber talent management, including talent aquisition, development and skills enhancement.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems
+
+
+ 
+
+
+position requirements/specifications
+
+
+ 
+
+
+ 
+
+
+education/experience (to enter position)
+
+
+ 
+
+
+depth of skills and experience - information security, system and network security
+
+
+professional with experience on security consulting, designing and delivering large projects/programs
+
+
+iso 27002, nist 800 series, cobit control framework
+
+
+5-8 years information security, risk assessment
+
+
+3-5 years security governance and controls governance
+
+
+3-5 years security consulting experience
+
+
+ 
+
+
+process knowledge
+
+
+ 
+
+
+risk assessment & quantification
+
+
+conflicts and issues resolution and escalation
+
+
+strong communication skills
+
+
+strong facilitation skills
+
+
+strong presentation skills
+
+
+conflicts and issues resolution and escalation
+
+
+strong negotiation skills
+
+
+ 
+
+
+business knowledge
+
+
+business line(s)’ business strategy, needs and technology
+
+
+ 
+
+
+systems knowledge
+
+
+knowledge of enterprise security solutions and services
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+ 
+
+
+people management knowledge
+
+
+rbc hr philosophy, principles, direction, policies & guidelines
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+may have to manage staff… dependent on portfolio
+
+
+ 
+
+
+ 
+
+
+how time will be allocated (percent)
+
+
+ 
+
+
+ 
+
+
+security assessment execution and governance– 50%
+
+
+security consultation – 20%
+
+
+security assessment planning, design and capability maturity improvements – 30%
+
+
+ 
+
+
+key organization relationships
+
+
+ 
+
+
+ 
+
+
+reports to:  director – security consulting
+
+
+ 
+
+
+technology partners:  it risk cog, gti security engineering, soc, t&o developers, application and infrastructure teams
+
+
+ 
+
+
+business partners: other cogs, operational risk, all rbc business, infrastructure and application areas, 3rd parties
+
+
+ 
+
+
+authorities, impact, risk
+
+
+ 
+
+
+ 
+
+
+scope, complexity & risk: varying scope, medium to complex projects, risk will vary by project 
+
+
+sizing: small to very large projects
+
+
+impact: global
+
+
+ 
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+new york
+ 
+
+
+address:
+  
+3 world financial center - 200 vesey st
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/20/2015
+ 
+
+
+req id:
+  
+92508
+
+
+posting notes:  
+none
+
+

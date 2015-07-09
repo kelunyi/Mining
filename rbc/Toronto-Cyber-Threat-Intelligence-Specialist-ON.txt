@@ -1,0 +1,436 @@
+Title:Cyber Threat Intelligence Specialist
+Location:Toronto, ON, CA
+Date Posted:2015-06-25
+URL:https://jobs.rbc.com/job/Toronto-Cyber-Threat-Intelligence-Specialist-ON/256981500/
+-------------------------------------------
+purpose:
+
+
+it risk and security – information security provides it security consulting for global security services that are business aligned and enablers to the delivery of secure solutions. this position provides leadership and execution in the area of it security for security services leveraged by the global rbc business and infrastructure team across all enterprise security services.
+
+
+ 
+
+
+the position provides security and technical competence in the area of cyber security for security services designed to provide protection for global rbc business, application and infrastructure teams across the enterprise. provides security expertise and depth of skills in the domains of cyber security and cyber threat intelligence.
+
+
+ 
+
+
+all responsibilities carried out in accordance with code of conduct, rbc values and guiding principles ensuring adherence to privacy principles.
+
+
+ 
+
+
+primary responsibilities:
+
+
+ 
+
+
+cyber security direction and consulting 
+
+
+
+
+provide leadership, guidance and oversight to drive cyber security maturity improvements across the organization, in line with the changing threat landscape, regulatory and compliance requirements etc
+
+
+provide subject matter expertise, technical deliverables oversight of strategic cyber projects and initiatives to enhance and improve cyber threat intelligence capabilities and maturity
+
+
+conduct regular key control assessments for technologies and services implemented
+
+
+measure the effectiveness of the cyber hunting capabilities to ensure appropriate plans are in place to address lower performance and ineffective practices
+
+
+partner with information security operations to provide leadership and support in the areas of threat analysis, cyber defense techniques and approaches
+
+
+support the delivery of the 3 year cyber security roadmap to maintain and optimize the cyber threat intelligence capability.
+
+
+provide depth of expertise, skills, source of knowledge on current & emerging cyber issues, attack methods, threat response and mitigation techniques
+
+
+act as a point of escalation for security investigations and incidents to provide guidance and oversight on incident resolution and containment techniques
+
+
+interface into business units to bring business context to cyber security threat management practices, security controls and threat reporting etc, as needed
+
+
+provide security consulting to various areas in the bank on cyber security topics as needed
+
+
+further develop and enhance relationships with other lines of business to form a cohesive, cross functional cyber security and threat management approach to protecting bank assets.
+
+
+lead the enhancement and optimization of implemented reporting mechanisms to demonstrate the value of the cyber intelligence function with tangible benefits
+
+
+maintain and optimize information / cyber security policies and standards that will drive a baseline security posture with incremental improvements over time.
+
+
+liaison for external intelligence agencies and law enforcement leads consulting and subject matter expert engagement for enterprise security services
+
+
+identifies technical and business opportunities to take advantage of cross project knowledge, best practices and reusability to expedite projects. 
+
+
+
+
+project planning & execution
+
+
+
+
+provides direction and guidance for requirements gathering and scope definition for the projects
+
+
+provide leadership and direction to the project team, including 3rd party suppliers, contingent workers and internal staff.
+
+
+provides recommendation for best solutions based on understanding of business requirement, needs and challenges
+
+
+identifies resources and skills required
+
+
+anticipates operational and some tactical risks and works with the project team to mitigate
+
+
+raises and tracks issues and conflicts, removes barriers, resolves minor   project issues and escalates to immediate manager where required
+
+
+manages issues and problem resolution when required
+
+
+seeks clarity in business requirements or escalates as appropriate
+
+
+promotes innovative or improved methods to get the work done and implements best practices
+
+
+
+
+ 
+
+
+relationships & communication
+
+
+
+
+effectively communicates and builds rapport with team members, stakeholders and interface groups using a variety of techniques and collaboration from initiation to close.
+
+
+leads complex group meetings (including business partners) for technical design, decision making, problem solving, implementation and strategic planning.
+
+
+resolves conflicts/issues and escalates others as appropriate.
+
+
+provides superior client experience and strengthens relationships with business partners
+
+
+collaborates with colleagues across the organization to get things done
+
+
+manages project communications including status reports to executives, stakeholders, business units, vendors, project team etc.
+
+
+provides senior management with timely updates on project issues
+
+
+may utilize single vendor/3rd party (consultants, offshoring, outsourcing) of known capacity and manages the relationship at the project level
+
+
+
+
+ 
+
+
+development & coaching
+
+
+
+
+provides guidance, expertise, feedback, coaching and development to build the capability of more junior staff.
+
+
+continually enhances skills and builds knowledge in all aspects of the organization, the business and information systems.
+
+
+
+
+how time will be allocated (percent)
+
+
+ 
+
+
+cyber intelligence – 70%
+
+
+security consultation – 10%
+
+
+security planning and design – 10%
+
+
+policies, standards, control objectives  – 10%
+
+
+ 
+
+
+education/experience
+ 
+(to enter position)
+
+
+
+
+professional with experience on large projects/programs with multiple applications with multiple interfaces and/or 3rd parties 
+
+
+
+
+skills & experience:
+
+
+
+
+intelligence collection: activities related to identification, onboarding, and continuous management of various external and internal sources of cyber threat intelligence.
+
+
+intelligence onboarding and processing: these activities include intelligence enrichment, parsing and business context development that helps the business identify the key areas where the organization or individual lines of business can be affected by cyber threats.
+
+
+identifying and tracking high risk cyber threat scenarios that can impact the business, senior executives and the board.
+
+
+experience leveraging: “private intelligence groups and relationships, contact points into other organizations threat & vulnerability detections, contacts and relationships that can leverage “shared” forms of threat intelligence sources and feeds.
+
+
+delivering threat intelligence reporting – executive summaries, technical analyst briefings,  metrics for areas of most concern to the business etc
+
+
+delivering threat intelligence metrics and key risk indicators (kri’s)
+
+
+enhancing incident detection by applying and integrating threat intelligence to security operations monitoring.
+
+
+detect incidents that would otherwise be missed by having more timely and actionable intelligence information that can provide advanced warning about impending cyber attacks.
+
+
+speed up security incident response by understanding, classifying and countering threats, and minimizing impacts from incidents.
+
+
+speed up security incident response methods by understanding, classifying and providing recommendations on countering threats to minimize impacts from incidents.
+
+
+providing guidance and support for remediation priority of vulnerabilities and control weaknesses based on threat-targeted information.
+
+
+providing threat specific advisory and guidance during remediation process.
+
+
+providing input into the identification and management of internal threat use cases and correlation opportunities and assist in defining use cases for advanced security monitoring and analytics.
+
+
+provide threat research and intelligence information resulting in situational awareness across industries, criminal techniques, exploits and vulnerabilities.
+
+
+extensive experience in the acquisition and integration of appropriate intelligence sources.
+
+
+collecting intelligence information related to threat scenarios and targeted assets, in addition to any emerging threat scenarios which the threat model would need to consider, by leveraging existing intelligence sources in the form of existing external cyber threat intelligence feeds, as well as internal sources such as soc situation awareness outputs and vulnerability management programs.
+
+
+experience conducting threat research that is relevant to financial services industry and providing threat intelligence that is specific to the financial industry.  this includes filtering, processing, tracking and reporting on threat intelligence specific to the business from external sources as well as collecting the most relevant intelligence.
+
+
+integration with detective and preventive controls - experience with security operations to provide actionable course of actions and integrate intelligence into siem platforms and other security technologies.
+
+
+
+
+ 
+
+
+ 
+
+
+process knowledge
+
+
+
+
+applicability of different testing tools
+
+
+different design techniques (e.g. oo. top-down, structured analysis, component-based design) and tools
+
+
+
+
+
+
+communication skills
+
+
+
+
+
+
+facilitation skills
+
+
+presentation skills
+
+
+risk assessment & quantification methodologies
+
+
+conflicts and issues resolution and escalation
+
+
+
+
+business knowledge
+
+
+
+
+business line(s)’ business strategy, needs and technology
+
+
+desktop and email security
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+
+
+design and deployment of enterprise cyber threat intelligence capabilities and services
+
+
+
+
+
+
+it standards, methodologies, cmm & audit requirements
+
+
+
+
+ 
+
+
+people management knowledge
+
+
+
+
+rbc hr philosophy, principles, direction, policies & guidelines
+
+
+talent management process (recruitment/selection, performance management, performance development/coaching, reward/ recognition)
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+88 queens quay west
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+yes
+ 
+
+
+job posting end date:
+  
+06/27/2015
+ 
+
+
+req id:
+  
+86702
+
+
+posting notes:  
+none
+
+
+ 
+
+
+ 
+
+

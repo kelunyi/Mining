@@ -1,0 +1,342 @@
+Title:ASP. Net/SQL Application Developer/Technical Analyst
+Location:Toronto, ON, CA
+Date Posted:2015-06-25
+URL:https://jobs.rbc.com/job/Toronto-ASP_-NetSQL-Application-DeveloperTechnical-Analyst-ON/275967200/
+-------------------------------------------
+purpose
+
+
+ 
+
+
+
+
+this is a position for a self-directed and experienced programmer with completely developed skills in asp.net, c# and sql who, in collaboration with a team of similar programmers in the automated compliance solutions (acs) group, will create web-based applications and solutions to help meet global compliance goals.
+
+
+acs designs and builds web-based technology solutions for a variety of end users in our own server environment, with a focus on design and build in a very rapid application development environment, with a goal of moving from concept to basic design to prototyping and production, in as little as 2-3 months, and in some cases, even less time.
+
+
+applicants need to be prepared to work in an unstructured environment, with the expectation that they can work independently, and from scratch in some cases, on projects where they will have almost the sole responsibility for design and build with design and feature changes happening in an interactive process throughout the build cycle with other members of acs including the business analyst who represents the client and their business needs.
+
+
+there is a lot of potential for the right applicant to learn a great deal for both the business and programming sides, but it also means high expectations to be able to work without a lot of supervision and to be able to contribute your own ideas as part of the development process, find and recommend bug fixes or feature improvements as discovered and to be able to present weekly progress for the deliverables including any new or better ideas from the programmers own point of view.
+
+
+
+
+ 
+
+
+who we are looking for:
+
+
+ 
+
+
+we are looking for programmers who have these credentials to accomplish our mission:
+
+
+
+
+expert in microsoft. net (c#, asp.net), html, css, javascript, including jquery and/or linq. expert in the use of structured query language. (sql server, db2, teradata, oracle) and in process automation in a (very) rapid application development (rad) setting.
+
+
+we currently do not use mvc but even though we will likely move to mvc in the future, the applicant must have a high skill level in asp.net now, either in addition to mvc or instead of mvc.
+
+
+web applications we build will often have a lot of data or complex data structures and applicants must be experts in the use of sql to support these applications. there are no separate dbas creating the back end data structures, so you must be accomplished in database design as much as your asp.net programming.
+
+
+in addition, experience with microsoft access/excel/sharepoint, including creating end user computer tools using sharepoint, access forms or excel macros/vba is useful.
+
+
+we screen applicants through a telephone and in person interview process including a verbal test on advanced asp.net, c# and sql terms and processes, and a written test on sql query structure. only applicants who pass initial screening will move on to a personal interview.
+
+
+
+
+ 
+
+
+primary responsibilities
+
+
+ 
+
+
+application development and support:
+
+
+ 
+
+
+
+
+responsible for internal compliance applications development.
+
+
+work with acs business analysts to understand and requirements, create mock ups and usable user interfaces.
+
+
+ability to estimate work efforts for application development projects and to take responsibility for  project timelines and advise of deviations promptly.
+
+
+support and troubleshoot the availability of applications, services, and servers.
+
+
+participate in various phases of testing cycle to ensure highest quality deliverable.
+
+
+set the priority of the various application support projects to meet the business needs.
+
+
+
+
+ 
+
+
+business technical analysis
+
+
+ 
+
+
+
+
+understand and contribute in the detailed requirement phases and with identifying, tracking, escalating and/or resolving business systems issues.
+
+
+experienced in working in a rapid application development environment.
+
+
+recommend business solutions that will help satisfy sponsor/stakeholder needs continually by exploring and assessing options for value-add for clients.
+
+
+assist with training and write understandable user documentation for the applications.
+
+
+
+
+ 
+
+
+job specifications
+
+
+ 
+
+
+education / experience (to enter position)
+
+
+ 
+
+
+
+
+professional with experience providing technical solutions to business challenges using the programming tools and languages specified.
+
+
+3-5+ years working with asp.net, c#, and sql , plus any other application development skills for web application design and development.
+
+
+post-secondary education in computer science or related degree is desirable which may include non-degree programming courses in colleges, however unless you have several years in programming as well, this is not likely to be a position for recent graduates if that is your sole experience in application programming.
+
+
+
+
+ 
+
+
+systems knowledge
+
+
+ 
+
+
+
+
+expert in microsoft. net (c#, asp.net).
+
+
+expert knowledge of html, css, javascript, and jquery.
+
+
+expert in microsoft access/excel/sharepoint, include creating end user computer tools using sharepoint, access forms or excel macro.
+
+
+expert in structured query language. (sql server, db2, teradata, oracle).
+
+
+experience in developing applications which create more efficient process automation.
+
+
+business intelligence report design/development experience.
+
+
+relevant experience related to aml technology is not required but useful.
+
+
+experience in iis / apache web server and database server maintenance.
+
+
+
+
+ 
+
+
+process knowledge
+
+
+ 
+
+
+
+
+lead individual projects to oversee technical requirements, ensure alignment across projects and build end user computing applications.
+
+
+understanding of business process modelling.
+
+
+knowledge of quality control processes and requirements.
+
+
+ability to do cost / benefit analysis and identification of alternative solutions to address the challenge.
+
+
+communication skills.
+
+
+facilitation and presentation skills.
+
+
+experience with risk assessment processes and methods of quantifying risk
+
+
+conflict and issue resolution and escalation.
+
+
+
+
+ 
+
+
+business knowledge
+
+
+ 
+
+
+
+
+business lines’ applications and processes.
+
+
+rbc global compliance or financial industry compliance knowledge and an understanding of aml concepts would be useful but it is not mandatory.
+
+
+
+
+ 
+
+
+diversity and equal opportunity employment:
+
+rbc is an equal opportunity employer committed to diversity and inclusion. we are pleased to consider all qualified applicants for employment without regard to race, color, religion, sex, 
+sexual orientation, gender identity, 
+national origin, age, disability, protected veterans status or any other legally-protected factors.
+
+
+ 
+
+
+join our talent community
+
+want to be in-the-know about great career opportunities at rbc? it's easy! 
+join our talent community
+ and get the inside scoop on jobs, career paths, recruitment events, and more!
+
+
+ 
+
+
+job summary
+
+
+city:
+  
+toronto
+ 
+
+
+address:
+  
+155 wellington st. w.
+ 
+
+
+work hours/week:
+  
+37.5
+ 
+
+
+work environment:
+  
+office
+ 
+
+
+employment type:
+  
+permanent
+ 
+
+
+career level:
+  
+experienced hire/professional
+ 
+
+
+pay type:
+  
+salaried
+ 
+
+
+required travel:
+  
+0-25
+ 
+
+
+exempt/non-exempt:
+  
+n/a
+ 
+
+
+people manager:
+  
+no
+ 
+
+
+job posting end date:
+  
+07/11/2015
+ 
+
+
+req id:
+  
+92512
+
+
+posting notes:  
+none
+
+

@@ -13,8 +13,8 @@ __author__ = 'Shengnuo'
 
 rbc = RBC()
 scotia = Scotia()
-#scotia.mine_to_database()
-rbc.mine_to_database()
+scotia.mine_to_database()
+#rbc.mine_to_database()
 
 ###################VAIRABLE DECLARATION ENDS##########################33
 

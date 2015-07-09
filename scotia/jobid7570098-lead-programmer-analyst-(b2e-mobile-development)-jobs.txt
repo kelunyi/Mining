@@ -1,3 +1,8 @@
+Title:Lead Programmer Analyst (B2E Mobile Development)
+Location:Scarborough, Ontario, Canada
+Date Posted:2015-05-19
+URL:http://jobs.scotiabank.com/ca/ontario/it/jobid7570098-lead-programmer-analyst-(b2e-mobile-development)-jobs
+-------------------------------------------
 :
 1. manage and participate ‘hands-on’ in the implementation of application systems by analyzing user requirements, providing technical specifications and designs, developing detailed work-plans, scheduling technical resources, monitoring progress against plan and developing/maintaining programs according to standards.  must ensure software, programs and applications developed and/or configured to meet high availability, integrity and reliability requirements.
 2. provide technical expertise, guidance, advice and knowledge transfer to all development staff on all aspects of application development for assigned applications or technology. provide recommendations on departmental standards surrounding systems architecture, application development, systems integration, data modelling, testing, as well as, performing reviews and walkthroughs of all major project deliverables to ensure the quality and completeness of functionality.
